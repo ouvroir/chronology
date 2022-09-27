@@ -1,4 +1,22 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <chronology>
-    
+    <!-- Références pour débuter
+        https://culture-communication.fr/fr/petite-chronologie-du-numerique-dans-les-musees/
+        https://omer.mobi/notes/france-numerique-pour-les-musees-reperes
+        Bezombes, Stéphane, Jean-Pierre Dalbera, Yves Armel Martin, Isabelle Jouve, et François Forge. 2015. « 40 ans de médiations culturelle numérique ». Réciproque. https://www.slideshare.net/Dalbera?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview.
+
+    -->
+    <listEvent>
+        <head>Événements en muséologie</head>
+        <event>
+            <eventName>eee</eventName>
+            <date from="2008-10" to="2008-11"></date>
+            <description>
+                <p></p>
+            </description>
+        </event>
+    </listEvent>
+    <listEvent>
+        <head>Événements historiques</head>
+    </listEvent>
 </chronology>
