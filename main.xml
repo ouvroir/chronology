@@ -12,12 +12,41 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
     -->
     <listEvent>
         <head>Événements en muséologie</head>
-        <event>
-            <eventName>eee</eventName>
-            <date from="2008-10" to="2008-11"></date>
-            <description>
-                <p></p>
-            </description>
+            <head>Les grandes étapes</head>
+    <event></event>
+                <eventName>Premières conceptions d'expositions de type interactif</eventName>
+                <date from="1980" to="1990"></date>
+                <description> Ces expositions d'un genre nouveau apparaissent au sein des musées scientifiques où la démonstration de concepts et d'idées est particulièrement pertinente. Elles restent absentes des musées d'art, où l'exposition des oeuvres ainsi que leur conservation restent les principaux enjeux. Ainsi, ce processus initié par les musées scientifiques marque le début d'une muséeolodie d'idées, dépassant la simple représentation d'artefacts (DAVALLON J. (1992). « Le musée est-il vraiment un média ? », in Publics et Musées, 2, p. 99-123). </description> 
+                    <p></p>
+                <eventName>Période de développement des usages numériques au sein des musées</eventName>
+                <date from="1990" to="2000"></date>
+                <description> L'omniprésence des outils numériques dans la vie quotidienne transforme les codes de l'institution muséale dès les années 1990 avec un développement des outils numériques au sein des musées. La banalisation des ordinateurs dans les musées et les expositions amène les institutions à s'adapter aux innovations technologiques, soit un processus à la fois constant et effréné. </description>
+                    <p></p>
+                <eventName>Remise en question de la place du visiteur</eventName>
+                <date from="2000" to="2010"></date>
+                <description>La place accordée au visiteur est questionnée durant cette période et prend notamment la forme d'initiatives basées sur la participation active de ce dernier au sein du langage muséal. Le visiteur devient acteur et coproducteur de savoir par le biais des outils numériques qui permettent la collecte et l'intégration d'une pluralité de discours. Si ce phénomène émerge à cette période, il connait un développement particulièrement important avec l'arrivée des réseaux sociaux.</description>
+                    <p></p>
+                <eventName>Développement des interfaces naturelles et des expositions immersives</eventName>
+                <date from="2010" to="2020"></date>
+                <description>Le perfectionnement technologique des outils ouvrent de nouvelles portes en matière de muséologie numérique. Désormais, les supports tendent à disparaître derrière des interfaces naturelles où le corps du visiteur est utilisé, permettant de rendre les dispositifs plus spontanées et plus intuitifs. Cette évolution s'accompagne d'une remise en question globale de l'expérience de visite avec l'émergence d'expositions où le visiteur est plongé physiquement et psychiquement au sein d'un univers extra-ordinnaire. Par ailleurs, le développement de la pratique transmédia permet aux institutions de développer un discours muséal cohérent avant, pendant et après la visite, permettant ainsi de prolonger le lien avec le visiteur.</description>
+                    <p></p>
+            <head>Dates</head>
+    <event>
+                <eventName>Premier ordinateur au sein d'un musée </eventName>
+                <date when="1970/72"></date>
+                <description>Le Musée national des arts et traditions populaires est le premier à se doter d'un ordinateur en France. La machine permet alors de "regrouper et d'analyser les multiples informations manipulées par les spécialistes [...] qui tous ensemble travaillent à l'établissement rigoureux des connaissances et de la conservation des sciences humaines".</description> 
+                    <p></p>
+                <eventName>Création de la base de données Joconde par le ministère de la culture français</eventName>
+                <date when="1975"></date>
+                <description>Cette base de données répertorie les peintures conservées au sein des musées français. Elle est notamment complétée en 1978 par la création de la base Arcade, qui comprend les acquisitions d'oeuvres d'art par l'État français, et par la base Mérimée, qui est développée à partir de la documentation de l'inventaire général et de la liste des monuments inscrits et classés.</description>
+                    <p></p>
+                <eventName>Rapport "Nora-Minc" sur l'informatisation de la société</eventName>
+                <date when="1978"></date>
+                <description>Publié par Simon Nora et Alain Minc, ce rapport français porte sur les moyens à employer afin de susciter une réflexion nouvelle sur les moyens de conduire l'informatisation de la société.</description>
+                    <p></p>
+                <eventName>Apparitions successives d'outils numériques au sein des institutions muséales françaises</eventName>
+                <date when="1986"></date>
+                <description>Cette année marque l'installation des premières bornes interactives au sein de la Cité des Sciences et de l'Industrie, la mise en place d'un poste de consultation numérique au Musée d'Orsay ainsi que la création d'un vidéodisque répertoriant 15000 images provenant des collections du Musée d'Art Moderne et des Fonds nationaux et régionaux d'art contemporain, couvrant la période entre 1981 et 1986. </description>
         </event>
     </listEvent>
     <listEvent>
