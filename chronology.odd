@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TEI extension for chronological information</title>
+        <principal>Emmanuel Château-Dutier</principal>
+        <funder from="2021" to="2028">Conseil de recherches en sciences humaines (CRSH)</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Ouvroir d’histoire de l’art et de muséologie numériques</publisher>
+        <publisher>CIÉCO, Partenariat Des nouveaux usages des collections dans les musées d’art</publisher>
+        <date from="2022">2022</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Natively digital file</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <schemaSpec ident="chrono" start="TEI">
+        <moduleRef key="header"/>
+        <moduleRef key="core" include="addrLine address bibl biblScope biblStruct date desc graphic head hi label list listBibl media meeting monogr name note num p postCode ptr pubPlace publisher q quote ref resp respStmt said series street time title unit"/>
+        <moduleRef key="tei"/>
+        <moduleRef key="figures" include="figure"></moduleRef>
+        <moduleRef key="textstructure" include="TEI back body div front text"/>
+        <moduleRef key="namesdate" include="addName affiliation age birth bloc climate country death district education event faith floruit forename genName geo geogFeat geogName langKnowledge langKnown listEvent listNym listObject listOrg listPerson listPlace listRelation location nameLink nationality nym object objectIdentifier objectName occupation offset org orgName persName persPronouns person personGrp persona place placeName population region relation residence roleName settlement sex socecStatus state surname terrain trait"/>
+      </schemaSpec>
+    </body>
+  </text>
+</TEI>
