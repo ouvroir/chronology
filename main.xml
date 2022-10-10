@@ -69,7 +69,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Période de développement des usages numériques au sein des musées</eventName>
                     <date from="1990" to="2000" />
                     <description>
-                        <p>L'omniprésence des outils numériques dans la vie quotidienne transforme les codes de l'institution muséale dès les années 1990 avec un développement des outils numériques au sein des musées. La banalisation des ordinateurs dans les musées et les expositions amène les institutions à s'adapter aux innovations technologiques, soit un processus à la fois constant et effréné.</p>
+                        <p>L'omniprésence des outils technologiques dans la vie quotidienne transforme les codes de l'institution muséale dès les années 1990 avec un développement des outils numériques au sein des musées. La banalisation des ordinateurs dans les musées et les expositions amène les institutions à s'adapter aux innovations technologiques, les inscrivant alors dans un processus à la fois constant et effréné. L'arrivée de l'ordinateur personnel dans les foyers incite les musées à concevoir des CD-roms multimédia. À l'instar du catalogue d'exposition, ces contenus permettent aux visiteurs de poursuivre la visite chez eux. Par ailleurs, la commercialisation de ces supports assure au musée de délivrer une polongation de visite à la ligne éditoriale maitrisée (Andreacola, 2014). Dans le même temps, des questionnements émergent quant aux visites virtuelles. Plusieurs acteurs du patrimoine s'interrogent sur les capacités qu'offrent le numérique en la matière et si les visites virtuelles peuvent se substituer aux visites in situ. Plusieurs inquiétudes sont formulées, notamment durant une conférence réunissant en 1999 à New York les conservateurs en chef du Metropolitan Museum, du Louvre, de l'Ermitage et du British Museum (Terrisse, 2013).</p>
                     </description>
                 </event>
                 <event>
@@ -82,7 +82,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Développement des interfaces naturelles et des expositions immersives</eventName>
                     <date from="2010" to="2020" />
                     <description>
-                        <p>Le perfectionnement technologique des outils ouvrent de nouvelles portes en matière de muséologie numérique. Désormais, les supports tendent à disparaître derrière des interfaces naturelles où le corps du visiteur est utilisé, permettant de rendre les dispositifs plus spontanées et plus intuitifs. Cette évolution s'accompagne d'une remise en question globale de l'expérience de visite avec l'émergence d'expositions où le visiteur est plongé physiquement et psychiquement au sein d'un univers extra-ordinnaire. Par ailleurs, le développement de la pratique transmédia permet aux institutions de développer un discours muséal cohérent avant, pendant et après la visite, permettant ainsi de prolonger le lien avec le visiteur.</p></description>
+                        <p>Le perfectionnement technologique des outils ouvrent de nouvelles portes en matière de muséologie numérique. Désormais, les supports tendent à disparaître derrière des interfaces naturelles où le corps du visiteur est utilisé, permettant de rendre les dispositifs plus spontanées et plus intuitifs (Martin, 2011). Cette évolution s'accompagne d'une remise en question globale de l'expérience de visite avec l'émergence d'expositions où le visiteur est plongé physiquement et psychiquement au sein d'un univers extra-ordinnaire. Par ailleurs, le développement de la pratique transmédia permet aux institutions de prolonger le lien avec le visiteur par la création d'un univers cohérent et qui coordonne le comportement de l'usage. Par le biais de différents supports, l'expérience muséale se prolonge avant, pendant et après la visite in situ (Miguet, 2019). Là encore, cette nouvelle pratique pose la question de l'implication du visiteur en tant qu'acteur/récepteur.</p></description>
                 </event>
             </listEvent>
             <listEvent>
@@ -111,6 +111,18 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date when="1986" />
                     <description><p>Cette année marque l'installation des premières bornes interactives au sein de la Cité des Sciences et de l’Industrie, la mise en place d'un poste de consultation numérique au Musée d'Orsay ainsi que la création d'un vidéodisque répertoriant 15000 images provenant des collections du Musée d'Art Moderne et des Fonds nationaux et régionaux d'art contemporain, couvrant la période entre 1981 et 1986.</p>
                     </description>
+                </event>
+                <event>
+                    <eventName>Exposition "Quelle mémoire pour demain ?" présentée à Grenoble au Musée dauphinois</eventName>
+                    <date when="1989" />
+                    <description>
+                        <p>Dans le cadre de cette exposition, un ordinateur est mis à disposition des visiteurs afin qu'ils puissent accéder à la banque d'images et des fiches informatisées du patrimoine Rhône-alpins, soit 13 000 images. Cet exemple démontre la volonté des musées d'utiliser les innovations technologiques non plus seulement au service de la numérisation et de la conservation des oeuvres à des fins scientifiques, mais également afin de partager ce contenu avec les visiteurs (Andreacola, 2014).</p></description>
+                    </event>
+                    <event>
+                        <eventName>Projet Visite+</eventName>
+                        <date when="2000" />
+                        <description>
+                            <p>Il s'agit d'une initiative portée par la Cité des Sciences et de l'Industrie et qui s'inspire de l'Experience Museum Project Museum de Seattle. Au sein de ce dernier projet, les visiteurs avaient la possibilité d'enregistrer des objets pendant la visite à l'aide d'un PDA. Ils pouvaient par la suite accéder à des informations supplémentaires relatives aux objets sélectionnés sur leurs ordinnateurs personnels par le baisi d'une connection Internet (Andreacola, 2014).</p></description>
                 </event>
             </listEvent>
         </body>
