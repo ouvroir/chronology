@@ -144,8 +144,79 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                         <eventName>Projet Visite+</eventName>
                         <date when="2000" />
                         <description>
-                            <p>Il s'agit d'une initiative portée par la Cité des Sciences et de l'Industrie et qui s'inspire de l'Experience Museum Project Museum de Seattle. Au sein de ce dernier projet, les visiteurs avaient la possibilité d'enregistrer des objets pendant la visite à l'aide d'un PDA. Ils pouvaient par la suite accéder à des informations supplémentaires relatives aux objets sélectionnés sur leurs ordinnateurs personnels par le baisi d'une connection Internet (Andreacola, 2014).</p></description>
-                </event>
+                            <p>Il s'agit d'une initiative portée par la Cité des Sciences et de l'Industrie et qui s'inspire de l'Experience Museum Project Museum de Seattle. Au sein de ce dernier projet, les visiteurs avaient la possibilité d'enregistrer des objets pendant la visite à l'aide d'un PDA. Ils pouvaient par la suite accéder à des informations supplémentaires relatives aux objets sélectionnés sur leurs ordinnateurs personnels par le baisi d'une connection Internet (Andreacola, 2014).</p>
+                        </description>
+                        </event>
+                    <event>
+                        <eventName>Museum Lab</eventName>
+                        <date when="2006" />
+                        <description>
+                            <p>Le Museum Lab du Louvre propose de nouvelles approches de l'art depuis 2006. Parmi les différents projets développés, il est notamment possible de citer une expérience tournée vers l'exploration d'un tableau de Titien intitulé La Vierge au Lapin. Cette découverte repose sur plusieurs dispositifs : un film explicatif, des écrans tactiles d'observation de l'oeuvre et un espace immersif. </p>
+                        </description>
+                    </event>
+                    <event>
+                        <eventName>Exposition Epidemik à la Cité des Sciences</eventName>
+                        <date when="2008" />
+                        <description>
+                            <p>Entre immersion et simulation, cette exposition est développée par un centre de culture scientifique, au sein de la Cité des Sciences. S'écartant de la structure patrimoniale classe, cette institution se révèle tout de même particulièrement novatrice en matière d'expérience muséale.</p>
+                        </description>
+                    </event>
+                    <event>
+                        <eventName>Présentation du jeu "Plug, les secrets du musée" au Musée des arts et métiers de Paris</eventName>
+                        <date when="2009" />
+                        <description>
+                            <p>Présenté au public du 29 mai au 7 juin, ce jeu reposait sur 16 objets de la collection dont chacun était rattaché à une carte virtuelle. L'objectif du visiteur était de retrouver les bonnes cartes virtuelles par l'intermédiaire d'un téléphone portable, en découvrant au passage de nouvelles informations sur les objets concernés. Si ce projet est rapidement qualifié d'original et ded ynamique, il est également précurseur en matière d'utilisation des téléphones portables au sein de la visite muséale. </p></description>
+                        <p />
+                    </event>
+                    <event>
+                        <eventName>Des ordinateurs à disposition des visiteurs pour l'exposition "The Black List Project" au Brooklyn Museum</eventName>
+                        <date when="2009" />
+                        <description>
+                            <p>Les ordinateurs placés à disposition des visiteurs dans le cadre de cette exposition permettaient de recueillir les témoignages des visiteurs sur la façon dont la culture a façonné leur vie. Les vidéos ont ensuite été diffusées sur la chaine Youtube de l'exposition. Ainsi, ce projet intégre le visiteur au propos muséal et l'incite à en devenir co-constructeur.</p>
+                        </description>
+                    </event>
+                    <event>
+                        <eventName>Le Musée Nestploria et les Grottes de Gargas proposent un parcours interactif</eventName>
+                        <date when="2010" />
+                        <description>
+                            <p>Le Musée Nestploria et les Grottes de Gargas dans les Hautes Pyrénées offrent un parcours dédié à la préhistoire à travers une approche tactile. C'est dans ce cadre qu'une table multi touch et multi utilisateurs de 4,80 mètres sur 1,20 mètre est proposée aux visiteurs pour la première fois en Europe. Destiné à la visualisation de "mains négatives", elle permet notamment aux visiteurs de comparer leurs propres mains aux empreintes visibles sur les parois des grottes. </p></description>
+                        <p />
+                    </event>
+                    <event>
+                        <eventName>Exposition "Révélations, une odyssée numérique dans la peinture" au Petit Palais de Paris</eventName>
+                        <date when="2010" />
+                        <description>
+                            <p>Issue d'une collaboration entre les équipes du Petit Palais et de l'entreprise Samsung, cette exposition temporaire dévoilait 40 oeuvres accompagnées d'une médiation numérique. Cette dernière consistait en des écrans présentant de courts films et invitant le visiteur à découvrir les détails et les intentions cachés d'un artiste.</p></description>
+                        <p />
+                    </event>
+                    <event>
+                        <eventName>Mise en ligne du projet data.bnf.fr</eventName>
+                         <date when="2011" />
+                         <description>
+                            <p>Ce projet consiste en un rassemblement et un partage des données de la BnF sur le Web, et ce, afin d'en accroître la visibilité. Au-delà de la quantité importante des données collectées, il s'agit également d'une contribution déterminante car adoptant une approche tournée vers la coopération et l'échange de métadonnées avec d'autres ressources de confiance. Par ailleurs, cette publication des données de la Bibliothèque nationale de France s'inscrit dans un réseau de partage libre, selon la Licence ouverte de l'Etat.</p>
+                        </description>
+                    </event>
+                    <event>
+                        <eventName>Installation d'une cabine 3D à la Cité de la dentelle et de la mode de Calais</eventName>
+                        <date when="2011" />
+                        <description>
+                            <p>Cette cabine calcule les mensurations du visiteur afin de créer un avatar à son image. Des pièces fragiles issues des collections de la Cité de la dentelle et de la mode sont ensuite projetées sur la silhouette numérisée. Il s'agit là d'une approche participative, le visiteur prenant part à une modélisation sans laquelle les pièces ne pourraient être montrées. Par ailleurs, ce projet met en évidence la pertinence du numérique en matière de mise en exposition d'objets fragiles.</p>
+                        </description>
+                    </event>
+                    <event>
+                        <eventName>Mise en place du dispositif  "Blinkster" au Centre Pompidou</eventName>
+                        <date when="2011/2012" />
+                        <description>
+                            <p>Présenté dans le cadre de Futur en Seine, ce dispositif est intégré à la visite du Centre Pompidou afin de permettre aux visiteurs d'effectuer une reconnaissance d'oeuvres. Développé en partenariat avec la société Euréva, Blinkster est une application mobile dotée d'un système de reconnaissance faciale par le biais duquel le visiteur peut avoir accès à des informations supplémentaires sur les oeuvres flashées.</p>
+                        </description>
+                    </event>
+                    <event>
+                        <eventName>Le Louvre propose un parcours de visite sur Nintendo DS</eventName>
+                        <date when="2012" />
+                        <description>
+                            <p>Souhaitant remplacer l'audio-guide, le dispositif se veut à la fois ludique et pédagogique. Par le biais d'une Nintendo DS, une console de jeu portable, les visiteurs ont accès à plusieurs parcours et peuvent se balader librement au sein du musée. Ce projet étonnant se veut destiné aux publics peu habitués à la visite muséale. Par ailleurs, il marque une nouvelle approche du patrimoine, proposant aux visiteurs de découvrir les collections du musée à travers le divertissement interactif. </p>
+                        </description>
+                        </event>
             </listEvent>
         </body>
     </text>
