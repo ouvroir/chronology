@@ -190,6 +190,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                         <p />
                     </event>
                     <event>
+                        <eventName>Première édition du projet Museomix au musée des Arts Décoratifs de Paris</eventName>
+                        <date when="2011" />
+                        <description>
+                            <p>Inventé par Stéphanie Bacquère, Samuel Bausson, Julien Dorra, Diane Dubray, Yves-Armel Martin, Christophe Monnet et Marie-Noéline Viguier, ce projet vise à inciter les publics à se réapproprier la médiation muséale. Pendant trois jours, une équipe plurisdisciplaire est invitée à concevoir un dispositif de médiation innovant sous la forme d'un prototype. Ce dernier est ensuite testé par les publics lors de la troisième journée.</p>
+                        </description>
+                    </event>
+                    <event>
                         <eventName>Mise en ligne du projet data.bnf.fr</eventName>
                          <date when="2011" />
                          <description>
@@ -208,6 +215,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                         <date when="2011/2012" />
                         <description>
                             <p>Présenté dans le cadre de Futur en Seine, ce dispositif est intégré à la visite du Centre Pompidou afin de permettre aux visiteurs d'effectuer une reconnaissance d'oeuvres. Développé en partenariat avec la société Euréva, Blinkster est une application mobile dotée d'un système de reconnaissance faciale par le biais duquel le visiteur peut avoir accès à des informations supplémentaires sur les oeuvres flashées.</p>
+                        </description>
+                    </event>
+                    <event>
+                        <eventName>Conception et premières expérimentations du projet Kjing</eventName>
+                        <date when="2011-2012" />
+                        <description>
+                            <p>Cet outil est développé par le laboratoire d'innovation ouverte de la métropole de Lyon, Erasme. L'objectif est de concevoir un environnement proposant des contenus multimédias accessibles à travers des interactions simples. De cette façon, il devient possible pour les personnes assurant la médiation d'un musée de transformer et d'adapter l'espace d'exposition.</p>
                         </description>
                     </event>
                     <event>
