@@ -96,6 +96,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                         <p>Le Musée national des arts et traditions populaires est le premier à se doter d'un ordinateur en France. La machine permet alors de "regrouper et d'analyser les multiples informations manipulées par les spécialistes [...] qui tous ensemble travaillent à l'établissement rigoureux des connaissances et de la conservation des sciences humaines".</p></description>
                 </event>
                 <event>
+                    <eventName>Invention du microprocesseur</eventName>
+                    <date when="1971" />
+                    <description>
+                        <p>Cette invention permet de créer des machines plus puissantes, plus rapides et plus fiables. Par ailleurs, elle permet de réduire les coûts et la taille des ordinateurs, ce qui suscite une démocratisation des usages au sein des entreprises dans un premier temps, puis dans les foyers par la suite.</p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Création de la base de données Joconde par le ministère de la culture français</eventName>
                     <date when="1975" />
                     <description>
