@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 
 <TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:schemaLocation="http://www.tei-c.org/ns/1.0 schemas/provisoire.xsd"
- xmlns="http://www.tei-c.org/ns/1.0">
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 schemas/provisoire.xsd"
+    xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -63,7 +63,8 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Premières conceptions d'expositions de type interactif</eventName>
                     <date from="1980" to="1990" />
                     <description>
-                        <p>Ces expositions d'un genre nouveau apparaissent au sein des musées scientifiques où la démonstration de concepts et d'idées est particulièrement pertinente. Elles restent absentes des musées d'art, où l'exposition des oeuvres ainsi que leur conservation restent les principaux enjeux. Ainsi, ce processus initié par les musées scientifiques marque le début d'une muséeolodie d'idées, dépassant la simple représentation d'artefacts (DAVALLON J. (1992). « Le musée est-il vraiment un média ? », in Publics et Musées, 2, p. 99-123).</p></description>
+                        <p>Ces expositions d'un genre nouveau apparaissent au sein des musées scientifiques où la démonstration de concepts et d'idées est particulièrement pertinente. Elles restent absentes des musées d'art, où l'exposition des oeuvres ainsi que leur conservation restent les principaux enjeux. Ainsi, ce processus initié par les musées scientifiques marque le début d'une muséeolodie d'idées, dépassant la simple représentation d'artefacts (DAVALLON J. (1992). « Le musée est-il vraiment un média ? », in Publics et Musées, 2, p. 99-123).</p>
+                    </description>
                 </event>
                 <event>
                     <eventName>Période de développement des usages numériques au sein des musées</eventName>
@@ -84,7 +85,8 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Développement des interfaces naturelles et des expositions immersives</eventName>
                     <date from="2010" to="2020" />
                     <description>
-                        <p>Le perfectionnement technologique des outils ouvrent de nouvelles portes en matière de muséologie numérique. Désormais, les supports tendent à disparaître derrière des interfaces naturelles où le corps du visiteur est utilisé, permettant de rendre les dispositifs plus spontanées et plus intuitifs (Martin, 2011). Cette évolution s'accompagne d'une remise en question globale de l'expérience de visite avec l'émergence d'expositions où le visiteur est plongé physiquement et psychiquement au sein d'un univers extra-ordinnaire. Par ailleurs, le développement de la pratique transmédia permet aux institutions de prolonger le lien avec le visiteur par la création d'un univers cohérent et qui coordonne le comportement de l'usage. Par le biais de différents supports, l'expérience muséale se prolonge avant, pendant et après la visite in situ (Miguet, 2019). Là encore, cette nouvelle pratique pose la question de l'implication du visiteur en tant qu'acteur/récepteur.</p></description>
+                        <p>Le perfectionnement technologique des outils ouvrent de nouvelles portes en matière de muséologie numérique. Désormais, les supports tendent à disparaître derrière des interfaces naturelles où le corps du visiteur est utilisé, permettant de rendre les dispositifs plus spontanées et plus intuitifs (Martin, 2011). Cette évolution s'accompagne d'une remise en question globale de l'expérience de visite avec l'émergence d'expositions où le visiteur est plongé physiquement et psychiquement au sein d'un univers extra-ordinnaire. Par ailleurs, le développement de la pratique transmédia permet aux institutions de prolonger le lien avec le visiteur par la création d'un univers cohérent et qui coordonne le comportement de l'usage. Par le biais de différents supports, l'expérience muséale se prolonge avant, pendant et après la visite in situ (Miguet, 2019). Là encore, cette nouvelle pratique pose la question de l'implication du visiteur en tant qu'acteur/récepteur.</p>
+                    </description>
                 </event>
             </listEvent>
             <listEvent>
@@ -93,7 +95,8 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Premier ordinateur au sein d'un musée</eventName>
                     <date when="1970/72" />
                     <description>
-                        <p>Le Musée national des arts et traditions populaires est le premier à se doter d'un ordinateur en France. La machine permet alors de "regrouper et d'analyser les multiples informations manipulées par les spécialistes [...] qui tous ensemble travaillent à l'établissement rigoureux des connaissances et de la conservation des sciences humaines".</p></description>
+                        <p>Le Musée national des arts et traditions populaires est le premier à se doter d'un ordinateur en France. La machine permet alors de "regrouper et d'analyser les multiples informations manipulées par les spécialistes [...] qui tous ensemble travaillent à l'établissement rigoureux des connaissances et de la conservation des sciences humaines".</p>
+                    </description>
                 </event>
                 <event>
                     <eventName>Invention du microprocesseur</eventName>
@@ -106,139 +109,243 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Création de la base de données Joconde par le ministère de la culture français</eventName>
                     <date when="1975" />
                     <description>
-                        <p>Cette base de données répertorie les peintures conservées au sein des musées français. Elle est notamment complétée en 1978 par la création de la base Arcade, qui comprend les acquisitions d'oeuvres d'art par l'État français, et par la base Mérimée, qui est développée à partir de la documentation de l'inventaire général et de la liste des monuments inscrits et classés.</p></description>
+                        <p>Cette base de données répertorie les peintures conservées au sein des musées français. Elle est notamment complétée en 1978 par la création de la base Arcade, qui comprend les acquisitions d'oeuvres d'art par l'État français, et par la base Mérimée, qui est développée à partir de la documentation de l'inventaire général et de la liste des monuments inscrits et classés.</p>
+                    </description>
                     <p />
                 </event>
                 <event>
                     <eventName>Création du Comité international pour la muséologie (Icofom)</eventName>
                     <date when="1976" />
-                    <description><p>Ce Comité devient rapidement un espace de discussion déterminant au sein de la muséologie. La création de ce comité intervient dans un contexte favorable puisque la discipline connait un regain intérêt à la fin des années 1980. Ce phénomène ne durera cependant pas, la muséologie connaissant une crise au cours de la décennie suivante. Trop éloignée des réalités muséales, la muséologie théorique prendra alors la forme d'un guide de bonnes intentions stéréotypées (Poulot, 2009).</p>
+                    <description>
+                        <p>Ce Comité devient rapidement un espace de discussion déterminant au sein de la muséologie. La création de ce comité intervient dans un contexte favorable puisque la discipline connait un regain intérêt à la fin des années 1980. Ce phénomène ne durera cependant pas, la muséologie connaissant une crise au cours de la décennie suivante. Trop éloignée des réalités muséales, la muséologie théorique prendra alors la forme d'un guide de bonnes intentions stéréotypées (Poulot, 2009).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Rapport "Nora-Minc" sur l'informatisation de la société</eventName>
                     <date when="1978" />
-                    <description><p>Publié par Simon Nora et Alain Minc, ce rapport français porte sur les moyens à employer afin de susciter une réflexion nouvelle sur les moyens de conduire l'informatisation de la société.</p></description>
+                    <description>
+                        <p>Publié par Simon Nora et Alain Minc, ce rapport français porte sur les moyens à employer afin de susciter une réflexion nouvelle sur les moyens de conduire l'informatisation de la société.</p>
+                    </description>
                     <p />
                 </event>
                 <event>
                     <eventName>Apparitions successives d'outils numériques au sein des institutions muséales françaises</eventName>
                     <date when="1986" />
-                    <description><p>Cette année marque l'installation des premières bornes interactives au sein de la Cité des Sciences et de l’Industrie, la mise en place d'un poste de consultation numérique au Musée d'Orsay ainsi que la création d'un vidéodisque répertoriant 15000 images provenant des collections du Musée d'Art Moderne et des Fonds nationaux et régionaux d'art contemporain, couvrant la période entre 1981 et 1986.</p>
+                    <description>
+                        <p>Cette année marque l'installation des premières bornes interactives au sein de la Cité des Sciences et de l’Industrie, la mise en place d'un poste de consultation numérique au Musée d'Orsay ainsi que la création d'un vidéodisque répertoriant 15000 images provenant des collections du Musée d'Art Moderne et des Fonds nationaux et régionaux d'art contemporain, couvrant la période entre 1981 et 1986.</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Exposition "Quelle mémoire pour demain ?" présentée à Grenoble au Musée dauphinois</eventName>
                     <date when="1989" />
                     <description>
-                        <p>Dans le cadre de cette exposition, un ordinateur est mis à disposition des visiteurs afin qu'ils puissent accéder à la banque d'images et des fiches informatisées du patrimoine Rhône-alpins, soit 13 000 images. Cet exemple démontre la volonté des musées d'utiliser les innovations technologiques non plus seulement au service de la numérisation et de la conservation des oeuvres à des fins scientifiques, mais également afin de partager ce contenu avec les visiteurs (Andreacola, 2014).</p></description>
-                    </event>
-                    <event>
-                        <eventName>Publication du CD-Rom "Le Louvre, peintures et palais"</eventName>
-                        <date when="1995" />
-                        <description>
-                            <p>La publication de ce CD-Rom par la Réunion des Monuments Nationaux (Rmn)s'inscrit dans une période d'engouement pour les contenus culturels de ce type. Les années 1990 voient en effet la multiplication d'e-albums centrés sur un artiste et permettant aux usagers d'aller au-delà du contenu muséal (Miguet et Paquienséguy, 2019). </p></description>
-                        <p />
-                    </event>
-                    <event>
-                        <eventName>Publication de l'enquête sur les Premiers usages des CD-Rom des musées</eventName>
-                        <date when="2000" />
-                        <description>
-                            <p>Commanditée en 1996 par la Rmn, cette enquête est menée par Jean Davallon, Hana Gottesdiener et Joëlle Le Marec. Elle met en lumière les différents obstacles rencontrés par les usagers ainsi que leurs attentes. Si les CD-Rom culturels n'ont pas survécus au-delà des années 1990, les différents écueils relevés au sein de cette enquête  restent pertinents en matière de conception et d'utilisation d'un outil numérique dans un cadre culturel (Miguet et Paquienséguy, 2019). </p></description>
-                        <p />
-                    </event>
-                    <event>
-                        <eventName>Projet Visite+</eventName>
-                        <date when="2000" />
-                        <description>
-                            <p>Il s'agit d'une initiative portée par la Cité des Sciences et de l'Industrie et qui s'inspire de l'Experience Museum Project Museum de Seattle. Au sein de ce dernier projet, les visiteurs avaient la possibilité d'enregistrer des objets pendant la visite à l'aide d'un PDA. Ils pouvaient par la suite accéder à des informations supplémentaires relatives aux objets sélectionnés sur leurs ordinnateurs personnels par le baisi d'une connection Internet (Andreacola, 2014).</p>
-                        </description>
-                        </event>
-                    <event>
-                        <eventName>Museum Lab</eventName>
-                        <date when="2006" />
-                        <description>
-                            <p>Le Museum Lab du Louvre propose de nouvelles approches de l'art depuis 2006. Parmi les différents projets développés, il est notamment possible de citer une expérience tournée vers l'exploration d'un tableau de Titien intitulé La Vierge au Lapin. Cette découverte repose sur plusieurs dispositifs : un film explicatif, des écrans tactiles d'observation de l'oeuvre et un espace immersif. </p>
-                        </description>
-                    </event>
-                    <event>
-                        <eventName>Exposition Epidemik à la Cité des Sciences</eventName>
-                        <date when="2008" />
-                        <description>
-                            <p>Entre immersion et simulation, cette exposition est développée par un centre de culture scientifique, au sein de la Cité des Sciences. S'écartant de la structure patrimoniale classe, cette institution se révèle tout de même particulièrement novatrice en matière d'expérience muséale.</p>
-                        </description>
-                    </event>
-                    <event>
-                        <eventName>Présentation du jeu "Plug, les secrets du musée" au Musée des arts et métiers de Paris</eventName>
-                        <date when="2009" />
-                        <description>
-                            <p>Présenté au public du 29 mai au 7 juin, ce jeu reposait sur 16 objets de la collection dont chacun était rattaché à une carte virtuelle. L'objectif du visiteur était de retrouver les bonnes cartes virtuelles par l'intermédiaire d'un téléphone portable, en découvrant au passage de nouvelles informations sur les objets concernés. Si ce projet est rapidement qualifié d'original et ded ynamique, il est également précurseur en matière d'utilisation des téléphones portables au sein de la visite muséale. </p></description>
-                        <p />
-                    </event>
-                    <event>
-                        <eventName>Des ordinateurs à disposition des visiteurs pour l'exposition "The Black List Project" au Brooklyn Museum</eventName>
-                        <date when="2009" />
-                        <description>
-                            <p>Les ordinateurs placés à disposition des visiteurs dans le cadre de cette exposition permettaient de recueillir les témoignages des visiteurs sur la façon dont la culture a façonné leur vie. Les vidéos ont ensuite été diffusées sur la chaine Youtube de l'exposition. Ainsi, ce projet intégre le visiteur au propos muséal et l'incite à en devenir co-constructeur.</p>
-                        </description>
-                    </event>
-                    <event>
-                        <eventName>Le Musée Nestploria et les Grottes de Gargas proposent un parcours interactif</eventName>
-                        <date when="2010" />
-                        <description>
-                            <p>Le Musée Nestploria et les Grottes de Gargas dans les Hautes Pyrénées offrent un parcours dédié à la préhistoire à travers une approche tactile. C'est dans ce cadre qu'une table multi touch et multi utilisateurs de 4,80 mètres sur 1,20 mètre est proposée aux visiteurs pour la première fois en Europe. Destiné à la visualisation de "mains négatives", elle permet notamment aux visiteurs de comparer leurs propres mains aux empreintes visibles sur les parois des grottes. </p></description>
-                        <p />
-                    </event>
-                    <event>
-                        <eventName>Exposition "Révélations, une odyssée numérique dans la peinture" au Petit Palais de Paris</eventName>
-                        <date when="2010" />
-                        <description>
-                            <p>Issue d'une collaboration entre les équipes du Petit Palais et de l'entreprise Samsung, cette exposition temporaire dévoilait 40 oeuvres accompagnées d'une médiation numérique. Cette dernière consistait en des écrans présentant de courts films et invitant le visiteur à découvrir les détails et les intentions cachés d'un artiste.</p></description>
-                        <p />
-                    </event>
-                    <event>
-                        <eventName>Première édition du projet Museomix au musée des Arts Décoratifs de Paris</eventName>
-                        <date when="2011" />
-                        <description>
-                            <p>Inventé par Stéphanie Bacquère, Samuel Bausson, Julien Dorra, Diane Dubray, Yves-Armel Martin, Christophe Monnet et Marie-Noéline Viguier, ce projet vise à inciter les publics à se réapproprier la médiation muséale. Pendant trois jours, une équipe plurisdisciplaire est invitée à concevoir un dispositif de médiation innovant sous la forme d'un prototype. Ce dernier est ensuite testé par les publics lors de la troisième journée.</p>
-                        </description>
-                    </event>
-                    <event>
-                        <eventName>Mise en ligne du projet data.bnf.fr</eventName>
-                         <date when="2011" />
-                         <description>
-                            <p>Ce projet consiste en un rassemblement et un partage des données de la BnF sur le Web, et ce, afin d'en accroître la visibilité. Au-delà de la quantité importante des données collectées, il s'agit également d'une contribution déterminante car adoptant une approche tournée vers la coopération et l'échange de métadonnées avec d'autres ressources de confiance. Par ailleurs, cette publication des données de la Bibliothèque nationale de France s'inscrit dans un réseau de partage libre, selon la Licence ouverte de l'Etat.</p>
-                        </description>
-                    </event>
-                    <event>
-                        <eventName>Installation d'une cabine 3D à la Cité de la dentelle et de la mode de Calais</eventName>
-                        <date when="2011" />
-                        <description>
-                            <p>Cette cabine calcule les mensurations du visiteur afin de créer un avatar à son image. Des pièces fragiles issues des collections de la Cité de la dentelle et de la mode sont ensuite projetées sur la silhouette numérisée. Il s'agit là d'une approche participative, le visiteur prenant part à une modélisation sans laquelle les pièces ne pourraient être montrées. Par ailleurs, ce projet met en évidence la pertinence du numérique en matière de mise en exposition d'objets fragiles.</p>
-                        </description>
-                    </event>
-                    <event>
-                        <eventName>Mise en place du dispositif  "Blinkster" au Centre Pompidou</eventName>
-                        <date when="2011/2012" />
-                        <description>
-                            <p>Présenté dans le cadre de Futur en Seine, ce dispositif est intégré à la visite du Centre Pompidou afin de permettre aux visiteurs d'effectuer une reconnaissance d'oeuvres. Développé en partenariat avec la société Euréva, Blinkster est une application mobile dotée d'un système de reconnaissance faciale par le biais duquel le visiteur peut avoir accès à des informations supplémentaires sur les oeuvres flashées.</p>
-                        </description>
-                    </event>
-                    <event>
-                        <eventName>Conception et premières expérimentations du projet Kjing</eventName>
-                        <date when="2011-2012" />
-                        <description>
-                            <p>Cet outil est développé par le laboratoire d'innovation ouverte de la métropole de Lyon, Erasme. L'objectif est de concevoir un environnement proposant des contenus multimédias accessibles à travers des interactions simples. De cette façon, il devient possible pour les personnes assurant la médiation d'un musée de transformer et d'adapter l'espace d'exposition.</p>
-                        </description>
-                    </event>
-                    <event>
-                        <eventName>Le Louvre propose un parcours de visite sur Nintendo DS</eventName>
-                        <date when="2012" />
-                        <description>
-                            <p>Souhaitant remplacer l'audio-guide, le dispositif se veut à la fois ludique et pédagogique. Par le biais d'une Nintendo DS, une console de jeu portable, les visiteurs ont accès à plusieurs parcours et peuvent se balader librement au sein du musée. Ce projet étonnant se veut destiné aux publics peu habitués à la visite muséale. Par ailleurs, il marque une nouvelle approche du patrimoine, proposant aux visiteurs de découvrir les collections du musée à travers le divertissement interactif. </p>
-                        </description>
-                        </event>
+                        <p>Dans le cadre de cette exposition, un ordinateur est mis à disposition des visiteurs afin qu'ils puissent accéder à la banque d'images et des fiches informatisées du patrimoine Rhône-alpins, soit 13 000 images. Cet exemple démontre la volonté des musées d'utiliser les innovations technologiques non plus seulement au service de la numérisation et de la conservation des oeuvres à des fins scientifiques, mais également afin de partager ce contenu avec les visiteurs (Andreacola, 2014).</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Publication du CD-Rom "Microsoft’ Art Gallery: The Collection of the National Gallery"</eventName>
+                    <date when="1993" />
+                    <description>
+                        <p>Première utilisation sérieure du Multimédia.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>WebMuseum (Le Louvre)</eventName>
+                    <date when="1994" />
+                    <description>
+                        <p>Nicholas Pioch, un informaticien professeur à l’École Nationale Supérieure des Télécommunications de Pairs créée le site WebMuseum sur son temps libre. http://www.ibiblio.org/wm/</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Virtual Library museums pages (Vlmp)</eventName>
+                    <date when="1994" />
+                    <description>
+                        <p>Jonathan Bowen, un professeur d’informatique de la South Bank University de Londres crée un répertoire de sites web mondiaux maintenu par des volontaires. Le site fut adopté comme répertoire par l’ICOM en 1996.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Publication du CD-Rom "Le Louvre, peintures et palais"</eventName>
+                    <date when="1995" />
+                    <description>
+                        <p>La publication de ce CD-Rom par la Réunion des Monuments Nationaux (Rmn)s'inscrit dans une période d'engouement pour les contenus culturels de ce type. Les années 1990 voient en effet la multiplication d'e-albums centrés sur un artiste et permettant aux usagers d'aller au-delà du contenu muséal (Miguet et Paquienséguy, 2019). </p>
+                    </description>
+                    <p />
+                </event>
+                <event>
+                    <eventName>Publication du CD-Rom "A Passion for Art: Renoir, Cezanne, Matisse and Dr. Barnes"</eventName>
+                    <date when="1995"></date>
+                    <description>
+                        <p>Produit par Corbis Corporation et la Fondation Barnes.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Publication de l'enquête sur les Premiers usages des CD-Rom des musées</eventName>
+                    <date when="2000" />
+                    <description>
+                        <p>Commanditée en 1996 par la Rmn, cette enquête est menée par Jean Davallon, Hana Gottesdiener et Joëlle Le Marec. Elle met en lumière les différents obstacles rencontrés par les usagers ainsi que leurs attentes. Si les CD-Rom culturels n'ont pas survécus au-delà des années 1990, les différents écueils relevés au sein de cette enquête  restent pertinents en matière de conception et d'utilisation d'un outil numérique dans un cadre culturel (Miguet et Paquienséguy, 2019). </p>
+                    </description>
+                    <p />
+                </event>
+                <event>
+                    <eventName>Projet Visite+</eventName>
+                    <date when="2000" />
+                    <description>
+                        <p>Il s'agit d'une initiative portée par la Cité des Sciences et de l'Industrie et qui s'inspire de l'Experience Museum Project Museum de Seattle. Au sein de ce dernier projet, les visiteurs avaient la possibilité d'enregistrer des objets pendant la visite à l'aide d'un PDA. Ils pouvaient par la suite accéder à des informations supplémentaires relatives aux objets sélectionnés sur leurs ordinnateurs personnels par le baisi d'une connection Internet (Andreacola, 2014).</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Museum Lab</eventName>
+                    <date when="2006" />
+                    <description>
+                        <p>Le Museum Lab du Louvre propose de nouvelles approches de l'art depuis 2006. Parmi les différents projets développés, il est notamment possible de citer une expérience tournée vers l'exploration d'un tableau de Titien intitulé La Vierge au Lapin. Cette découverte repose sur plusieurs dispositifs : un film explicatif, des écrans tactiles d'observation de l'oeuvre et un espace immersif. </p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Exposition Epidemik à la Cité des Sciences</eventName>
+                    <date when="2008" />
+                    <description>
+                        <p>Entre immersion et simulation, cette exposition est développée par un centre de culture scientifique, au sein de la Cité des Sciences. S'écartant de la structure patrimoniale classe, cette institution se révèle tout de même particulièrement novatrice en matière d'expérience muséale.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Présentation du jeu "Plug, les secrets du musée" au Musée des arts et métiers de Paris</eventName>
+                    <date when="2009" />
+                    <description>
+                        <p>Présenté au public du 29 mai au 7 juin, ce jeu reposait sur 16 objets de la collection dont chacun était rattaché à une carte virtuelle. L'objectif du visiteur était de retrouver les bonnes cartes virtuelles par l'intermédiaire d'un téléphone portable, en découvrant au passage de nouvelles informations sur les objets concernés. Si ce projet est rapidement qualifié d'original et ded ynamique, il est également précurseur en matière d'utilisation des téléphones portables au sein de la visite muséale. </p>
+                    </description>
+                    <p />
+                </event>
+                <event>
+                    <eventName>Des ordinateurs à disposition des visiteurs pour l'exposition "The Black List Project" au Brooklyn Museum</eventName>
+                    <date when="2009" />
+                    <description>
+                        <p>Les ordinateurs placés à disposition des visiteurs dans le cadre de cette exposition permettaient de recueillir les témoignages des visiteurs sur la façon dont la culture a façonné leur vie. Les vidéos ont ensuite été diffusées sur la chaine Youtube de l'exposition. Ainsi, ce projet intégre le visiteur au propos muséal et l'incite à en devenir co-constructeur.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Le Musée Nestploria et les Grottes de Gargas proposent un parcours interactif</eventName>
+                    <date when="2010" />
+                    <description>
+                        <p>Le Musée Nestploria et les Grottes de Gargas dans les Hautes Pyrénées offrent un parcours dédié à la préhistoire à travers une approche tactile. C'est dans ce cadre qu'une table multi touch et multi utilisateurs de 4,80 mètres sur 1,20 mètre est proposée aux visiteurs pour la première fois en Europe. Destiné à la visualisation de "mains négatives", elle permet notamment aux visiteurs de comparer leurs propres mains aux empreintes visibles sur les parois des grottes. </p>
+                    </description>
+                    <p />
+                </event>
+                <event>
+                    <eventName>Exposition "Révélations, une odyssée numérique dans la peinture" au Petit Palais de Paris</eventName>
+                    <date when="2010" />
+                    <description>
+                        <p>Issue d'une collaboration entre les équipes du Petit Palais et de l'entreprise Samsung, cette exposition temporaire dévoilait 40 oeuvres accompagnées d'une médiation numérique. Cette dernière consistait en des écrans présentant de courts films et invitant le visiteur à découvrir les détails et les intentions cachés d'un artiste.</p>
+                    </description>
+                    <p />
+                </event>
+                <event>
+                    <eventName>Première édition du projet Museomix au musée des Arts Décoratifs de Paris</eventName>
+                    <date when="2011" />
+                    <description>
+                        <p>Inventé par Stéphanie Bacquère, Samuel Bausson, Julien Dorra, Diane Dubray, Yves-Armel Martin, Christophe Monnet et Marie-Noéline Viguier, ce projet vise à inciter les publics à se réapproprier la médiation muséale. Pendant trois jours, une équipe plurisdisciplaire est invitée à concevoir un dispositif de médiation innovant sous la forme d'un prototype. Ce dernier est ensuite testé par les publics lors de la troisième journée.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Mise en ligne du projet data.bnf.fr</eventName>
+                    <date when="2011" />
+                    <description>
+                        <p>Ce projet consiste en un rassemblement et un partage des données de la BnF sur le Web, et ce, afin d'en accroître la visibilité. Au-delà de la quantité importante des données collectées, il s'agit également d'une contribution déterminante car adoptant une approche tournée vers la coopération et l'échange de métadonnées avec d'autres ressources de confiance. Par ailleurs, cette publication des données de la Bibliothèque nationale de France s'inscrit dans un réseau de partage libre, selon la Licence ouverte de l'Etat.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Installation d'une cabine 3D à la Cité de la dentelle et de la mode de Calais</eventName>
+                    <date when="2011" />
+                    <description>
+                        <p>Cette cabine calcule les mensurations du visiteur afin de créer un avatar à son image. Des pièces fragiles issues des collections de la Cité de la dentelle et de la mode sont ensuite projetées sur la silhouette numérisée. Il s'agit là d'une approche participative, le visiteur prenant part à une modélisation sans laquelle les pièces ne pourraient être montrées. Par ailleurs, ce projet met en évidence la pertinence du numérique en matière de mise en exposition d'objets fragiles.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Mise en place du dispositif  "Blinkster" au Centre Pompidou</eventName>
+                    <date when="2011/2012" />
+                    <description>
+                        <p>Présenté dans le cadre de Futur en Seine, ce dispositif est intégré à la visite du Centre Pompidou afin de permettre aux visiteurs d'effectuer une reconnaissance d'oeuvres. Développé en partenariat avec la société Euréva, Blinkster est une application mobile dotée d'un système de reconnaissance faciale par le biais duquel le visiteur peut avoir accès à des informations supplémentaires sur les oeuvres flashées.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Conception et premières expérimentations du projet Kjing</eventName>
+                    <date when="2011-2012" />
+                    <description>
+                        <p>Cet outil est développé par le laboratoire d'innovation ouverte de la métropole de Lyon, Erasme. L'objectif est de concevoir un environnement proposant des contenus multimédias accessibles à travers des interactions simples. De cette façon, il devient possible pour les personnes assurant la médiation d'un musée de transformer et d'adapter l'espace d'exposition.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Le Louvre propose un parcours de visite sur Nintendo DS</eventName>
+                    <date when="2012" />
+                    <description>
+                        <p>Souhaitant remplacer l'audio-guide, le dispositif se veut à la fois ludique et pédagogique. Par le biais d'une Nintendo DS, une console de jeu portable, les visiteurs ont accès à plusieurs parcours et peuvent se balader librement au sein du musée. Ce projet étonnant se veut destiné aux publics peu habitués à la visite muséale. Par ailleurs, il marque une nouvelle approche du patrimoine, proposant aux visiteurs de découvrir les collections du musée à travers le divertissement interactif. </p>
+                    </description>
+                </event>
             </listEvent>
+            <listEvent>
+                <event>
+                    <eventName>Documentation and conservation of the media arts heritage (DOCAM)</eventName>
+                    <date>2005-2010</date>
+                </event>
+            </listEvent>
+            <listEvent>
+                <head>Canada (à discuter ensemble)</head>
+                <event>
+                    <eventName>To the Totem Forets : Emily Carr and her Contemporaries Interpret Coastal Villages</eventName>
+                    <date when="1999">automne 1999</date>
+                    <description>
+                        <p>An on-line version of a physical exhibit created by the Art Gallery of Greter Victoria (AGGV)</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Artropolis 97</eventName>
+                    <date when="1997">1997</date>
+                    <description>
+                        <p>CD-Rom accompagnant l’exposition de l’Artropolis Society de Vancouver</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>The Canadian Collection of the National Gallery of Canada: Three Centuries of Art by over 2 000 Artists (NGC)</eventName>
+                    <date when="1997" />
+                    <description>
+                        <p>CD-Rom</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Georges Legrady: From Analogue to Digital. Photography and Interactive Media (NGC)</eventName>
+                    <date when="1999">1999</date>
+                    <description>
+                        <p>CD-Rom accompagnant l’exposition de la NGC et du CMCP</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>CyberMuse (NGA)</eventName>
+                    <date when="1999-05">mai 1999</date>
+                    <description>
+                        <p>Lancé comme un service d’éducation interactif avec le support de Silicon Graphics Canada et de la fondation American Express. "part of a broader strategy designed to increase accessibility to our [the NGC] collections through an expanded repertoire of educational programs and innovative communications efforts."</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Virtual Museum Canada</eventName>
+                    <date when="2001">2001</date>
+                    <description>
+                        <p>http://www.virtualmuseum.ca</p>
+                        <p>https://fr.wikipedia.org/wiki/Musées_numériques_Canada</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Amico</eventName>
+                    <date when="2001">2001</date>
+                </event>
+                <event>
+                    <eventName>CyberMuse, Phase II – Art Unlimited (NGA)</eventName>
+                    <date when="2002-09">septembre 2022</date>
+                    <description>
+                        <p>http://cybermuse.gallery.ca</p>
+                    </description>
+                </event>
+            </listEvent>
+            <!-- divers
+            The Best of the Web, http://botw.org/1994/awards/media.html-->
         </body>
     </text>
 </TEI>
