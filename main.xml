@@ -60,6 +60,20 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
             <listEvent>
                 <head>Les grandes étapes</head>
                 <event>
+                    <eventName>Premiers changements sociétaux impulsés par le numérique</eventName>
+                    <date from="1960" to="1970" />
+                    <description>
+                        <p>Ces premiers changements de société en lien avec l'évolution du numérique sont impulsés par des groupes et des mouvements, avant d'être des effets technologiques. Ainsi, la fin des années 1960 voit l'apparition de projets de communautés virtuelles. Dans le même temps, l'émergence de contre-cultures hippies suscite de nouveaux questionnements quant à l'abolition des frontières séparant art, science, culture et vie en société (Vinck, 2016).</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Développement des communautés informatiques universitaires</eventName>
+                    <date from="1970" to="1980" />
+                    <description>
+                        <p>Les années 1970 correspondent à l'apparition et au développement de communautés universitaires au sein desquelles les ordinateurs sont connectés en réseaux afin de favoriser les échanges. C'est dans ce cadre que se développe une culture de l'accès libre et ouvert, toujours ancrée dans le mouvement actuel des humanités numériques (Vinck, 2016).</p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Premières conceptions d'expositions de type interactif</eventName>
                     <date from="1980" to="1990" />
                     <description>
@@ -140,13 +154,6 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date when="1989" />
                     <description>
                         <p>Dans le cadre de cette exposition, un ordinateur est mis à disposition des visiteurs afin qu'ils puissent accéder à la banque d'images et des fiches informatisées du patrimoine Rhône-alpins, soit 13 000 images. Cet exemple démontre la volonté des musées d'utiliser les innovations technologiques non plus seulement au service de la numérisation et de la conservation des oeuvres à des fins scientifiques, mais également afin de partager ce contenu avec les visiteurs (Andreacola, 2014).</p>
-                    </description>
-                </event>
-                <event>
-                    <eventName>Publication du CD-Rom "Microsoft’ Art Gallery: The Collection of the National Gallery"</eventName>
-                    <date when="1993" />
-                    <description>
-                        <p>Première utilisation sérieure du Multimédia.</p>
                     </description>
                 </event>
                 <event>
@@ -285,6 +292,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date when="2012" />
                     <description>
                         <p>Souhaitant remplacer l'audio-guide, le dispositif se veut à la fois ludique et pédagogique. Par le biais d'une Nintendo DS, une console de jeu portable, les visiteurs ont accès à plusieurs parcours et peuvent se balader librement au sein du musée. Ce projet étonnant se veut destiné aux publics peu habitués à la visite muséale. Par ailleurs, il marque une nouvelle approche du patrimoine, proposant aux visiteurs de découvrir les collections du musée à travers le divertissement interactif. </p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Projet de loi sur le numérique en France</eventName>
+                    <date when="2015" />
+                    <description>
+                        <p>Ce projet de loi suscite un débat autour de multiples questions, notamment quant au libre accès aux publications scientifiques et aux données de recherche ainsi que concernant le droit sur les données scientifiques pour créer des services à valeur ajoutée. Il s'agit alors d'interroger la viabilité économique d'une telle liberté d'accès (Vinck, 2016) ainsi que ses conséquences en matière de propriété intellectuelle.</p>
                     </description>
                 </event>
             </listEvent>
