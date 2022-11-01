@@ -150,6 +150,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
+                    <eventName>Publication du CD-Rom "Microsoft’ Art Gallery: The Collection of the National Gallery"</eventName>
+                    <date when="1993" />
+                    <description>
+                        <p>Première utilisation sérieure du Multimédia.</p>
+                    </description>
+                </event>
+                <event>
                     <eventName>WebMuseum (Le Louvre)</eventName>
                     <date when="1994" />
                     <description>
@@ -328,8 +335,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Virtual Museum Canada</eventName>
                     <date when="2001">2001</date>
                     <description>
-                        <p>http://www.virtualmuseum.ca</p>
-                        <p>https://fr.wikipedia.org/wiki/Musées_numériques_Canada</p>
+                        <p>http://www.virtualmuseum.ca https://fr.wikipedia.org/wiki/Musées_numériques_Canada</p>
                     </description>
                 </event>
                 <event>
