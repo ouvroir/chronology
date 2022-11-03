@@ -106,6 +106,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
             <listEvent>
                 <head>Liste d’événements</head>
                 <event>
+                    <eventName>Réalisation d'une base de données de l'Inventaire général</eventName>
+                    <date when="1969" />
+                    <description>
+                        <p>Lors de sa présentation, cette base de données suscita un important scepticisme chez les historiens de l'art. Si cet événement semble anecdotique, il révèle les réticences suscitées par l'émergence de l'utilisation des outils numériques en matière de conservation du patrimoine (Couillard, 2019).</p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Premier ordinateur au sein d'un musée</eventName>
                     <date when="1970/72" />
                     <description>
@@ -117,6 +124,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date when="1971" />
                     <description>
                         <p>Cette invention permet de créer des machines plus puissantes, plus rapides et plus fiables. Par ailleurs, elle permet de réduire les coûts et la taille des ordinateurs, ce qui suscite une démocratisation des usages au sein des entreprises dans un premier temps, puis dans les foyers par la suite.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Publication du premier guide informatique à destination des professionnels du patrimoine</eventName>
+                    <date when="1972" />
+                    <description>
+                        <p>Intitulé "L’informatique appliquée à la réalisation de l’Inventaire général des monuments et des richesses artistiques de la France", ce guide  est publié conjointement par le ministère des Affaires culturelles et le ministère de l'Éducation nationale. Il s'agit d'un document fondamental, posant les jalons pour la création des premières bases de données informatiques dans le but d'améliorer les outils informatiques destinés à la connaissance du patrimoine français (Couillard, 2019).</p>
                     </description>
                 </event>
                 <event>
@@ -193,6 +207,27 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
+                    <eventName>Le Musée des Beaux-Arts de Bordeaux se dote d'un site Internet</eventName>
+                    <date when="1995" />
+                    <description>
+                        <p>Malgré un budget inexistant, le conservateur des Beaux-Arts de Bordeaux initie ce projet, qu'il est aujourd'hui possible de qualifier de précurseur. Si par la suite, des prestataires extérieurs seront amenés à intervenir dans le cadre de mécénats de compétences ou bénévolement, cette première tentative est développée en interne (Couillard, 2019).</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Colloque "Patrimoine et Multimédia - Le rôle du conservateur"</eventName>
+                    <date when="1997" />
+                    <description>
+                        <p>Ce colloque s'est tenu à la Bibliothèque Nationale de France et participe à la réaffirmation du rôle de conservateur au sein de l'institution muséale. Il s'agit également d'un moyen de susciter la confiance des professionels en l'utilisation du multimédia (Couillard, 2019).</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Mise en place du Plan d'action gouvernemental pour la société d'information (PAGSI)</eventName>
+                    <date when="1998" />
+                    <description>
+                        <p>Ce plan est mis en place par le gouvernement et fait de la culture un domaine privilégié de la diffusion et de l'utilisation des technologies numériques. (Couillard, 2019).</p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Publication de l'enquête sur les Premiers usages des CD-Rom des musées</eventName>
                     <date when="2000" />
                     <description>
@@ -205,6 +240,20 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date when="2000" />
                     <description>
                         <p>Il s'agit d'une initiative portée par la Cité des Sciences et de l'Industrie et qui s'inspire de l'Experience Museum Project Museum de Seattle. Au sein de ce dernier projet, les visiteurs avaient la possibilité d'enregistrer des objets pendant la visite à l'aide d'un PDA. Ils pouvaient par la suite accéder à des informations supplémentaires relatives aux objets sélectionnés sur leurs ordinnateurs personnels par le baisi d'une connection Internet (Andreacola, 2014).</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Définition de la loi dite "loi-musée"</eventName>
+                    <date when="2002" />
+                    <description>
+                        <p>Selon cette définition, les "musées de France" sont dans l'obligation de formaliser un projet culturel et scientifique (PSC) ainsi que de proposer un service public. Dans ce cadre, les établissements nationaux peuvent faire démonstration de leur capacité à déployer les moyens financiers et humains nécessaires au développement d'offres numériques de plus en plus sophistiquées (Couillard, 2019).</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Première mention de "politiques culturelles numériques"</eventName>
+                    <date when="2002" />
+                    <description>
+                        <p>Cette première occurence du terme de "politiques culturelles numériques" apparaît dans un texte ministériel, dans le cadre d'un bilan du PAGSI (Plan d'Action Gouvernementale pour la Société de l'Information). Ce plan gouvernemental avait pour objectif de faire de la culture un des domaines privilégiés de l'application des "nouvelles technologies de l'information et de la communication", notamment pour favoriser le développement économique (Couillard, 2019). Il est intéressant de noter l'emploi du pluriel, suggérant une adaptation des applications de ces politiques, notamment en fonction des patrimoines.</p>
                     </description>
                 </event>
                 <event>
@@ -299,6 +348,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date when="2015" />
                     <description>
                         <p>Ce projet de loi suscite un débat autour de multiples questions, notamment quant au libre accès aux publications scientifiques et aux données de recherche ainsi que concernant le droit sur les données scientifiques pour créer des services à valeur ajoutée. Il s'agit alors d'interroger la viabilité économique d'une telle liberté d'accès (Vinck, 2016) ainsi que ses conséquences en matière de propriété intellectuelle.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Lancement de "L'Incubateur du patrimoine"</eventName>
+                    <date when="2018" />
+                    <description>
+                        <p>Ce projet est lancé par la Mission de la Stratégie, de la Prospective et du Numérique (MSPN), au sein de la direction générale du Centre des Monuments Nationaux. Son objectif est de définir les futures orientations de l'institution dans le domaine numérique et d'expérimenter un certain nombre de dispositifs (Couillard, 2019).</p>
                     </description>
                 </event>
             </listEvent>
