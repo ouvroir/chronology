@@ -113,6 +113,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
+                    <eventName>Projet Gutenberg</eventName>
+                    <date when="1970" />
+                    <description>
+                        <p>Ce projet collectif de numérisation de livres existants en version papier a pour objectif de créer une bibliothèque électronique qui se veut universelle et accessible au plus grand nombre. Les oeuvres numérisées appartiennent au domaine public (Vinck, 2016). </p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Premier ordinateur au sein d'un musée</eventName>
                     <date when="1970/72" />
                     <description>
@@ -155,6 +162,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                         <p>Publié par Simon Nora et Alain Minc, ce rapport français porte sur les moyens à employer afin de susciter une réflexion nouvelle sur les moyens de conduire l'informatisation de la société.</p>
                     </description>
                     <p />
+                </event>
+                <event>
+                    <eventName>Début de l'Inventaire général du patrimoine</eventName>
+                    <date when="1980" />
+                    <description>
+                        <p>Cet Inventaire général du patrimoine s'appui sur les outils numériques et suscite la création de bases de données dédiées à l'architecture avec Mérimée, aux objets mobiliers avec Palissy, aux illustrations avec Mémoire et aux références documentaires avec Archidoc (Vinck, 2016). </p>
+                    </description>
                 </event>
                 <event>
                     <eventName>Apparitions successives d'outils numériques au sein des institutions muséales françaises</eventName>
@@ -211,6 +225,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date when="1995" />
                     <description>
                         <p>Malgré un budget inexistant, le conservateur des Beaux-Arts de Bordeaux initie ce projet, qu'il est aujourd'hui possible de qualifier de précurseur. Si par la suite, des prestataires extérieurs seront amenés à intervenir dans le cadre de mécénats de compétences ou bénévolement, cette première tentative est développée en interne (Couillard, 2019).</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Création de Gallica</eventName>
+                    <date when="1997" />
+                    <description>
+                        <p>Développée par la Bibliothèque nationale de France, cette base de données accessible en ligne met à disposition un nombre considérable de livres, journaux et cartes en format image et texte (Vinck, 2016). </p>
                     </description>
                 </event>
                 <event>
