@@ -106,6 +106,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
             <listEvent>
                 <head>Liste d’événements</head>
                 <event>
+                    <eventName>Création de l'ARPANET</eventName>
+                    <date when="1969" />
+                    <description>
+                        <p>Fondé par le gouvernement américain, l'ARPANET (Advanced Research Projects Agency Network) est considéré comme étant l'ancêtre d'Internet. Ce projet avait pour objectif de créer un réseau permettant de lier des superordinateurs à des institutions académiques et universitaires. Sa première démonstration officielle date de 1972 (Bauer, 2002).</p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Réalisation d'une base de données de l'Inventaire général</eventName>
                     <date when="1969" />
                     <description>
@@ -178,10 +185,24 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
+                    <eventName>Développement de Trillium</eventName>
+                    <date when="1988" />
+                    <description>
+                        <p>Développé en collaboration entre le Canadian Heritage Information Network (CHIN) et l'Association des Musées de l'Ontario (AMO), ce projet vise à susciter une collaboration entre les institutions participantes basée sur l'accès des bases de données nationales (Bauer, 2002).</p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Exposition "Quelle mémoire pour demain ?" présentée à Grenoble au Musée dauphinois</eventName>
                     <date when="1989" />
                     <description>
                         <p>Dans le cadre de cette exposition, un ordinateur est mis à disposition des visiteurs afin qu'ils puissent accéder à la banque d'images et des fiches informatisées du patrimoine Rhône-alpins, soit 13 000 images. Cet exemple démontre la volonté des musées d'utiliser les innovations technologiques non plus seulement au service de la numérisation et de la conservation des oeuvres à des fins scientifiques, mais également afin de partager ce contenu avec les visiteurs (Andreacola, 2014).</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Lancement du World Wide Web (WWW) ou de la Toile mondiale</eventName>
+                    <date when="1992" />
+                    <description>
+                        <p>Le lancement de ce mode de navigation de l'Internet s'appuie sur le HyperText Markup Language (HTML) qui permet de décrirer et de structurer des données, notamment au sein d'une page web (Bauer, 2002).</p>
                     </description>
                 </event>
                 <event>
@@ -203,6 +224,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date when="1994" />
                     <description>
                         <p>Jonathan Bowen, un professeur d’informatique de la South Bank University de Londres crée un répertoire de sites web mondiaux maintenu par des volontaires. Le site fut adopté comme répertoire par l’ICOM en 1996.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Développement d'une nouvelle mission d'accessibilité des données au sein du Canadian Heritage Information Network (CHIN)</eventName>
+                    <date when="1995" />
+                    <description>
+                        <p>L'accessibilité de ces données propres au patrimoine international se veut à destination d'un public académique mais également des musées canadiens. Cette base de données est accessible à partir d'octobre 1995, avant de proposer une première exposition virtuelle intitulée "Christmas Traditions in France and Canada" au mois de décembre. D'autres expositions virtuelles suivront par la suite, faisant du CHIN une structure précurseure en matière de mise en valeur du patrimoine par le biais du numérique : "Group of Seven" en 2001, "Panoramas: The North American Landscape in Art" également en 2001 (Bauer, 2002).</p>
                     </description>
                 </event>
                 <event>
@@ -242,6 +270,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
+                    <eventName>L'Inventaire national canadien est accessible à tous sur l'Internet</eventName>
+                    <date when="1997" />
+                    <description>
+                        <p>En 1997, le gouvernement canadien annonce son programme favorisant la connectivité des institutions à destination des canadiens. Plus largement, l'objectif est de faire du Canada la nation la plus connectée au monde (Bauer, 2002).</p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Mise en place du Plan d'action gouvernemental pour la société d'information (PAGSI)</eventName>
                     <date when="1998" />
                     <description>
@@ -261,6 +296,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date when="2000" />
                     <description>
                         <p>Il s'agit d'une initiative portée par la Cité des Sciences et de l'Industrie et qui s'inspire de l'Experience Museum Project Museum de Seattle. Au sein de ce dernier projet, les visiteurs avaient la possibilité d'enregistrer des objets pendant la visite à l'aide d'un PDA. Ils pouvaient par la suite accéder à des informations supplémentaires relatives aux objets sélectionnés sur leurs ordinnateurs personnels par le baisi d'une connection Internet (Andreacola, 2014).</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Ouverture du Musée Virtuel des Amériques et du Musée Virtuel du Canada</eventName>
+                    <date when="2000/2001" />
+                    <description>
+                        <p>Le Musée Virtuel des Amériques est publié en mai 2000 tandis que le Musée Virtuel du Canada est accessible en ligne à partir de mars 2001. Les objectifs de ce dernier sont de proposer des contenus de haute qualité au sein d'un environnement numérique et d'investir le développement des contenus muséaux (Bauer, 2002). </p>
                     </description>
                 </event>
                 <event>
