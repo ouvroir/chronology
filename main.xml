@@ -77,7 +77,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Premières conceptions d'expositions de type interactif et ouverture de la notion de patrimoine culturel</eventName>
                     <date from="1980" to="1990" />
                     <description>
-                        <p>Ces expositions d'un genre nouveau apparaissent au sein des musées scientifiques où la démonstration de concepts et d'idées est particulièrement pertinente. Elles restent absentes des musées d'art, où l'exposition des oeuvres ainsi que leur conservation restent les principaux enjeux. Ainsi, ce processus initié par les musées scientifiques marque le début d'une muséeologie d'idées, dépassant la simple représentation d'artefacts (Davallon, 1992). Par ailleurs, dans le domaine de la recherche, la notion de patrimoine culturel est questionnée, alimentant la réflexion dans ce domaine. Ainsi, la fin des années 1980 voit l'apparition des premiers programmes d'études supérieures en muséologie, à Montréal et à Québec (Guzin Lukic, 2015). En France, c'est la médiation culturelle qui fait l'objet d'une étude plus approfondie (Paquin et Lemay-Perreault, 2016). </p>
+                        <p>Ces expositions d'un genre nouveau apparaissent au sein des musées scientifiques où la démonstration de concepts et d'idées est particulièrement pertinente. Elles restent absentes des musées d'art, où l'exposition des oeuvres ainsi que leur conservation restent les principaux enjeux. Ainsi, ce processus initié par les musées scientifiques marque le début d'une muséologie d'idées, dépassant la simple représentation d'artefacts (Davallon, 1992). Par ailleurs, dans le domaine de la recherche, la notion de patrimoine culturel est questionnée, alimentant la réflexion dans ce domaine. Ainsi, la fin des années 1980 voit l'apparition des premiers programmes d'études supérieures en muséologie, à Montréal et à Québec (Guzin Lukic, 2015). En France, c'est la médiation culturelle qui fait l'objet d'une étude plus approfondie (Paquin et Lemay-Perreault, 2016). </p>
                     </description>
                 </event>
                 <event>
@@ -141,6 +141,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
+                    <eventName>Création du Programme National d'inventaire canadien (ancien RCIP)</eventName>
+                    <date when="1972" />
+                    <description>
+                        <p>Cet organisme de service intégré au ministère du Patrimoine canadien a pour objectif d'offrir des ressources dans le cadre de la gestion des collections muséales canadiennes. Travaillant aussi bien sur la documentation et la gestion de ces collections, il joue également un rôle en matière de diffusion de l'information, en particulier en ligne. Depuis sa création, cet organisme a connu plusieurs phases, s'adaptant à la fois à l'évolution des politiques culturelles et des technologies numériques. Si des premiers changements sont à noter dans les années 1980, c'est notamment dans les années 1990 que l'organisation évolue et s'adapte à la démocratisation de l'Internet. (Bauer, 2002).</p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Publication du premier guide informatique à destination des professionnels du patrimoine</eventName>
                     <date when="1972" />
                     <description>
@@ -171,10 +178,17 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <p />
                 </event>
                 <event>
-                    <eventName>Début de l'Inventaire général du patrimoine</eventName>
+                    <eventName>Début de l'Inventaire général du patrimoine en France</eventName>
                     <date when="1980" />
                     <description>
                         <p>Cet Inventaire général du patrimoine s'appui sur les outils numériques et suscite la création de bases de données dédiées à l'architecture avec Mérimée, aux objets mobiliers avec Palissy, aux illustrations avec Mémoire et aux références documentaires avec Archidoc (Vinck, 2016). </p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Le Programme d'Inventaire National canadien devient le Réseau canadien d'information sur le patrimoine (RCIP)</eventName>
+                    <date when="1982" />
+                    <description>
+                        <p>Au-delà d'un changement de nom, cette transformation introduit un fonctionnement centralisé au sein de l'institution ainsi qu'un systéme automatisé de gestion de l'information à destination des structures patrimoniales canadiennes (Bauer, 2002).</p>
                     </description>
                 </event>
                 <event>
