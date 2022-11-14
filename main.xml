@@ -185,6 +185,20 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
+                    <eventName>Lancement du premier PC</eventName>
+                    <date when="1981" />
+                    <description>
+                        <p>Équipé d'un logiciel conçu par Microsoft, ce premier PC est lancé par IBM. Dans le même temps, Adam Osborne lance le premier ordinateur portable. Dans ce cadre, des groupes de hackers apparaissent notamment aux États-Unis et en Allemagne.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Invention du CD-Rom</eventName>
+                    <date when="1982" />
+                    <description>
+                        <p>Lancé par les entreprises Philips et Sony, le CD devient rapidement le premier support numérique pour la musique. La démocratisation de son usage va de pair avec celle de l'ordinateur.</p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Le Programme d'Inventaire National canadien devient le Réseau canadien d'information sur le patrimoine (RCIP)</eventName>
                     <date when="1982" />
                     <description>
@@ -291,10 +305,17 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
+                    <eventName>Première exposition proposant un catalogue sur CD-Rom au Canada</eventName>
+                    <date when="1997-1998" />
+                    <description>
+                        <p>Organisée conjointement par le Musée des Beaux-Arts du Canada et par le Musée canadien de la photographie contemporaine, cette exposition s'est déroulée entre octobre 1997 et janvier 1998 et présentait le travail de George Legrady.Cette rétrospective se basait sur une présentation allant des supports analogiques aux medias numériques et développée par Legrady lui-même. L'objectif de ce dispositif est d'étendre le contenu proposé au sein d'un catalogue d'exposition classique par le biais d'un CD-Rom imaginé par l'artiste lui-même(Broadbent, 2003).</p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Mise en place du Plan d'action gouvernemental pour la société d'information (PAGSI)</eventName>
                     <date when="1998" />
                     <description>
-                        <p>Ce plan est mis en place par le gouvernement et fait de la culture un domaine privilégié de la diffusion et de l'utilisation des technologies numériques. (Couillard, 2019).</p>
+                        <p>Ce plan est mis en place par le gouvernement et fait de la culture un domaine privilégié de la diffusion et de l'utilisation des technologies numériques (Couillard, 2019).</p>
                     </description>
                 </event>
                 <event>
@@ -323,7 +344,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Projet Visite+</eventName>
                     <date when="2000" />
                     <description>
-                        <p>Il s'agit d'une initiative portée par la Cité des Sciences et de l'Industrie et qui s'inspire de l'Experience Museum Project Museum de Seattle. Au sein de ce dernier projet, les visiteurs avaient la possibilité d'enregistrer des objets pendant la visite à l'aide d'un PDA. Ils pouvaient par la suite accéder à des informations supplémentaires relatives aux objets sélectionnés sur leurs ordinnateurs personnels par le baisi d'une connection Internet (Andreacola, 2014).</p>
+                        <p>Il s'agit d'une initiative portée par la Cité des Sciences et de l'Industrie et qui s'inspire de l'Experience Music Project Museum de Seattle. Au sein de ce dernier projet, les visiteurs avaient la possibilité d'enregistrer des objets pendant la visite à l'aide d'un PDA. Ils pouvaient par la suite accéder à des informations supplémentaires relatives aux objets sélectionnés sur leurs ordinnateurs personnels par le baisi d'une connection Internet (Andreacola, 2014).</p>
                     </description>
                 </event>
                 <event>
