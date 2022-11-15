@@ -63,7 +63,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Premiers changements sociétaux impulsés par le numérique</eventName>
                     <date from="1960" to="1970" />
                     <description>
-                        <p>Ces premiers changements de société en lien avec l'évolution du numérique sont impulsés par des groupes et des mouvements, avant d'être des effets technologiques. Ainsi, la fin des années 1960 voit l'apparition de projets de communautés virtuelles. Dans le même temps, l'émergence de contre-cultures hippies suscite de nouveaux questionnements quant à l'abolition des frontières séparant art, science, culture et vie en société (Vinck, 2016).</p>
+                        <p>Ces premiers changements de société en lien avec l'évolution du numérique sont impulsés par des groupes et des mouvements, avant d'être des effets technologiques. Ainsi, la fin des années 1960 voit l'apparition de projets de communautés virtuelles. Dans le même temps, l'émergence de contre-cultures hippies suscite de nouveaux questionnements quant à l'abolition des frontières séparant art, science, culture et vie en société (Vinck, 2016). Parallèlement à ces questionnements relatifs au numérique, de nouvelles remises en question émergent quant aux missions scientifiques et politiques de l'institution muséale (Lagasse, 2018).</p>
                     </description>
                 </event>
                 <event>
@@ -217,6 +217,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date when="1988" />
                     <description>
                         <p>Développé en collaboration entre le Canadian Heritage Information Network (CHIN) et l'Association des Musées de l'Ontario (AMO), ce projet vise à susciter une collaboration entre les institutions participantes basée sur l'accès des bases de données nationales (Bauer, 2002).</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Installation The Legible City de Jeffrey Shaw</eventName>
+                    <date when="1989" />
+                    <description>
+                        <p>Cette installation est considérée comme étant l'une des premières expérience d'immersion interactive en temps réel. Le visiteur pouvait en effet y utiliser une bicyclette afin d'accéder à une interface lui permettant d'explorer virtuellement trois villes, Karlsruhe, Amsterdam et New York (Serexhe, 2010).</p>
                     </description>
                 </event>
                 <event>
