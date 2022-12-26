@@ -351,7 +351,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Projet Visite+</eventName>
                     <date when="2000" />
                     <description>
-                        <p>Il s'agit d'une initiative portée par la Cité des Sciences et de l'Industrie et qui s'inspire de l'Experience Music Project Museum de Seattle. Au sein de ce dernier projet, les visiteurs avaient la possibilité d'enregistrer des objets pendant la visite à l'aide d'un PDA. Ils pouvaient par la suite accéder à des informations supplémentaires relatives aux objets sélectionnés sur leurs ordinnateurs personnels par le baisi d'une connection Internet (Andreacola, 2014).</p>
+                        <p>Il s'agit d'une initiative portée par la Cité des Sciences et de l'Industrie et qui s'inspire de l'Experience Music Project Museum de Seattle. Au sein de ce dernier projet, les visiteurs avaient la possibilité d'enregistrer des objets pendant la visite à l'aide d'un PDA. Ils pouvaient par la suite accéder à des informations supplémentaires relatives aux objets sélectionnés sur leurs ordinnateurs personnels par le biais d'une connection Internet (Andreacola, 2014). Par ailleurs, ce dispositif permettait aux visiteurs d'envisager la visiter à son rythme et en fonction de ses propres intérêts (Pagès, 2020).</p>
                     </description>
                 </event>
                 <event>
@@ -463,10 +463,24 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
+                    <eventName>Début d'activité de l'entreprise Histovery</eventName>
+                    <date when="2013" />
+                    <description>
+                        <p>Avec l'ambition de révolutionner l'expérience du visiteur, l'entreprise Histovery s'impose rapidement comme un acteur incontournable de la transition digitale du patrimoine. Elle lance notamment l'HistoPad, une tablette de visite se basant sur la Réalité Augmentée afin de présenter des reconstitutions historiques à 360° et des objets interactifs en 3D (Perroy, 2017). Cette innovation a été adoptée par des nombreuses institutions patrimoniales telles que le Château de Chambord, la Conciergerie ou même au National Building Museum de Washington (Pagès, 2020). </p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Projet de loi sur le numérique en France</eventName>
                     <date when="2015" />
                     <description>
                         <p>Ce projet de loi suscite un débat autour de multiples questions, notamment quant au libre accès aux publications scientifiques et aux données de recherche ainsi que concernant le droit sur les données scientifiques pour créer des services à valeur ajoutée. Il s'agit alors d'interroger la viabilité économique d'une telle liberté d'accès (Vinck, 2016) ainsi que ses conséquences en matière de propriété intellectuelle.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Art # connexion au Grand Palais</eventName>
+                    <date when="2018" />
+                    <description>
+                        <p>Se déroulant du 7 au 9 juillet 2018, cet événément ouvert à tous et gratuit réunissait en un même lieu des expériences innovantes et numériques, produites par les institutions culturelles françaises. Entre réalité virtuelle et augmentée, projections immersives, numérisations 3D ou encore écrans interactifs, les visiteurs avaient la possibilité d'expérimenter les différents outils mis à leur disposition. Par ailleurs, ce projet a été conçu en partenariat avec Google Arts & Culture, dans le cadre de son développement d'expériences numériques immersives de mise en valeur du patrimoine (Pagès, 2020).</p>
                     </description>
                 </event>
                 <event>
