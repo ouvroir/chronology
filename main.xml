@@ -504,6 +504,34 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                         <p>C'est durant l'été 2020 que le ministre français de la Culture Franck Riester annonce le déploiement de 1000 micro-folies d'ici 2022. Il s'agit d'espaces modulables présentés comme des "musées numériques" favorisant la création et la diffusion de l'art. Ce projet est "hors les murs" consiste donc à sensibiliser les publics les plus éloignés de la culture institutionnelle, tout en impliquant de grands acteurs culturels tels que le Musée du Louvre ou encore l'Opéra National de Paris (Pagès, 2020).</p>
                     </description>
                 </event>
+                <event>
+                    <eventName>Ouverture de la plateforme Petit Louvre</eventName>
+                    <date when="2020"/>
+                    <description>
+                        <p>C'est afin de faire face à la pandémie et à la fermeture des musées que le Louvre a développé ce dispositif à destination des plus jeunes. Accessibles en ligne, les contenus proposés comprennent des contes animés, des galeries d'oeuvres ou encore une série de podcasts développés avec France inter. En parallèle, le musée a également développé des contenus pour les autres publics, toujours accessibles en ligne, allant de la lettre d'information aux conférences en direct en passant par les visites virtuelles. Ainsi, le site du Louvre a connu une fréquentation historique de 11 millions de visite durant le premier confinement (Pham, 2022).</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Mise en place du pass Culture</eventName>
+                    <date when="2021"/>
+                    <description>
+                        <p>Ce dispositif proposé par l'État français vise à favoriser la démocratisation culturelle en proposant notamment à tous les jeunes de 18 ans de disposer d'un crédit de 300 euros, utilisable pendant deux ans par le biais d'une application L'objectif, au-delà de permettre à ce type de public de bénéficier d'une consommation culturelle facilitée, est également de permettre l'émergence de nouvelles pratiques culturelles. Ce projet résulte également d'un constat quant à la production et la consommation culturelle qui est celui de la multiplication des écrans. Considérés comme à la fois addictif et une source d'opportunités créatives, le numérique revêt plus que jamais une ambivalence au sein de la sphére culturelle (Bachelot-Narquin, 2022).</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Mise en ligne de l'espace Louvre +</eventName>
+                    <date when="2021"/>
+                    <description>
+                        <p>Prolongeant son désir de maintenir le lien avec son public hors-les-murs, le Louvre propose en décembre 2021 un espace comprenant des vidéos, des podccasts ainsi que des visites virtuelles mettant en valeur l'utilisation d'outils numériques innovants. Il s'agit donc d'un espace en ligne pensé pour tous, quelque soit les usages et les attentes (Pham, 2022).</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Développement et mise en ligne du projet Prometheus.Museum</eventName>
+                    <date when="2021-2022"/>
+                    <description>
+                        <p>Ce projet novateur concilie numérique et patrimoine immatériel. C'est en s'inspirant de récits expographiques de musées de société, comme le Musée de la civilisation de Québec notamment, que ce projet s'appui sur trois regards : celui de Vanessa Foltier, présidente du comité des fêtes d'Izaourt, Vincent Boya, conseiller municipal d'Esténos, et Père Arnaud Richard, curé de Bagnères-de-Luchon. De cette façon, ce musée numérique propose une mise en valeur novatrice des fêtes du feu des solstices dans les Pyrénées. Par le biais de vidéos et d'une carte interactive, le site met en évidence l'importance de ces célébrations locales, inscrites sur la Liste représentative du patrimoine culturel immatériel de l'humanité par l'UNESCO. Par ailleurs, le rôle citoyen du musée est également développé au sein de cette interface par une approche interdisciplinaire du sujet (Soulier et Roigé, 2022).</p>
+                    </description>
+                </event>
             </listEvent>
             <listEvent>
                 <event>
