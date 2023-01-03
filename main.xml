@@ -443,9 +443,9 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Mise en place du dispositif  "Blinkster" au Centre Pompidou</eventName>
-                    <date when="2011/2012" />
+                    <date when="2011-2012" />
                     <description>
-                        <p>Présenté dans le cadre de Futur en Seine, ce dispositif est intégré à la visite du Centre Pompidou afin de permettre aux visiteurs d'effectuer une reconnaissance d'oeuvres. Développé en partenariat avec la société Euréva, Blinkster est une application mobile dotée d'un système de reconnaissance faciale par le biais duquel le visiteur peut avoir accès à des informations supplémentaires sur les oeuvres flashées.</p>
+                        <p>Présenté dans le cadre de Futur en Seine, ce dispositif est intégré à la visite du Centre Pompidou afin de permettre aux visiteurs d'effectuer une reconnaissance d'oeuvres. Développé en partenariat avec la société Euréva, Blinkster est une application mobile dotée d'un système de reconnaissance faciale par le biais duquel le visiteur peut avoir accès à des informations supplémentaires sur les oeuvres flashées (IRI, 2011).</p>
                     </description>
                 </event>
                 <event>
@@ -453,6 +453,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date when="2011-2012" />
                     <description>
                         <p>Cet outil est développé par le laboratoire d'innovation ouverte de la métropole de Lyon, Erasme. L'objectif est de concevoir un environnement proposant des contenus multimédias accessibles à travers des interactions simples. De cette façon, il devient possible pour les personnes assurant la médiation d'un musée de transformer et d'adapter l'espace d'exposition.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Organisation d'une journée professionnelle sur l'informatisation, la numérisation et la mise en ligne des collections des musées de France</eventName>
+                    <date when="2012" />
+                    <description>
+                        <p>Organisée le 8 juin 2012 par le Ministère de la Culture français, cette journée est l'occasion d'évoquer les enjeux soulevés par la diffusion numérique des collections des musées que ce soit concernant les publics visés, les politiques culturelles envisagées ou encore les moyens numériques déployés. Les contributions de cette journée sont ensuite publiées sur le portail de la base Joconde, afin de favoriser les échanges et la réflexion sur le sujet(Ministère de la Culture, 2012).</p>
                     </description>
                 </event>
                 <event>
@@ -480,7 +487,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Art # connexion au Grand Palais</eventName>
                     <date when="2018" />
                     <description>
-                        <p>Se déroulant du 7 au 9 juillet 2018, cet événément ouvert à tous et gratuit réunissait en un même lieu des expériences innovantes et numériques, produites par les institutions culturelles françaises. Entre réalité virtuelle et augmentée, projections immersives, numérisations 3D ou encore écrans interactifs, les visiteurs avaient la possibilité d'expérimenter les différents outils mis à leur disposition. Par ailleurs, ce projet a été conçu en partenariat avec Google Arts & Culture, dans le cadre de son développement d'expériences numériques immersives de mise en valeur du patrimoine (Pagès, 2020).</p>
+                        <p>Se déroulant du 7 au 9 juillet 2018, cet événément ouvert à tous et gratuit réunissait en un même lieu des expériences innovantes et numériques, produites par les institutions culturelles françaises. Entre réalité virtuelle et augmentée, projections immersives, numérisations 3D ou encore écrans interactifs, les visiteurs avaient la possibilité d'expérimenter les différents outils mis à leur disposition. Par ailleurs, ce projet a été conçu en partenariat avec Google Arts et Culture, dans le cadre de son développement d'expériences numériques immersives de mise en valeur du patrimoine (Pagès, 2020).</p>
                     </description>
                 </event>
                 <event>
