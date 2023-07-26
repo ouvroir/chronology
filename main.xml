@@ -33,7 +33,10 @@
                 <head>Présentation</head>
                 <p>Cette chronologie de la muséologie numérique couvre la période 1960 à nos jours.</p>
                 <p>Elle a été établie à partir de recherches menées dans des sources disparates pour identifier des moments jalons de la muséologie numérique. Cette chronologie n’a pas vocation à être exhaustive, les événements qui y figurent ont été sélectionnés en raison de leur caractère inédit ou novateur ou de leurs retombées ultérieures. La muséologie est comprise de manière étendue pour inclure l’ensemble des réalisations culturelles s’appropriant les moyens numériques. Bien sûr, certains projets n’ont parfois pas connus de réelle postérité mais ils représentaient à l’époque de leur réalisation une innovation importante. La chronologie s’accompagne d’une périodisation et de repères chronologiques.</p>
+                <!-- exemple lien image -->
                 <figure corresp="zotero://select/groups/4804195/items/N5FMDQR2"/>
+                <!-- exemple lien citation -->
+                <ref target="zotero://select/groups/4804195/items/N5FMDQR2">(auteur date)</ref>
             </div>
         </front>
         <body>
