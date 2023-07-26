@@ -70,34 +70,113 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
             <listEvent>
                 <!-- @todo préciser les dates -->
                 <head>Repères historiques</head>
-                <event>
-                    <eventName>Invention du Courriel</eventName>
-                    <date>1973</date>
+                <event type="point">
+                    <eventName>Création de l'ARPANET</eventName>
+                    <date when="1969-10-29">29 octobre 1969</date>
+                    <p>Fondé par le gouvernement américain, l’ARPANET (Advanced Research Projects Agency Network) est considéré comme étant l’ancêtre d’Internet. Ce projet avait pour objectif de créer un réseau permettant de lier des superordinateurs à des institutions académiques et universitaires. Le 29 octobre 1969 est envoyé le premier message entièrement lisible via ARPANET (IONOS, 2018). Sa première démonstration officielle date de 1972 (Bauer, 2002).</p>
                 </event>
-                <event>
-                    <eventName>Rapport Nora-Minc</eventName>
-                    <date>1978</date>
+                <event type="point">
+                    <eventName>Invention du microprocesseur</eventName>
+                    <date when="1971-11-15">15 novembre 1971</date>
+                    <p>Fondé par le gouvernement américain, l’ARPANET (Advanced Research Projects Agency Network) est considéré comme étant l’ancêtre d’Internet. Ce projet avait pour objectif de créer un réseau permettant de lier des superordinateurs à des institutions académiques et universitaires. Sa première démonstration officielle date de 1972 (Bauer, 2002).</p>
+                </event>
+                <event type="point">
+                    <eventName>Invention du courriel</eventName>
+                    <date when="1971">1971</date>
+                    <p>L'ingénieur Ray Tomlinson utilise l'ARPANET et combine en 1971 un protocole d'envoi de messages et un protocole de réception pour créer la première application de messagerie dédiée. Par la même, il crée également le premier courriel, ouvrant la voie à un nouvel usage pour le grand public(Robert, 2019).</p>
+                </event>
+                <event type="point">
+                    <eventName>Rapport "Nora-Minc" sur l’informatisation de la société</eventName>
+                    <date when="1978-12">Décembre 1978</date>
+                    <p>Publié par Simon Nora et Alain Minc, ce rapport français porte sur les moyens à employer afin de susciter une réflexion nouvelle sur les moyens de conduire l’informatisation de la société.</p>
+                </event>
+                <event type="point">
+                    <eventName>Lancement du premier PC</eventName>
+                    <date when="1981-08-12">12 août 1981</date>
+                    <p>Équipé d’un logiciel conçu par Microsoft, ce premier ordinateur personnel est lancé par IBM, en collaboration avec Microsoft, entreprise alors méconnue. Quelques mois plus tôt, en avril, Adam Osborne lance le premier ordinateur portable, l'Osborne 1. Dans ce cadre, des groupes de hackers apparaissent notamment aux États-Unis et en Allemagne. Cet événement marque le début de la révolution informatique, l'ordinateur devenant de plus en plus accessible à tous dans les décennies qui suivent (Vahramian, 2020). </p>
+                </event>
+                <event type="point">
+                    <eventName>Invention du CD-Rom</eventName>
+                    <date when="1982">1982</date>
+                    <p>La société néerlandaise Philips publie en 1982 The Red Book for CD Audio, annonçant l'arrivée des disques compacts ou CD-Roms. Le CD devient rapidement le premier support numérique pour la musique et les premiers lecteurs apparaissent en février 1983 sur le marché. La démocratisation de son usage va de pair avec celle de l’ordinateur. (Duchêne, 1998).</p>
+                </event>
+                <event type="point">
+                    <eventName>Première version du Web</eventName>
+                    <date when="1989-03-12">12 mars 1989</date>
+                    <p>Ce premier projet imaginé par Tim Berners Lee consiste en une réorganisation des bases de données du CERN, l'Organisation européenne pour la recherche nucléaire. Tim Berners Lee propose notamment d'utiliser l'hypertexte pour lier les documents du réseau, posant ainsi les bases de ce qui deviendra le Web par la suite (Le Bourlout, 2019)</p>
+                </event>
+                <event type="point">
+                    <eventName>Ouverture du premier site Web</eventName>
+                    <date when="1990-12-20">20 décembre 1990</date>
+                    <p>Développé par Tim Berners Lee, ce premier site n'est alors que consultable par le biais du réseau interne du CERN. Ce projet est également l'occasion pour TBL, en collaboration avec Robert Caillau, de définir les bases des protocoles HTTP et HTML (Le Bourlout, 2019). </p>
+                </event>
+                <event type="point">
+                    <eventName>Lancement du World Wide Web (WWW) ou de la Toile mondiale</eventName>
+                    <date when="1991-08-06">6 août 1991</date>
+                    <p>Inventé par Tim Berners-Lee, le World Wide Web transforme Internet en le rendant accessible au grand public (Le Bourlout, 2019). Le lancement de ce mode de navigation de l’Internet s’appuie sur le HyperText Markup Language (HTML) qui permet de décrire et de structurer des données, notamment au sein d’une page web (Bauer, 2002).</p>
+                </event>
+                <event type="point">
+                    <eventName>Invention de Yahoo!</eventName>
+                    <date when="1994-01">Janvier 1994</date>
+                    <p>Avec l'explosion du nombre de sites accessibles sur le WWW apparaît rapidement la nécessité pour l'internaute de bénéficier d'un annuaire. Conçu par deux étudiants de Stanford, Jerry Yang et David Filo, le site Yahoo! devient rapidement le portail le plus important des années 1990 (Le Bourlout, 2019).</p>
+                </event>
+                <event type="point">
+                    <eventName>Arrivée d'Amazon</eventName>
+                    <date when="1995-07">Juillet 1995</date>
+                    <p>Jeff Bezos lance la première librairie en ligne, proposant ainsi une nouvelle approche du commerce par le biais du Web(Le Bourlout, 2019). </p>
+                </event>
+                <event type="point">
+                    <eventName>Lancement d'Internet Explorer</eventName>
+                    <date when="1995-08-16">16 août 1995</date>
+                    <p>Lancé par Microsoft, ce navigateur connait rapidement un succès important, dans la lignée de celui rencontré par le système d'exploitation Windows (Le Bourlout, 2019). </p>
+                </event>
+                <event type="point">
+                    <eventName>Création de Google</eventName>
+                    <date when="1998">1998</date>
+                    <p>Basé sur un système de réputation de pages et de classement des pages en fonction du nombre et de la qualité des liens qui dirigent vers elles, Google révolutionne la recherche sur le Web. Ce nouveau moteur de recherche conçu par deux ingénieurs de Stanford s'impose rapidement face à ses concurrents Yahoo! et Altavista par sa simplicité et la pertinence de ses résultats(Le Bourlout, 2019). </p>
+                </event>
+                <event type="point">
+                    <eventName>Explosion de la bulle Internet</eventName>
+                    <date when="2000-03-10">10 mars 2000</date>
+                    <p>Phénomène boursier découlant d'un développement trop rapide d'un nouveau secteur, l'explosion de la bulle Internet atteint son apogée le 10 mars 2000. C'est à la suite d'un engouement et d'une spéculation trop importante pour le secteur des technologies depuis 1999 qu'un recul important est enregistré par Wall Street. L'indice se redressera péniblement par la suite, impliquant un recul en matière d'investissement dans ce secteur (Grandontagne, 2005). </p>
+                </event>
+                <event type="point">
+                    <eventName>Lancement de Wikipédia</eventName>
+                    <date when="2001-01-15">15 janvier 2001</date>
+                    <p>Wikipédia voit le jour après l'échec de l'encyclopédié gratuite et scientifique Nupédia. C'est afin d'être en mesure de proposer un nombre plus important d'articles que le rédacteur en chef de Nupedia, Larry Sangers propose à Jimmy Wales, patron de Nupedia, d'imaginer un nouveau système de validation, entre utilisateurs. C'est ainsi que naît la première encyclopédie collaborative du Web(Le Bourlout, 2019). </p>
+                </event>
+                <event type="point">
+                    <eventName>Naissance de Facebook</eventName>
+                    <date when="2004-02-04">4 février 2004</date>
+                    <p>Le réseau social imaginé et conçu par Mark Zuckerberg était au départ un trombinoscope pour étudiants. Réunissant aujourd'hui plusieurs milliards d'utilisateurs, son utilisation des données personnelles ainsi que sa régulation des contenus suscitent de nombreuses interrogations, autant sur le plan numérique que sociétal(Le Bourlout, 2019). </p>
+                </event>
+                <event type="point">
+                    <eventName>Lancement de YouTube</eventName>
+                    <date when="2005-02-14">14 février 2005</date>
+                    <p>Les internautes s'emparent progressivement du WWW durant la seconde partie des années 2000, cherchant non plus seulement à consommer mais également à produire des contenus. L'arrivé du site de partage de vidéos YouTube incarne cette transformation des usages et révolutionne la consommation de vidéos sur le Web (Le Bourlout, 2019). </p>
+                </event>
+                <event type="point">
+                    <eventName>Lancement de l'iPhone</eventName>
+                    <date when="2007-06-29">29 juin 2007</date>
+                    <p>Le lancement du premier iPhone marque un tournant en matière d'usage téléphonique mais aussi plus largement technologique. Combinant l'accès à Internet, la téléphone mobile et l'écoute musicale, l'iPhone rompt également avec les traditionnels claviers physiques pour favoriser l'écran tactile (Bayard, 2021). </p>
+                </event>
+                <event type="point">
+                    <eventName>Arrivée des applications mobiles avec l'App Store</eventName>
+                    <date when="2008">2008</date>
+                    <p>En annonçant l'App Store, une boutique en ligne pour iPhone, Steve Jobs transforme le rapport au Web. Les programmes indépendants tendent à remplacer le navigateur dans les usages, interrogeant l'avenir possible de l'hypertexte (Le Bourlout, 2019). </p>
+                </event>
+                <event type="point">
+                    <eventName>Projet de loi sur le numérique en France</eventName>
+                    <date when="2015">2015</date>
+                    <p>Ce projet de loi suscite un débat autour de multiples questions, notamment quant au libre accès aux publications scientifiques et aux données de recherche ainsi que concernant le droit sur les données scientifiques pour créer des services à valeur ajoutée. Il s’agit alors d’interroger la viabilité économique d’une telle liberté d’accès (Vinck, 2016) ainsi que ses conséquences en matière de propriété intellectuelle.</p>
                 </event>
                 <event>
                     <eventName>[événement représentatif de la mirco-informatique]</eventName>
                     <date></date>
                 </event>
                 <event>
-                    <eventName>Invention du World Wide Web</eventName>
-                    <date>1989</date>
-                </event>
-                <!-- Gafam ? Google, Facebook, YouTube -->
-                <event>
-                    <eventName>Explosion de la bulle internet</eventName>
-                    <date>2001</date>
-                </event>
-                <event>
                     <eventName>[article Web 2.0 de Tim O’Reilly]</eventName>
                     <date>2005</date>
-                </event>
-                <event>
-                    <eventName>Lancement de l’iPhone</eventName>
-                    <date>2007</date>
                 </event>
                 <!-- occulus rift 2012 -->
                 <event>
@@ -158,13 +237,6 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
             <listEvent>
                 <head>Liste d’événements</head>
                 <event>
-                    <eventName>Création de l’ARPANET</eventName>
-                    <date when="1969"/>
-                    <description>
-                        <p>Fondé par le gouvernement américain, l’ARPANET (Advanced Research Projects Agency Network) est considéré comme étant l’ancêtre d’Internet. Ce projet avait pour objectif de créer un réseau permettant de lier des superordinateurs à des institutions académiques et universitaires. Sa première démonstration officielle date de 1972 (Bauer, 2002).</p>
-                    </description>
-                </event>
-                <event>
                     <eventName>Réalisation d’une base de données de l’Inventaire général</eventName>
                     <date when="1969"/>
                     <description>
@@ -183,13 +255,6 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date when="1970/72"/>
                     <description>
                         <p>Le Musée national des arts et traditions populaires est le premier à se doter d’un ordinateur en France. La machine permet alors de "regrouper et d’analyser les multiples informations manipulées par les spécialistes [...] qui tous ensemble travaillent à l’établissement rigoureux des connaissances et de la conservation des sciences humaines".</p>
-                    </description>
-                </event>
-                <event>
-                    <eventName>Invention du microprocesseur</eventName>
-                    <date when="1971"/>
-                    <description>
-                        <p>Cette invention permet de créer des machines plus puissantes, plus rapides et plus fiables. Par ailleurs, elle permet de réduire les coûts et la taille des ordinateurs, ce qui suscite une démocratisation des usages au sein des entreprises dans un premier temps, puis dans les foyers par la suite.</p>
                     </description>
                 </event>
                 <event>
@@ -222,32 +287,10 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
-                    <eventName>Rapport "Nora-Minc" sur l’informatisation de la société</eventName>
-                    <date when="1978"/>
-                    <description>
-                        <p>Publié par Simon Nora et Alain Minc, ce rapport français porte sur les moyens à employer afin de susciter une réflexion nouvelle sur les moyens de conduire l’informatisation de la société.</p>
-                    </description>
-                    <p/>
-                </event>
-                <event>
                     <eventName>Début de l’Inventaire général du patrimoine en France</eventName>
                     <date when="1980"/>
                     <description>
                         <p>Cet Inventaire général du patrimoine s’appui sur les outils numériques et suscite la création de bases de données dédiées à l’architecture avec Mérimée, aux objets mobiliers avec Palissy, aux illustrations avec Mémoire et aux références documentaires avec Archidoc (Vinck, 2016). </p>
-                    </description>
-                </event>
-                <event>
-                    <eventName>Lancement du premier PC</eventName>
-                    <date when="1981"/>
-                    <description>
-                        <p>Équipé d’un logiciel conçu par Microsoft, ce premier PC est lancé par IBM. Dans le même temps, Adam Osborne lance le premier ordinateur portable. Dans ce cadre, des groupes de hackers apparaissent notamment aux États-Unis et en Allemagne.</p>
-                    </description>
-                </event>
-                <event>
-                    <eventName>Invention du CD-Rom</eventName>
-                    <date when="1982"/>
-                    <description>
-                        <p>Lancé par les entreprises Philips et Sony, le CD devient rapidement le premier support numérique pour la musique. La démocratisation de son usage va de pair avec celle de l’ordinateur.</p>
                     </description>
                 </event>
                 <event>
@@ -283,13 +326,6 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date when="1989"/>
                     <description>
                         <p>Dans le cadre de cette exposition, un ordinateur est mis à disposition des visiteurs afin qu’ils puissent accéder à la banque d’images et des fiches informatisées du patrimoine Rhône-alpins, soit 13 000 images. Cet exemple démontre la volonté des musées d’utiliser les innovations technologiques non plus seulement au service de la numérisation et de la conservation des oeuvres à des fins scientifiques, mais également afin de partager ce contenu avec les visiteurs (Andreacola, 2014).</p>
-                    </description>
-                </event>
-                <event>
-                    <eventName>Lancement du World Wide Web (WWW) ou de la Toile mondiale</eventName>
-                    <date when="1992"/>
-                    <description>
-                        <p>Le lancement de ce mode de navigation de l’Internet s’appuie sur le HyperText Markup Language (HTML) qui permet de décrirer et de structurer des données, notamment au sein d’une page web (Bauer, 2002).</p>
                     </description>
                 </event>
                 <event>
