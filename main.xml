@@ -1,8 +1,10 @@
 <?xml version="1.1" encoding="UTF-8"?>
 
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<!--<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 schemas/provisoire.xsd"
     xmlns="http://www.tei-c.org/ns/1.0">
+-->    <TEI 
+        xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -16,8 +18,8 @@
                     (CRSH)</funder>
             </titleStmt>
             <publicationStmt>
-                <publisher>Ouvroir d'histoire de l'art et de muséologie numériques</publisher>
-                <publisher>CIÉCO, Partenariat Des nouveaux usages des collections dans les musées d'art</publisher>
+                <publisher>Ouvroir d’histoire de l’art et de muséologie numériques</publisher>
+                <publisher>CIÉCO, Partenariat Des nouveaux usages des collections dans les musées d’art</publisher>
                 <date from="2022">2022</date>
             </publicationStmt>
             <sourceDesc>
@@ -26,6 +28,14 @@
         </fileDesc>
     </teiHeader>
     <text>
+        <front>
+            <div>
+                <head>Présentation</head>
+                <p>Cette chronologie de la muséologie numérique couvre la période 1960 à nos jours.</p>
+                <p>Elle a été établie à partir de recherches menées dans des sources disparates pour identifier des moments jalons de la muséologie numérique. Cette chronologie n’a pas vocation à être exhaustive, les événements qui y figurent ont été sélectionnés en raison de leur caractère inédit ou novateur ou de leurs retombées ultérieures. La muséologie est comprise de manière étendue pour inclure l’ensemble des réalisations culturelles s’appropriant les moyens numériques. Bien sûr, certains projets n’ont parfois pas connus de réelle postérité mais ils représentaient à l’époque de leur réalisation une innovation importante. La chronologie s’accompagne d’une périodisation et de repères chronologiques.</p>
+                <figure corresp="zotero://select/groups/4804195/items/N5FMDQR2"/>
+            </div>
+        </front>
         <body>
             <listEvent>
                 <event type="point">
@@ -58,65 +68,107 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
             </listBibl>
             -->
             <listEvent>
+                <!-- @todo préciser les dates -->
+                <head>Repères historiques</head>
+                <event>
+                    <eventName>Invention du Courriel</eventName>
+                    <date>1973</date>
+                </event>
+                <event>
+                    <eventName>Rapport Nora-Minc</eventName>
+                    <date>1978</date>
+                </event>
+                <event>
+                    <eventName>[événement représentatif de la mirco-informatique]</eventName>
+                    <date></date>
+                </event>
+                <event>
+                    <eventName>Invention du World Wide Web</eventName>
+                    <date>1989</date>
+                </event>
+                <!-- Gafam ? Google, Facebook, YouTube -->
+                <event>
+                    <eventName>Explosion de la bulle internet</eventName>
+                    <date>2001</date>
+                </event>
+                <event>
+                    <eventName>[article Web 2.0 de Tim O’Reilly]</eventName>
+                    <date>2005</date>
+                </event>
+                <event>
+                    <eventName>Lancement de l’iPhone</eventName>
+                    <date>2007</date>
+                </event>
+                <!-- occulus rift 2012 -->
+                <event>
+                    <eventName>Lancement de Meta</eventName>
+                    <date>2022</date>
+                </event>
+                <event>
+                    <eventName>Chat GPT</eventName>
+                    <date>2023</date>
+                </event>
+            </listEvent>
+            <listEvent>
                 <head>Les grandes étapes</head>
                 <event>
                     <eventName>Premiers changements sociétaux impulsés par le numérique</eventName>
                     <date from="1960" to="1970"/>
                     <description>
-                        <p>Ces premiers changements de société en lien avec l'évolution du numérique sont impulsés par des groupes et des mouvements, avant d'être des effets technologiques. Ainsi, la fin des années 1960 voit l'apparition de projets de communautés virtuelles. Dans le même temps, l'émergence de contre-cultures hippies suscite de nouveaux questionnements quant à l'abolition des frontières séparant art, science, culture et vie en société (Vinck, 2016). Parallèlement à ces questionnements relatifs au numérique, de nouvelles remises en question émergent quant aux missions scientifiques et politiques de l'institution muséale (Lagasse, 2018).</p>
+                        <p>Ces premiers changements de société en lien avec l’évolution du numérique sont impulsés par des groupes et des mouvements, avant d’être des effets technologiques. Ainsi, la fin des années 1960 voit l’apparition de projets de communautés virtuelles. Dans le même temps, l’émergence de contre-cultures hippies suscite de nouveaux questionnements quant à l’abolition des frontières séparant art, science, culture et vie en société (Vinck, 2016). Parallèlement à ces questionnements relatifs au numérique, de nouvelles remises en question émergent quant aux missions scientifiques et politiques de l’institution muséale (Lagasse, 2018).</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Développement des communautés informatiques universitaires et redéfinition de l'institution muséale</eventName>
+                    <eventName>Développement des communautés informatiques universitaires et redéfinition de l’institution muséale</eventName>
                     <date from="1970" to="1980"/>
                     <description>
-                        <p>Les années 1970 correspondent à l'apparition et au développement de communautés universitaires au sein desquelles les ordinateurs sont connectés en réseaux afin de favoriser les échanges. C'est dans ce cadre que se développe une culture de l'accès libre et ouvert, toujours ancrée dans le mouvement actuel des humanités numériques (Vinck, 2016). Parallèlement à ce phénomène, la définition du musée est repensée et étendue, de même que le champ d'études de la muséologie (Guzin Lukic, 2015). </p>
+                        <p>Les années 1970 correspondent à l’apparition et au développement de communautés universitaires au sein desquelles les ordinateurs sont connectés en réseaux afin de favoriser les échanges. C’est dans ce cadre que se développe une culture de l’accès libre et ouvert, toujours ancrée dans le mouvement actuel des humanités numériques (Vinck, 2016). Parallèlement à ce phénomène, la définition du musée est repensée et étendue, de même que le champ d’études de la muséologie (Guzin Lukic, 2015). </p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Premières conceptions d'expositions de type interactif et ouverture de la notion de patrimoine culturel</eventName>
+                    <eventName>Premières conceptions d’expositions de type interactif et ouverture de la notion de patrimoine culturel</eventName>
                     <date from="1980" to="1990"/>
                     <description>
-                        <p>Ces expositions d'un genre nouveau apparaissent au sein des musées scientifiques où la démonstration de concepts et d'idées est particulièrement pertinente. Elles restent absentes des musées d'art, où l'exposition des oeuvres ainsi que leur conservation restent les principaux enjeux. Ainsi, ce processus initié par les musées scientifiques marque le début d'une muséologie d'idées, dépassant la simple représentation d'artefacts (Davallon, 1992). Par ailleurs, dans le domaine de la recherche, la notion de patrimoine culturel est questionnée, alimentant la réflexion dans ce domaine. Ainsi, la fin des années 1980 voit l'apparition des premiers programmes d'études supérieures en muséologie, à Montréal et à Québec (Guzin Lukic, 2015). En France, c'est la médiation culturelle qui fait l'objet d'une étude plus approfondie (Paquin et Lemay-Perreault, 2016). </p>
+                        <p>Ces expositions d’un genre nouveau apparaissent au sein des musées scientifiques où la démonstration de concepts et d’idées est particulièrement pertinente. Elles restent absentes des musées d’art, où l’exposition des oeuvres ainsi que leur conservation restent les principaux enjeux. Ainsi, ce processus initié par les musées scientifiques marque le début d’une muséologie d’idées, dépassant la simple représentation d’artefacts (Davallon, 1992). Par ailleurs, dans le domaine de la recherche, la notion de patrimoine culturel est questionnée, alimentant la réflexion dans ce domaine. Ainsi, la fin des années 1980 voit l’apparition des premiers programmes d’études supérieures en muséologie, à Montréal et à Québec (Guzin Lukic, 2015). En France, c’est la médiation culturelle qui fait l’objet d’une étude plus approfondie (Paquin et Lemay-Perreault, 2016). </p>
                     </description>
                 </event>
                 <event>
                     <eventName>Période de développement des usages numériques au sein des musées</eventName>
                     <date from="1990" to="2000"/>
                     <description>
-                        <p>L'omniprésence des outils technologiques dans la vie quotidienne transforme les codes de l'institution muséale dès les années 1990 avec un développement des outils numériques au sein des musées. La banalisation des ordinateurs dans les musées et les expositions amène les institutions à s'adapter aux innovations technologiques, les inscrivant alors dans un processus à la fois constant et effréné. L'arrivée de l'ordinateur personnel dans les foyers incite les musées à concevoir des CD-roms multimédia. À l'instar du catalogue d'exposition, ces contenus permettent aux visiteurs de poursuivre la visite chez eux. Par ailleurs, la commercialisation de ces supports assure au musée de délivrer une polongation de visite à la ligne éditoriale maitrisée (Andreacola, 2014). Dans le même temps, des questionnements émergent quant aux visites virtuelles. Plusieurs acteurs du patrimoine s'interrogent sur les capacités qu'offrent le numérique en la matière et si les visites virtuelles peuvent se substituer aux visites in situ. Plusieurs inquiétudes sont formulées, notamment durant une conférence réunissant en 1999 à New York les conservateurs en chef du Metropolitan Museum, du Louvre, de l'Ermitage et du British Museum (Terrisse, 2013).</p>
+                        <p>L’omniprésence des outils technologiques dans la vie quotidienne transforme les codes de l’institution muséale dès les années 1990 avec un développement des outils numériques au sein des musées. La banalisation des ordinateurs dans les musées et les expositions amène les institutions à s’adapter aux innovations technologiques, les inscrivant alors dans un processus à la fois constant et effréné. L’arrivée de l’ordinateur personnel dans les foyers incite les musées à concevoir des CD-roms multimédia. À l’instar du catalogue d’exposition, ces contenus permettent aux visiteurs de poursuivre la visite chez eux. Par ailleurs, la commercialisation de ces supports assure au musée de délivrer une polongation de visite à la ligne éditoriale maitrisée (Andreacola, 2014). Dans le même temps, des questionnements émergent quant aux visites virtuelles. Plusieurs acteurs du patrimoine s’interrogent sur les capacités qu’offrent le numérique en la matière et si les visites virtuelles peuvent se substituer aux visites in situ. Plusieurs inquiétudes sont formulées, notamment durant une conférence réunissant en 1999 à New York les conservateurs en chef du Metropolitan Museum, du Louvre, de l’Ermitage et du British Museum (Terrisse, 2013).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Remise en question de la place du visiteur</eventName>
                     <date from="2000" to="2010"/>
                     <description>
-                        <p>La place accordée au visiteur est questionnée durant cette période et prend notamment la forme d'initiatives basées sur la participation active de ce dernier au sein du langage muséal. Le visiteur devient acteur et coproducteur de savoir par le biais des outils numériques qui permettent la collecte et l'intégration d'une pluralité de discours. Si ce phénomène émerge à cette période, il connait un développement particulièrement important avec l'arrivée des réseaux sociaux.
-                        Dans le même temps, de nouvelles pratiques se développent comme l'UX design ou design d'expérience utilisateur. Désormais, il devient possible de concevoir des produits interactifs au sein desquels l'expérience de son usage est autant étudié que le produit lui-même (Moutat et Badulescu, 2022). Cette technologie permet de développer une nouvelle approche des interactions homme-machine, plus sensible et émotionnelle.</p>
+                        <p>La place accordée au visiteur est questionnée durant cette période et prend notamment la forme d’initiatives basées sur la participation active de ce dernier au sein du langage muséal. Le visiteur devient acteur et coproducteur de savoir par le biais des outils numériques qui permettent la collecte et l’intégration d’une pluralité de discours. Si ce phénomène émerge à cette période, il connait un développement particulièrement important avec l’arrivée des réseaux sociaux.
+                        Dans le même temps, de nouvelles pratiques se développent comme l’UX design ou design d’expérience utilisateur. Désormais, il devient possible de concevoir des produits interactifs au sein desquels l’expérience de son usage est autant étudié que le produit lui-même (Moutat et Badulescu, 2022). Cette technologie permet de développer une nouvelle approche des interactions homme-machine, plus sensible et émotionnelle.</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Développement des interfaces naturelles et des expositions immersives</eventName>
                     <date from="2010" to="2020"/>
                     <description>
-                        <p>Le perfectionnement technologique des outils ouvrent de nouvelles portes en matière de muséologie numérique. Désormais, les supports tendent à disparaître derrière des interfaces naturelles où le corps du visiteur est utilisé, permettant de rendre les dispositifs plus spontanées et plus intuitifs (Martin, 2011). Cette évolution s'accompagne d'une remise en question globale de l'expérience de visite avec l'émergence d'expositions où le visiteur est plongé physiquement et psychiquement au sein d'un univers extra-ordinnaire. Par ailleurs, le développement de la pratique transmédia permet aux institutions de prolonger le lien avec le visiteur par la création d'un univers cohérent et qui coordonne le comportement de l'usage. Par le biais de différents supports, l'expérience muséale se prolonge avant, pendant et après la visite in situ (Miguet, 2019). Là encore, cette nouvelle pratique pose la question de l'implication du visiteur en tant qu'acteur/récepteur.</p>
+                        <p>Le perfectionnement technologique des outils ouvrent de nouvelles portes en matière de muséologie numérique. Désormais, les supports tendent à disparaître derrière des interfaces naturelles où le corps du visiteur est utilisé, permettant de rendre les dispositifs plus spontanées et plus intuitifs (Martin, 2011). Cette évolution s’accompagne d’une remise en question globale de l’expérience de visite avec l’émergence d’expositions où le visiteur est plongé physiquement et psychiquement au sein d’un univers extra-ordinnaire. Par ailleurs, le développement de la pratique transmédia permet aux institutions de prolonger le lien avec le visiteur par la création d’un univers cohérent et qui coordonne le comportement de l’usage. Par le biais de différents supports, l’expérience muséale se prolonge avant, pendant et après la visite in situ (Miguet, 2019). Là encore, cette nouvelle pratique pose la question de l’implication du visiteur en tant qu’acteur/récepteur.</p>
                     </description>
                 </event>
             </listEvent>
             <listEvent>
                 <head>Liste d’événements</head>
                 <event>
-                    <eventName>Création de l'ARPANET</eventName>
+                    <eventName>Création de l’ARPANET</eventName>
                     <date when="1969"/>
                     <description>
-                        <p>Fondé par le gouvernement américain, l'ARPANET (Advanced Research Projects Agency Network) est considéré comme étant l'ancêtre d'Internet. Ce projet avait pour objectif de créer un réseau permettant de lier des superordinateurs à des institutions académiques et universitaires. Sa première démonstration officielle date de 1972 (Bauer, 2002).</p>
+                        <p>Fondé par le gouvernement américain, l’ARPANET (Advanced Research Projects Agency Network) est considéré comme étant l’ancêtre d’Internet. Ce projet avait pour objectif de créer un réseau permettant de lier des superordinateurs à des institutions académiques et universitaires. Sa première démonstration officielle date de 1972 (Bauer, 2002).</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Réalisation d'une base de données de l'Inventaire général</eventName>
+                    <eventName>Réalisation d’une base de données de l’Inventaire général</eventName>
                     <date when="1969"/>
                     <description>
-                        <p>Lors de sa présentation, cette base de données suscita un important scepticisme chez les historiens de l'art. Si cet événement semble anecdotique, il révèle les réticences suscitées par l'émergence de l'utilisation des outils numériques en matière de conservation du patrimoine (Couillard, 2019).</p>
+                        <p>Lors de sa présentation, cette base de données suscita un important scepticisme chez les historiens de l’art. Si cet événement semble anecdotique, il révèle les réticences suscitées par l’émergence de l’utilisation des outils numériques en matière de conservation du patrimoine (Couillard, 2019).</p>
                     </description>
                 </event>
                 <event>
@@ -127,10 +179,10 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
-                    <eventName>Premier ordinateur au sein d'un musée</eventName>
+                    <eventName>Premier ordinateur au sein d’un musée</eventName>
                     <date when="1970/72"/>
                     <description>
-                        <p>Le Musée national des arts et traditions populaires est le premier à se doter d'un ordinateur en France. La machine permet alors de "regrouper et d'analyser les multiples informations manipulées par les spécialistes [...] qui tous ensemble travaillent à l'établissement rigoureux des connaissances et de la conservation des sciences humaines".</p>
+                        <p>Le Musée national des arts et traditions populaires est le premier à se doter d’un ordinateur en France. La machine permet alors de "regrouper et d’analyser les multiples informations manipulées par les spécialistes [...] qui tous ensemble travaillent à l’établissement rigoureux des connaissances et de la conservation des sciences humaines".</p>
                     </description>
                 </event>
                 <event>
@@ -141,24 +193,24 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
-                    <eventName>Création du Programme National d'inventaire canadien (ancien RCIP)</eventName>
+                    <eventName>Création du Programme National d’inventaire canadien (ancien RCIP)</eventName>
                     <date when="1972"/>
                     <description>
-                        <p>Cet organisme de service intégré au ministère du Patrimoine canadien a pour objectif d'offrir des ressources dans le cadre de la gestion des collections muséales canadiennes. Travaillant aussi bien sur la documentation et la gestion de ces collections, il joue également un rôle en matière de diffusion de l'information, en particulier en ligne. Depuis sa création, cet organisme a connu plusieurs phases, s'adaptant à la fois à l'évolution des politiques culturelles et des technologies numériques. Si des premiers changements sont à noter dans les années 1980, c'est notamment dans les années 1990 que l'organisation évolue et s'adapte à la démocratisation de l'Internet. (Bauer, 2002).</p>
+                        <p>Cet organisme de service intégré au ministère du Patrimoine canadien a pour objectif d’offrir des ressources dans le cadre de la gestion des collections muséales canadiennes. Travaillant aussi bien sur la documentation et la gestion de ces collections, il joue également un rôle en matière de diffusion de l’information, en particulier en ligne. Depuis sa création, cet organisme a connu plusieurs phases, s’adaptant à la fois à l’évolution des politiques culturelles et des technologies numériques. Si des premiers changements sont à noter dans les années 1980, c’est notamment dans les années 1990 que l’organisation évolue et s’adapte à la démocratisation de l’Internet. (Bauer, 2002).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Publication du premier guide informatique à destination des professionnels du patrimoine</eventName>
                     <date when="1972"/>
                     <description>
-                        <p>Intitulé "L’informatique appliquée à la réalisation de l’Inventaire général des monuments et des richesses artistiques de la France", ce guide  est publié conjointement par le ministère des Affaires culturelles et le ministère de l'Éducation nationale. Il s'agit d'un document fondamental, posant les jalons pour la création des premières bases de données informatiques dans le but d'améliorer les outils informatiques destinés à la connaissance du patrimoine français (Couillard, 2019).</p>
+                        <p>Intitulé "L’informatique appliquée à la réalisation de l’Inventaire général des monuments et des richesses artistiques de la France", ce guide  est publié conjointement par le ministère des Affaires culturelles et le ministère de l’Éducation nationale. Il s’agit d’un document fondamental, posant les jalons pour la création des premières bases de données informatiques dans le but d’améliorer les outils informatiques destinés à la connaissance du patrimoine français (Couillard, 2019).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Création de la base de données Joconde par le ministère de la culture français</eventName>
                     <date when="1975"/>
                     <description>
-                        <p>Cette base de données répertorie les peintures conservées au sein des musées français. Elle est notamment complétée en 1978 par la création de la base Arcade, qui comprend les acquisitions d'oeuvres d'art par l'État français, et par la base Mérimée, qui est développée à partir de la documentation de l'inventaire général et de la liste des monuments inscrits et classés.</p>
+                        <p>Cette base de données répertorie les peintures conservées au sein des musées français. Elle est notamment complétée en 1978 par la création de la base Arcade, qui comprend les acquisitions d’oeuvres d’art par l’État français, et par la base Mérimée, qui est développée à partir de la documentation de l’inventaire général et de la liste des monuments inscrits et classés.</p>
                     </description>
                     <p/>
                 </event>
@@ -166,78 +218,78 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Création du Comité international pour la muséologie (Icofom)</eventName>
                     <date when="1976"/>
                     <description>
-                        <p>Ce Comité devient rapidement un espace de discussion déterminant au sein de la muséologie. La création de ce comité intervient dans un contexte favorable puisque la discipline connait un regain intérêt à la fin des années 1980. Ce phénomène ne durera cependant pas, la muséologie connaissant une crise au cours de la décennie suivante. Trop éloignée des réalités muséales, la muséologie théorique prendra alors la forme d'un guide de bonnes intentions stéréotypées (Poulot, 2009).</p>
+                        <p>Ce Comité devient rapidement un espace de discussion déterminant au sein de la muséologie. La création de ce comité intervient dans un contexte favorable puisque la discipline connait un regain intérêt à la fin des années 1980. Ce phénomène ne durera cependant pas, la muséologie connaissant une crise au cours de la décennie suivante. Trop éloignée des réalités muséales, la muséologie théorique prendra alors la forme d’un guide de bonnes intentions stéréotypées (Poulot, 2009).</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Rapport "Nora-Minc" sur l'informatisation de la société</eventName>
+                    <eventName>Rapport "Nora-Minc" sur l’informatisation de la société</eventName>
                     <date when="1978"/>
                     <description>
-                        <p>Publié par Simon Nora et Alain Minc, ce rapport français porte sur les moyens à employer afin de susciter une réflexion nouvelle sur les moyens de conduire l'informatisation de la société.</p>
+                        <p>Publié par Simon Nora et Alain Minc, ce rapport français porte sur les moyens à employer afin de susciter une réflexion nouvelle sur les moyens de conduire l’informatisation de la société.</p>
                     </description>
                     <p/>
                 </event>
                 <event>
-                    <eventName>Début de l'Inventaire général du patrimoine en France</eventName>
+                    <eventName>Début de l’Inventaire général du patrimoine en France</eventName>
                     <date when="1980"/>
                     <description>
-                        <p>Cet Inventaire général du patrimoine s'appui sur les outils numériques et suscite la création de bases de données dédiées à l'architecture avec Mérimée, aux objets mobiliers avec Palissy, aux illustrations avec Mémoire et aux références documentaires avec Archidoc (Vinck, 2016). </p>
+                        <p>Cet Inventaire général du patrimoine s’appui sur les outils numériques et suscite la création de bases de données dédiées à l’architecture avec Mérimée, aux objets mobiliers avec Palissy, aux illustrations avec Mémoire et aux références documentaires avec Archidoc (Vinck, 2016). </p>
                     </description>
                 </event>
                 <event>
                     <eventName>Lancement du premier PC</eventName>
                     <date when="1981"/>
                     <description>
-                        <p>Équipé d'un logiciel conçu par Microsoft, ce premier PC est lancé par IBM. Dans le même temps, Adam Osborne lance le premier ordinateur portable. Dans ce cadre, des groupes de hackers apparaissent notamment aux États-Unis et en Allemagne.</p>
+                        <p>Équipé d’un logiciel conçu par Microsoft, ce premier PC est lancé par IBM. Dans le même temps, Adam Osborne lance le premier ordinateur portable. Dans ce cadre, des groupes de hackers apparaissent notamment aux États-Unis et en Allemagne.</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Invention du CD-Rom</eventName>
                     <date when="1982"/>
                     <description>
-                        <p>Lancé par les entreprises Philips et Sony, le CD devient rapidement le premier support numérique pour la musique. La démocratisation de son usage va de pair avec celle de l'ordinateur.</p>
+                        <p>Lancé par les entreprises Philips et Sony, le CD devient rapidement le premier support numérique pour la musique. La démocratisation de son usage va de pair avec celle de l’ordinateur.</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Le Programme d'Inventaire National canadien devient le Réseau canadien d'information sur le patrimoine (RCIP)</eventName>
+                    <eventName>Le Programme d’Inventaire National canadien devient le Réseau canadien d’information sur le patrimoine (RCIP)</eventName>
                     <date when="1982"/>
                     <description>
-                        <p>Au-delà d'un changement de nom, cette transformation introduit un fonctionnement centralisé au sein de l'institution ainsi qu'un systéme automatisé de gestion de l'information à destination des structures patrimoniales canadiennes (Bauer, 2002).</p>
+                        <p>Au-delà d’un changement de nom, cette transformation introduit un fonctionnement centralisé au sein de l’institution ainsi qu’un systéme automatisé de gestion de l’information à destination des structures patrimoniales canadiennes (Bauer, 2002).</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Apparitions successives d'outils numériques au sein des institutions muséales françaises</eventName>
+                    <eventName>Apparitions successives d’outils numériques au sein des institutions muséales françaises</eventName>
                     <date when="1986"/>
                     <description>
-                        <p>Cette année marque l'installation des premières bornes interactives au sein de la Cité des Sciences et de l’Industrie, la mise en place d'un poste de consultation numérique au Musée d'Orsay ainsi que la création d'un vidéodisque répertoriant 15000 images provenant des collections du Musée d'Art Moderne et des Fonds nationaux et régionaux d'art contemporain, couvrant la période entre 1981 et 1986.</p>
+                        <p>Cette année marque l’installation des premières bornes interactives au sein de la Cité des Sciences et de l’Industrie, la mise en place d’un poste de consultation numérique au Musée d’Orsay ainsi que la création d’un vidéodisque répertoriant 15000 images provenant des collections du Musée d’Art Moderne et des Fonds nationaux et régionaux d’art contemporain, couvrant la période entre 1981 et 1986.</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Développement de Trillium</eventName>
                     <date when="1988"/>
                     <description>
-                        <p>Développé en collaboration entre le Canadian Heritage Information Network (CHIN) et l'Association des Musées de l'Ontario (AMO), ce projet vise à susciter une collaboration entre les institutions participantes basée sur l'accès des bases de données nationales (Bauer, 2002).</p>
+                        <p>Développé en collaboration entre le Canadian Heritage Information Network (CHIN) et l’Association des Musées de l’Ontario (AMO), ce projet vise à susciter une collaboration entre les institutions participantes basée sur l’accès des bases de données nationales (Bauer, 2002).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Installation The Legible City de Jeffrey Shaw</eventName>
                     <date when="1989"/>
                     <description>
-                        <p>Cette installation est considérée comme étant l'une des premières expérience d'immersion interactive en temps réel. Le visiteur pouvait en effet y utiliser une bicyclette afin d'accéder à une interface lui permettant d'explorer virtuellement trois villes, Karlsruhe, Amsterdam et New York (Serexhe, 2010).</p>
+                        <p>Cette installation est considérée comme étant l’une des premières expérience d’immersion interactive en temps réel. Le visiteur pouvait en effet y utiliser une bicyclette afin d’accéder à une interface lui permettant d’explorer virtuellement trois villes, Karlsruhe, Amsterdam et New York (Serexhe, 2010).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Exposition "Quelle mémoire pour demain ?" présentée à Grenoble au Musée dauphinois</eventName>
                     <date when="1989"/>
                     <description>
-                        <p>Dans le cadre de cette exposition, un ordinateur est mis à disposition des visiteurs afin qu'ils puissent accéder à la banque d'images et des fiches informatisées du patrimoine Rhône-alpins, soit 13 000 images. Cet exemple démontre la volonté des musées d'utiliser les innovations technologiques non plus seulement au service de la numérisation et de la conservation des oeuvres à des fins scientifiques, mais également afin de partager ce contenu avec les visiteurs (Andreacola, 2014).</p>
+                        <p>Dans le cadre de cette exposition, un ordinateur est mis à disposition des visiteurs afin qu’ils puissent accéder à la banque d’images et des fiches informatisées du patrimoine Rhône-alpins, soit 13 000 images. Cet exemple démontre la volonté des musées d’utiliser les innovations technologiques non plus seulement au service de la numérisation et de la conservation des oeuvres à des fins scientifiques, mais également afin de partager ce contenu avec les visiteurs (Andreacola, 2014).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Lancement du World Wide Web (WWW) ou de la Toile mondiale</eventName>
                     <date when="1992"/>
                     <description>
-                        <p>Le lancement de ce mode de navigation de l'Internet s'appuie sur le HyperText Markup Language (HTML) qui permet de décrirer et de structurer des données, notamment au sein d'une page web (Bauer, 2002).</p>
+                        <p>Le lancement de ce mode de navigation de l’Internet s’appuie sur le HyperText Markup Language (HTML) qui permet de décrirer et de structurer des données, notamment au sein d’une page web (Bauer, 2002).</p>
                     </description>
                 </event>
                 <event>
@@ -262,17 +314,17 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
-                    <eventName>Développement d'une nouvelle mission d'accessibilité des données au sein du Canadian Heritage Information Network (CHIN)</eventName>
+                    <eventName>Développement d’une nouvelle mission d’accessibilité des données au sein du Canadian Heritage Information Network (CHIN)</eventName>
                     <date when="1995"/>
                     <description>
-                        <p>L'accessibilité de ces données propres au patrimoine international se veut à destination d'un public académique mais également des musées canadiens. Cette base de données est accessible à partir d'octobre 1995, avant de proposer une première exposition virtuelle intitulée "Christmas Traditions in France and Canada" au mois de décembre. D'autres expositions virtuelles suivront par la suite, faisant du CHIN une structure précurseure en matière de mise en valeur du patrimoine par le biais du numérique : "Group of Seven" en 2001, "Panoramas: The North American Landscape in Art" également en 2001 (Bauer, 2002).</p>
+                        <p>L’accessibilité de ces données propres au patrimoine international se veut à destination d’un public académique mais également des musées canadiens. Cette base de données est accessible à partir d’octobre 1995, avant de proposer une première exposition virtuelle intitulée "Christmas Traditions in France and Canada" au mois de décembre. D’autres expositions virtuelles suivront par la suite, faisant du CHIN une structure précurseure en matière de mise en valeur du patrimoine par le biais du numérique : "Group of Seven" en 2001, "Panoramas: The North American Landscape in Art" également en 2001 (Bauer, 2002).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Publication du CD-Rom "Le Louvre, peintures et palais"</eventName>
                     <date when="1995"/>
                     <description>
-                        <p>La publication de ce CD-Rom par la Réunion des Monuments Nationaux (Rmn)s'inscrit dans une période d'engouement pour les contenus culturels de ce type. Les années 1990 voient en effet la multiplication d'e-albums centrés sur un artiste et permettant aux usagers d'aller au-delà du contenu muséal (Miguet et Paquienséguy, 2019). </p>
+                        <p>La publication de ce CD-Rom par la Réunion des Monuments Nationaux (Rmn)s’inscrit dans une période d’engouement pour les contenus culturels de ce type. Les années 1990 voient en effet la multiplication d’e-albums centrés sur un artiste et permettant aux usagers d’aller au-delà du contenu muséal (Miguet et Paquienséguy, 2019). </p>
                     </description>
                     <p/>
                 </event>
@@ -284,10 +336,10 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
-                    <eventName>Le Musée des Beaux-Arts de Bordeaux se dote d'un site Internet</eventName>
+                    <eventName>Le Musée des Beaux-Arts de Bordeaux se dote d’un site Internet</eventName>
                     <date when="1995"/>
                     <description>
-                        <p>Malgré un budget inexistant, le conservateur des Beaux-Arts de Bordeaux initie ce projet, qu'il est aujourd'hui possible de qualifier de précurseur. Si par la suite, des prestataires extérieurs seront amenés à intervenir dans le cadre de mécénats de compétences ou bénévolement, cette première tentative est développée en interne (Couillard, 2019).</p>
+                        <p>Malgré un budget inexistant, le conservateur des Beaux-Arts de Bordeaux initie ce projet, qu’il est aujourd’hui possible de qualifier de précurseur. Si par la suite, des prestataires extérieurs seront amenés à intervenir dans le cadre de mécénats de compétences ou bénévolement, cette première tentative est développée en interne (Couillard, 2019).</p>
                     </description>
                 </event>
                 <event>
@@ -301,49 +353,49 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Colloque "Patrimoine et Multimédia - Le rôle du conservateur"</eventName>
                     <date when="1997"/>
                     <description>
-                        <p>Ce colloque s'est tenu à la Bibliothèque Nationale de France et participe à la réaffirmation du rôle de conservateur au sein de l'institution muséale. Il s'agit également d'un moyen de susciter la confiance des professionels en l'utilisation du multimédia (Couillard, 2019).</p>
+                        <p>Ce colloque s’est tenu à la Bibliothèque Nationale de France et participe à la réaffirmation du rôle de conservateur au sein de l’institution muséale. Il s’agit également d’un moyen de susciter la confiance des professionels en l’utilisation du multimédia (Couillard, 2019).</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>L'Inventaire national canadien est accessible à tous sur l'Internet</eventName>
+                    <eventName>L’Inventaire national canadien est accessible à tous sur l’Internet</eventName>
                     <date when="1997"/>
                     <description>
-                        <p>En 1997, le gouvernement canadien annonce son programme favorisant la connectivité des institutions à destination des canadiens. Plus largement, l'objectif est de faire du Canada la nation la plus connectée au monde (Bauer, 2002).</p>
+                        <p>En 1997, le gouvernement canadien annonce son programme favorisant la connectivité des institutions à destination des canadiens. Plus largement, l’objectif est de faire du Canada la nation la plus connectée au monde (Bauer, 2002).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Première exposition proposant un catalogue sur CD-Rom au Canada</eventName>
                     <date when="1997-1998"/>
                     <description>
-                        <p>Organisée conjointement par le Musée des Beaux-Arts du Canada et par le Musée canadien de la photographie contemporaine, cette exposition s'est déroulée entre octobre 1997 et janvier 1998 et présentait le travail de George Legrady.Cette rétrospective se basait sur une présentation allant des supports analogiques aux medias numériques et développée par Legrady lui-même. L'objectif de ce dispositif est d'étendre le contenu proposé au sein d'un catalogue d'exposition classique par le biais d'un CD-Rom imaginé par l'artiste lui-même (Broadbent, 2003).</p>
+                        <p>Organisée conjointement par le Musée des Beaux-Arts du Canada et par le Musée canadien de la photographie contemporaine, cette exposition s’est déroulée entre octobre 1997 et janvier 1998 et présentait le travail de George Legrady.Cette rétrospective se basait sur une présentation allant des supports analogiques aux medias numériques et développée par Legrady lui-même. L’objectif de ce dispositif est d’étendre le contenu proposé au sein d’un catalogue d’exposition classique par le biais d’un CD-Rom imaginé par l’artiste lui-même (Broadbent, 2003).</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Mise en place du Plan d'action gouvernemental pour la société d'information (PAGSI)</eventName>
+                    <eventName>Mise en place du Plan d’action gouvernemental pour la société d’information (PAGSI)</eventName>
                     <date when="1998"/>
                     <description>
-                        <p>Ce plan est mis en place par le gouvernement et fait de la culture un domaine privilégié de la diffusion et de l'utilisation des technologies numériques (Couillard, 2019).</p>
+                        <p>Ce plan est mis en place par le gouvernement et fait de la culture un domaine privilégié de la diffusion et de l’utilisation des technologies numériques (Couillard, 2019).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Lancement du projet CyberMuse au sein du Musée des Beaux-Arts du Canada</eventName>
                     <date when="1999"/>
                     <description>
-                        <p>Conçu comme un outil éducatif pouvant s'adapter et évoluer aussi bien avec les publics du musée qu'avec les besoins de l'institution, le projet CyberMuse a pour objectif de faciliter le partage des collections. Pour cela, il adopte une approche interactive qui s'incarne au sein d'un large répertoire de programmes éducatifs et de communication innovants. Cette base de données est accessible au grand public en 2002, parès une refonte de son interface et l'ajout de nouveaux contenus. Au-delà de son succès, cet outil s'avère précurseur et inspirera d'autres institutions canadiennes par la suite (Broadbent, 2003).</p>
+                        <p>Conçu comme un outil éducatif pouvant s’adapter et évoluer aussi bien avec les publics du musée qu’avec les besoins de l’institution, le projet CyberMuse a pour objectif de faciliter le partage des collections. Pour cela, il adopte une approche interactive qui s’incarne au sein d’un large répertoire de programmes éducatifs et de communication innovants. Cette base de données est accessible au grand public en 2002, parès une refonte de son interface et l’ajout de nouveaux contenus. Au-delà de son succès, cet outil s’avère précurseur et inspirera d’autres institutions canadiennes par la suite (Broadbent, 2003).</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Mise en ligne du dispositif To the Totem Forests par la Galerie d'Art de Greater Victoria</eventName>
+                    <eventName>Mise en ligne du dispositif To the Totem Forests par la Galerie d’Art de Greater Victoria</eventName>
                     <date when="1999"/>
                     <description>
-                        <p>Ce projet consiste en une exposition itinérante accessible en ligne et permettant de découvrir les villages des Premières Nations de la côte nord-ouest. Cette exposition virtuelle, bien que le terme soit alors anachronique, comprend des images d'archives ainsi que des témoignages à la première personne, offrant un contexte aux oeuvres présentées. La création de cette version en ligne est postérieure à l'organisation d'une exposition physique et son contenu est moins développé que celui proposé au sein du catalogue d'exposition (Broadbent, 2003).</p>
+                        <p>Ce projet consiste en une exposition itinérante accessible en ligne et permettant de découvrir les villages des Premières Nations de la côte nord-ouest. Cette exposition virtuelle, bien que le terme soit alors anachronique, comprend des images d’archives ainsi que des témoignages à la première personne, offrant un contexte aux oeuvres présentées. La création de cette version en ligne est postérieure à l’organisation d’une exposition physique et son contenu est moins développé que celui proposé au sein du catalogue d’exposition (Broadbent, 2003).</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Publication de l'enquête sur les Premiers usages des CD-Rom des musées</eventName>
+                    <eventName>Publication de l’enquête sur les Premiers usages des CD-Rom des musées</eventName>
                     <date when="2000"/>
                     <description>
-                        <p>Commanditée en 1996 par la Rmn, cette enquête est menée par Jean Davallon, Hana Gottesdiener et Joëlle Le Marec. Elle met en lumière les différents obstacles rencontrés par les usagers ainsi que leurs attentes. Si les CD-Rom culturels n'ont pas survécus au-delà des années 1990, les différents écueils relevés au sein de cette enquête  restent pertinents en matière de conception et d'utilisation d'un outil numérique dans un cadre culturel (Miguet et Paquienséguy, 2019). </p>
+                        <p>Commanditée en 1996 par la Rmn, cette enquête est menée par Jean Davallon, Hana Gottesdiener et Joëlle Le Marec. Elle met en lumière les différents obstacles rencontrés par les usagers ainsi que leurs attentes. Si les CD-Rom culturels n’ont pas survécus au-delà des années 1990, les différents écueils relevés au sein de cette enquête  restent pertinents en matière de conception et d’utilisation d’un outil numérique dans un cadre culturel (Miguet et Paquienséguy, 2019). </p>
                     </description>
                     <p/>
                 </event>
@@ -351,64 +403,64 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Projet Visite+</eventName>
                     <date when="2000"/>
                     <description>
-                        <p>Il s'agit d'une initiative portée par la Cité des Sciences et de l'industrie et qui s'inspire de l'Experience Music Project Museum de Seattle. Au sein de ce dernier projet, les visiteurs avaient la possibilité d'enregistrer des objets pendant la visite à l'aide d'un PDA. Ils pouvaient par la suite accéder à des informations supplémentaires relatives aux objets sélectionnés sur leurs ordinnateurs personnels par le biais d'une connection Internet (Andreacola, 2014). Par ailleurs, ce dispositif permettait aux visiteurs d'envisager la visiter à son rythme et en fonction de ses propres intérêts (Pagès, 2020). Enfin, ce projet marque un tournant terminologique, impulsant l'idée d'un modèle de visite avec du contenu supplémentaire (Sandri, 2020). </p>
+                        <p>Il s’agit d’une initiative portée par la Cité des Sciences et de l’industrie et qui s’inspire de l’Experience Music Project Museum de Seattle. Au sein de ce dernier projet, les visiteurs avaient la possibilité d’enregistrer des objets pendant la visite à l’aide d’un PDA. Ils pouvaient par la suite accéder à des informations supplémentaires relatives aux objets sélectionnés sur leurs ordinnateurs personnels par le biais d’une connection Internet (Andreacola, 2014). Par ailleurs, ce dispositif permettait aux visiteurs d’envisager la visiter à son rythme et en fonction de ses propres intérêts (Pagès, 2020). Enfin, ce projet marque un tournant terminologique, impulsant l’idée d’un modèle de visite avec du contenu supplémentaire (Sandri, 2020). </p>
                     </description>
                 </event>
                 <event>
                     <eventName>Ouverture du Musée Virtuel des Amériques et du Musée Virtuel du Canada</eventName>
                     <date when="2000/2001"/>
                     <description>
-                        <p>Le Musée Virtuel des Amériques est publié en mai 2000 tandis que le Musée Virtuel du Canada est accessible en ligne à partir de mars 2001. Les objectifs de ce dernier sont de proposer des contenus de haute qualité au sein d'un environnement numérique et d'investir le développement des contenus muséaux (Bauer, 2002).</p>
+                        <p>Le Musée Virtuel des Amériques est publié en mai 2000 tandis que le Musée Virtuel du Canada est accessible en ligne à partir de mars 2001. Les objectifs de ce dernier sont de proposer des contenus de haute qualité au sein d’un environnement numérique et d’investir le développement des contenus muséaux (Bauer, 2002).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Définition de la loi dite "loi-musée"</eventName>
                     <date when="2002"/>
                     <description>
-                        <p>Selon cette définition, les "musées de France" sont dans l'obligation de formaliser un projet culturel et scientifique (PSC) ainsi que de proposer un service public. Dans ce cadre, les établissements nationaux peuvent faire démonstration de leur capacité à déployer les moyens financiers et humains nécessaires au développement d'offres numériques de plus en plus sophistiquées (Couillard, 2019).</p>
+                        <p>Selon cette définition, les "musées de France" sont dans l’obligation de formaliser un projet culturel et scientifique (PSC) ainsi que de proposer un service public. Dans ce cadre, les établissements nationaux peuvent faire démonstration de leur capacité à déployer les moyens financiers et humains nécessaires au développement d’offres numériques de plus en plus sophistiquées (Couillard, 2019).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Première mention de "politiques culturelles numériques"</eventName>
                     <date when="2002"/>
                     <description>
-                        <p>Cette première occurence du terme de "politiques culturelles numériques" apparaît dans un texte ministériel, dans le cadre d'un bilan du PAGSI (Plan d'Action Gouvernementale pour la Société de l'Information). Ce plan gouvernemental avait pour objectif de faire de la culture un des domaines privilégiés de l'application des "nouvelles technologies de l'information et de la communication", notamment pour favoriser le développement économique (Couillard, 2019). Il est intéressant de noter l'emploi du pluriel, suggérant une adaptation des applications de ces politiques, notamment en fonction des patrimoines.</p>
+                        <p>Cette première occurence du terme de "politiques culturelles numériques" apparaît dans un texte ministériel, dans le cadre d’un bilan du PAGSI (Plan d’Action Gouvernementale pour la Société de l’Information). Ce plan gouvernemental avait pour objectif de faire de la culture un des domaines privilégiés de l’application des "nouvelles technologies de l’information et de la communication", notamment pour favoriser le développement économique (Couillard, 2019). Il est intéressant de noter l’emploi du pluriel, suggérant une adaptation des applications de ces politiques, notamment en fonction des patrimoines.</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Museum Lab</eventName>
                     <date when="2006"/>
                     <description>
-                        <p>Le Museum Lab du Louvre propose de nouvelles approches de l'art depuis 2006. Parmi les différents projets développés, il est notamment possible de citer une expérience tournée vers l'exploration d'un tableau de Titien intitulé La Vierge au Lapin. Cette découverte repose sur plusieurs dispositifs : un film explicatif, des écrans tactiles d'observation de l'oeuvre et un espace immersif. </p>
+                        <p>Le Museum Lab du Louvre propose de nouvelles approches de l’art depuis 2006. Parmi les différents projets développés, il est notamment possible de citer une expérience tournée vers l’exploration d’un tableau de Titien intitulé La Vierge au Lapin. Cette découverte repose sur plusieurs dispositifs : un film explicatif, des écrans tactiles d’observation de l’oeuvre et un espace immersif. </p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Exposition Epidemik à la Cité des Sciences et de l'industrie</eventName>
+                    <eventName>Exposition Epidemik à la Cité des Sciences et de l’industrie</eventName>
                     <date when="2008"/>
                     <description>
-                        <p>Entre immersion et simulation, cette exposition est développée par un centre de culture scientifique, au sein de la Cité des Sciences. S'écartant de la structure patrimoniale classe, cette institution se révèle tout de même particulièrement novatrice en matière d'expérience muséale.</p>
+                        <p>Entre immersion et simulation, cette exposition est développée par un centre de culture scientifique, au sein de la Cité des Sciences. S’écartant de la structure patrimoniale classe, cette institution se révèle tout de même particulièrement novatrice en matière d’expérience muséale.</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Présentation du jeu "Plug, les secrets du musée" au Musée des arts et métiers de Paris</eventName>
                     <date when="2009"/>
                     <description>
-                        <p>Présenté au public du 29 mai au 7 juin, ce jeu reposait sur 16 objets de la collection dont chacun était rattaché à une carte virtuelle. L'objectif du visiteur était de retrouver les bonnes cartes virtuelles par l'intermédiaire d'un téléphone portable, en découvrant au passage de nouvelles informations sur les objets concernés. Si ce projet est rapidement qualifié d'original et ded ynamique, il est également précurseur en matière d'utilisation des téléphones portables au sein de la visite muséale.</p>
+                        <p>Présenté au public du 29 mai au 7 juin, ce jeu reposait sur 16 objets de la collection dont chacun était rattaché à une carte virtuelle. L’objectif du visiteur était de retrouver les bonnes cartes virtuelles par l’intermédiaire d’un téléphone portable, en découvrant au passage de nouvelles informations sur les objets concernés. Si ce projet est rapidement qualifié d’original et ded ynamique, il est également précurseur en matière d’utilisation des téléphones portables au sein de la visite muséale.</p>
                     </description>
                     <p/>
                 </event>
                 <event>
-                    <eventName>Des ordinateurs à disposition des visiteurs pour l'exposition "The Black List Project" au Brooklyn Museum</eventName>
+                    <eventName>Des ordinateurs à disposition des visiteurs pour l’exposition "The Black List Project" au Brooklyn Museum</eventName>
                     <date when="2009"/>
                     <description>
-                        <p>Les ordinateurs placés à disposition des visiteurs dans le cadre de cette exposition permettaient de recueillir les témoignages des visiteurs sur la façon dont la culture a façonné leur vie. Les vidéos ont ensuite été diffusées sur la chaine Youtube de l'exposition. Ainsi, ce projet intégre le visiteur au propos muséal et l'incite à en devenir co-constructeur.</p>
+                        <p>Les ordinateurs placés à disposition des visiteurs dans le cadre de cette exposition permettaient de recueillir les témoignages des visiteurs sur la façon dont la culture a façonné leur vie. Les vidéos ont ensuite été diffusées sur la chaine Youtube de l’exposition. Ainsi, ce projet intégre le visiteur au propos muséal et l’incite à en devenir co-constructeur.</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Le Musée Nestploria et les Grottes de Gargas proposent un parcours interactif</eventName>
                     <date when="2010"/>
                     <description>
-                        <p>Le Musée Nestploria et les Grottes de Gargas dans les Hautes Pyrénées offrent un parcours dédié à la préhistoire à travers une approche tactile. C'est dans ce cadre qu'une table multi touch et multi utilisateurs de 4,80 mètres sur 1,20 mètre est proposée aux visiteurs pour la première fois en Europe. Destiné à la visualisation de "mains négatives", elle permet notamment aux visiteurs de comparer leurs propres mains aux empreintes visibles sur les parois des grottes. </p>
+                        <p>Le Musée Nestploria et les Grottes de Gargas dans les Hautes Pyrénées offrent un parcours dédié à la préhistoire à travers une approche tactile. C’est dans ce cadre qu’une table multi touch et multi utilisateurs de 4,80 mètres sur 1,20 mètre est proposée aux visiteurs pour la première fois en Europe. Destiné à la visualisation de "mains négatives", elle permet notamment aux visiteurs de comparer leurs propres mains aux empreintes visibles sur les parois des grottes. </p>
                     </description>
                     <p/>
                 </event>
@@ -416,7 +468,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Exposition "Révélations, une odyssée numérique dans la peinture" au Petit Palais de Paris</eventName>
                     <date when="2010"/>
                     <description>
-                        <p>Issue d'une collaboration entre les équipes du Petit Palais et de l'entreprise Samsung, cette exposition temporaire dévoilait 40 oeuvres accompagnées d'une médiation numérique. Cette dernière consistait en des écrans présentant de courts films et invitant le visiteur à découvrir les détails et les intentions cachés d'un artiste.</p>
+                        <p>Issue d’une collaboration entre les équipes du Petit Palais et de l’entreprise Samsung, cette exposition temporaire dévoilait 40 oeuvres accompagnées d’une médiation numérique. Cette dernière consistait en des écrans présentant de courts films et invitant le visiteur à découvrir les détails et les intentions cachés d’un artiste.</p>
                     </description>
                     <p/>
                 </event>
@@ -424,77 +476,77 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Première édition du projet Museomix au musée des Arts Décoratifs de Paris</eventName>
                     <date when="2011"/>
                     <description>
-                        <p>Inventé par Stéphanie Bacquère, Samuel Bausson, Julien Dorra, Diane Dubray, Yves-Armel Martin, Christophe Monnet et Marie-Noéline Viguier, ce projet vise à inciter les publics à se réapproprier la médiation muséale. Pendant trois jours, une équipe plurisdisciplaire est invitée à concevoir un dispositif de médiation innovant sous la forme d'un prototype. Ce dernier est ensuite testé par les publics lors de la troisième journée.</p>
+                        <p>Inventé par Stéphanie Bacquère, Samuel Bausson, Julien Dorra, Diane Dubray, Yves-Armel Martin, Christophe Monnet et Marie-Noéline Viguier, ce projet vise à inciter les publics à se réapproprier la médiation muséale. Pendant trois jours, une équipe plurisdisciplaire est invitée à concevoir un dispositif de médiation innovant sous la forme d’un prototype. Ce dernier est ensuite testé par les publics lors de la troisième journée.</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Mise en ligne du projet data.bnf.fr</eventName>
                     <date when="2011"/>
                     <description>
-                        <p>Ce projet consiste en un rassemblement et un partage des données de la BnF sur le Web, et ce, afin d'en accroître la visibilité. Au-delà de la quantité importante des données collectées, il s'agit également d'une contribution déterminante car adoptant une approche tournée vers la coopération et l'échange de métadonnées avec d'autres ressources de confiance. Par ailleurs, cette publication des données de la Bibliothèque nationale de France s'inscrit dans un réseau de partage libre, selon la Licence ouverte de l'Etat.</p>
+                        <p>Ce projet consiste en un rassemblement et un partage des données de la BnF sur le Web, et ce, afin d’en accroître la visibilité. Au-delà de la quantité importante des données collectées, il s’agit également d’une contribution déterminante car adoptant une approche tournée vers la coopération et l’échange de métadonnées avec d’autres ressources de confiance. Par ailleurs, cette publication des données de la Bibliothèque nationale de France s’inscrit dans un réseau de partage libre, selon la Licence ouverte de l’Etat.</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Installation d'une cabine 3D à la Cité de la dentelle et de la mode de Calais</eventName>
+                    <eventName>Installation d’une cabine 3D à la Cité de la dentelle et de la mode de Calais</eventName>
                     <date when="2011"/>
                     <description>
-                        <p>Cette cabine calcule les mensurations du visiteur afin de créer un avatar à son image. Des pièces fragiles issues des collections de la Cité de la dentelle et de la mode sont ensuite projetées sur la silhouette numérisée. Il s'agit là d'une approche participative, le visiteur prenant part à une modélisation sans laquelle les pièces ne pourraient être montrées. Par ailleurs, ce projet met en évidence la pertinence du numérique en matière de mise en exposition d'objets fragiles.</p>
+                        <p>Cette cabine calcule les mensurations du visiteur afin de créer un avatar à son image. Des pièces fragiles issues des collections de la Cité de la dentelle et de la mode sont ensuite projetées sur la silhouette numérisée. Il s’agit là d’une approche participative, le visiteur prenant part à une modélisation sans laquelle les pièces ne pourraient être montrées. Par ailleurs, ce projet met en évidence la pertinence du numérique en matière de mise en exposition d’objets fragiles.</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Mise en place du dispositif  "Blinkster" au Centre Pompidou</eventName>
                     <date when="2011-2012"/>
                     <description>
-                        <p>Présenté dans le cadre de Futur en Seine, ce dispositif est intégré à la visite du Centre Pompidou afin de permettre aux visiteurs d'effectuer une reconnaissance d'oeuvres. Développé en partenariat avec la société Euréva, Blinkster est une application mobile dotée d'un système de reconnaissance faciale par le biais duquel le visiteur peut avoir accès à des informations supplémentaires sur les oeuvres flashées (IRI, 2011).</p>
+                        <p>Présenté dans le cadre de Futur en Seine, ce dispositif est intégré à la visite du Centre Pompidou afin de permettre aux visiteurs d’effectuer une reconnaissance d’oeuvres. Développé en partenariat avec la société Euréva, Blinkster est une application mobile dotée d’un système de reconnaissance faciale par le biais duquel le visiteur peut avoir accès à des informations supplémentaires sur les oeuvres flashées (IRI, 2011).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Conception et premières expérimentations du projet Kjing</eventName>
                     <date when="2011-2012"/>
                     <description>
-                        <p>Cet outil est développé par le laboratoire d'innovation ouverte de la métropole de Lyon, Erasme. L'objectif est de concevoir un environnement proposant des contenus multimédias accessibles à travers des interactions simples. De cette façon, il devient possible pour les personnes assurant la médiation d'un musée de transformer et d'adapter l'espace d'exposition.</p>
+                        <p>Cet outil est développé par le laboratoire d’innovation ouverte de la métropole de Lyon, Erasme. L’objectif est de concevoir un environnement proposant des contenus multimédias accessibles à travers des interactions simples. De cette façon, il devient possible pour les personnes assurant la médiation d’un musée de transformer et d’adapter l’espace d’exposition.</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Organisation d'une journée professionnelle sur l'informatisation, la numérisation et la mise en ligne des collections des musées de France</eventName>
+                    <eventName>Organisation d’une journée professionnelle sur l’informatisation, la numérisation et la mise en ligne des collections des musées de France</eventName>
                     <date when="2012"/>
                     <description>
-                        <p>Organisée le 8 juin 2012 par le Ministère de la Culture français, cette journée est l'occasion d'évoquer les enjeux soulevés par la diffusion numérique des collections des musées que ce soit concernant les publics visés, les politiques culturelles envisagées ou encore les moyens numériques déployés. Les contributions de cette journée sont ensuite publiées sur le portail de la base Joconde, afin de favoriser les échanges et la réflexion sur le sujet(Ministère de la Culture, 2012).</p>
+                        <p>Organisée le 8 juin 2012 par le Ministère de la Culture français, cette journée est l’occasion d’évoquer les enjeux soulevés par la diffusion numérique des collections des musées que ce soit concernant les publics visés, les politiques culturelles envisagées ou encore les moyens numériques déployés. Les contributions de cette journée sont ensuite publiées sur le portail de la base Joconde, afin de favoriser les échanges et la réflexion sur le sujet(Ministère de la Culture, 2012).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Le Louvre propose un parcours de visite sur Nintendo DS</eventName>
                     <date when="2012"/>
                     <description>
-                        <p>Souhaitant remplacer l'audio-guide, le dispositif se veut à la fois ludique et pédagogique. Par le biais d'une Nintendo DS, une console de jeu portable, les visiteurs ont accès à plusieurs parcours et peuvent se balader librement au sein du musée. Ce projet étonnant se veut destiné aux publics peu habitués à la visite muséale. Par ailleurs, il marque une nouvelle approche du patrimoine, proposant aux visiteurs de découvrir les collections du musée à travers le divertissement interactif.</p>
+                        <p>Souhaitant remplacer l’audio-guide, le dispositif se veut à la fois ludique et pédagogique. Par le biais d’une Nintendo DS, une console de jeu portable, les visiteurs ont accès à plusieurs parcours et peuvent se balader librement au sein du musée. Ce projet étonnant se veut destiné aux publics peu habitués à la visite muséale. Par ailleurs, il marque une nouvelle approche du patrimoine, proposant aux visiteurs de découvrir les collections du musée à travers le divertissement interactif.</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Début d'activité de l'entreprise Histovery</eventName>
+                    <eventName>Début d’activité de l’entreprise Histovery</eventName>
                     <date when="2013"/>
                     <description>
-                        <p>Avec l'ambition de révolutionner l'expérience du visiteur, l'entreprise Histovery s'impose rapidement comme un acteur incontournable de la transition digitale du patrimoine. Elle lance notamment l'HistoPad, une tablette de visite se basant sur la Réalité Augmentée afin de présenter des reconstitutions historiques à 360° et des objets interactifs en 3D (Perroy, 2017). Cette innovation a été adoptée par des nombreuses institutions patrimoniales telles que le Château de Chambord, la Conciergerie ou même au National Building Museum de Washington (Pagès, 2020). </p>
+                        <p>Avec l’ambition de révolutionner l’expérience du visiteur, l’entreprise Histovery s’impose rapidement comme un acteur incontournable de la transition digitale du patrimoine. Elle lance notamment l’HistoPad, une tablette de visite se basant sur la Réalité Augmentée afin de présenter des reconstitutions historiques à 360° et des objets interactifs en 3D (Perroy, 2017). Cette innovation a été adoptée par des nombreuses institutions patrimoniales telles que le Château de Chambord, la Conciergerie ou même au National Building Museum de Washington (Pagès, 2020). </p>
                     </description>
                 </event>
                 <event>
                     <eventName>Projet de loi sur le numérique en France</eventName>
                     <date when="2015"/>
                     <description>
-                        <p>Ce projet de loi suscite un débat autour de multiples questions, notamment quant au libre accès aux publications scientifiques et aux données de recherche ainsi que concernant le droit sur les données scientifiques pour créer des services à valeur ajoutée. Il s'agit alors d'interroger la viabilité économique d'une telle liberté d'accès (Vinck, 2016) ainsi que ses conséquences en matière de propriété intellectuelle.</p>
+                        <p>Ce projet de loi suscite un débat autour de multiples questions, notamment quant au libre accès aux publications scientifiques et aux données de recherche ainsi que concernant le droit sur les données scientifiques pour créer des services à valeur ajoutée. Il s’agit alors d’interroger la viabilité économique d’une telle liberté d’accès (Vinck, 2016) ainsi que ses conséquences en matière de propriété intellectuelle.</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Table ronde "La commémoration à l'ère du numérique"</eventName>
+                    <eventName>Table ronde "La commémoration à l’ère du numérique"</eventName>
                     <date when="2017"/>
                     <description>
-                        <p>Organisée durant le "Forum d'histoire et de patrimoine de Montréal. Découvrir la métropole par ses quartiers", cette table ronde a été l'occasion de questionner le rôle du numérique en matière de commémoration. Au-delà d'évoquer la capacité du numérique à replacer la commémoration au sein de l'espace public, cette réflexion a également soulever des questionnements en matière de financement et de pérennité. (Rondeau, 2018).</p>
+                        <p>Organisée durant le "Forum d’histoire et de patrimoine de Montréal. Découvrir la métropole par ses quartiers", cette table ronde a été l’occasion de questionner le rôle du numérique en matière de commémoration. Au-delà d’évoquer la capacité du numérique à replacer la commémoration au sein de l’espace public, cette réflexion a également soulever des questionnements en matière de financement et de pérennité. (Rondeau, 2018).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Début du projet Bretez</eventName>
                     <date when="2017"/>
                     <description>
-                        <p>Ce projet de valorisation patrimoniale tente de reconstituer l'ambiance sonore du quartier du Grand Châtelet à Paris au XVIIIe siècle. Pour cela, une approche interdisciplinaire est adoptée, le projet associant des historiens à des spécialiste 3D. Au-delà de l'approche novatrice du patrimoine que ce dispositif propose, il s'agit également d'un exemple d'utilisaton de données numériques au service de la recherche en sciences humaines et de la médiation culturelle (Deramond, 2021).</p>
+                        <p>Ce projet de valorisation patrimoniale tente de reconstituer l’ambiance sonore du quartier du Grand Châtelet à Paris au XVIIIe siècle. Pour cela, une approche interdisciplinaire est adoptée, le projet associant des historiens à des spécialiste 3D. Au-delà de l’approche novatrice du patrimoine que ce dispositif propose, il s’agit également d’un exemple d’utilisaton de données numériques au service de la recherche en sciences humaines et de la médiation culturelle (Deramond, 2021).</p>
                     </description>
                     <p/>
                 </event>
@@ -502,56 +554,56 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Art # connexion au Grand Palais</eventName>
                     <date when="2018"/>
                     <description>
-                        <p>Se déroulant du 7 au 9 juillet 2018, cet événément ouvert à tous et gratuit réunissait en un même lieu des expériences innovantes et numériques, produites par les institutions culturelles françaises. Entre réalité virtuelle et augmentée, projections immersives, numérisations 3D ou encore écrans interactifs, les visiteurs avaient la possibilité d'expérimenter les différents outils mis à leur disposition. Par ailleurs, ce projet a été conçu en partenariat avec Google Arts et Culture, dans le cadre de son développement d'expériences numériques immersives de mise en valeur du patrimoine (Pagès, 2020).</p>
+                        <p>Se déroulant du 7 au 9 juillet 2018, cet événément ouvert à tous et gratuit réunissait en un même lieu des expériences innovantes et numériques, produites par les institutions culturelles françaises. Entre réalité virtuelle et augmentée, projections immersives, numérisations 3D ou encore écrans interactifs, les visiteurs avaient la possibilité d’expérimenter les différents outils mis à leur disposition. Par ailleurs, ce projet a été conçu en partenariat avec Google Arts et Culture, dans le cadre de son développement d’expériences numériques immersives de mise en valeur du patrimoine (Pagès, 2020).</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Lancement de "L'Incubateur du patrimoine"</eventName>
+                    <eventName>Lancement de "L’Incubateur du patrimoine"</eventName>
                     <date when="2018"/>
                     <description>
-                        <p>Ce projet est lancé par la Mission de la Stratégie, de la Prospective et du Numérique (MSPN), au sein de la direction générale du Centre des Monuments Nationaux. Son objectif est de définir les futures orientations de l'institution dans le domaine numérique et d'expérimenter un certain nombre de dispositifs (Couillard, 2019).</p>
+                        <p>Ce projet est lancé par la Mission de la Stratégie, de la Prospective et du Numérique (MSPN), au sein de la direction générale du Centre des Monuments Nationaux. Son objectif est de définir les futures orientations de l’institution dans le domaine numérique et d’expérimenter un certain nombre de dispositifs (Couillard, 2019).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Ouverture du "Palais virtuel" au Palais de Tokyo</eventName>
                     <date when="2019"/>
                     <description>
-                        <p>Inauguré le 3 avril 2019, il s'agit d'un espace de diffusion d'oeuvres numériques permanent et dédié à la réalité virtuelle. Plusieurs artistes sont invités à y dévoiler leur travail, interrogeant à la fois le nouveau rapport à l'art que suggère une telle approche, mais également plus largement la place du numérique au sein de la société (Club Innovation et Culture France, 2019).</p>
+                        <p>Inauguré le 3 avril 2019, il s’agit d’un espace de diffusion d’oeuvres numériques permanent et dédié à la réalité virtuelle. Plusieurs artistes sont invités à y dévoiler leur travail, interrogeant à la fois le nouveau rapport à l’art que suggère une telle approche, mais également plus largement la place du numérique au sein de la société (Club Innovation et Culture France, 2019).</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Annonce d'un programme de déploiement de micro-folies</eventName>
+                    <eventName>Annonce d’un programme de déploiement de micro-folies</eventName>
                     <date when="2020"/>
                     <description>
-                        <p>C'est durant l'été 2020 que le ministre français de la Culture Franck Riester annonce le déploiement de 1000 micro-folies d'ici 2022. Il s'agit d'espaces modulables présentés comme des "musées numériques" favorisant la création et la diffusion de l'art. Ce projet est "hors les murs" consiste donc à sensibiliser les publics les plus éloignés de la culture institutionnelle, tout en impliquant de grands acteurs culturels tels que le Musée du Louvre ou encore l'Opéra National de Paris (Pagès, 2020).</p>
+                        <p>C’est durant l’été 2020 que le ministre français de la Culture Franck Riester annonce le déploiement de 1000 micro-folies d’ici 2022. Il s’agit d’espaces modulables présentés comme des "musées numériques" favorisant la création et la diffusion de l’art. Ce projet est "hors les murs" consiste donc à sensibiliser les publics les plus éloignés de la culture institutionnelle, tout en impliquant de grands acteurs culturels tels que le Musée du Louvre ou encore l’Opéra National de Paris (Pagès, 2020).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Ouverture de la plateforme Petit Louvre</eventName>
                     <date when="2020"/>
                     <description>
-                        <p>C'est afin de faire face à la pandémie et à la fermeture des musées que le Louvre a développé ce dispositif à destination des plus jeunes. Accessibles en ligne, les contenus proposés comprennent des contes animés, des galeries d'oeuvres ou encore une série de podcasts développés avec France inter. En parallèle, le musée a également développé des contenus pour les autres publics, toujours accessibles en ligne, allant de la lettre d'information aux conférences en direct en passant par les visites virtuelles. Ainsi, le site du Louvre a connu une fréquentation historique de 11 millions de visite durant le premier confinement (Pham, 2022).</p>
+                        <p>C’est afin de faire face à la pandémie et à la fermeture des musées que le Louvre a développé ce dispositif à destination des plus jeunes. Accessibles en ligne, les contenus proposés comprennent des contes animés, des galeries d’oeuvres ou encore une série de podcasts développés avec France inter. En parallèle, le musée a également développé des contenus pour les autres publics, toujours accessibles en ligne, allant de la lettre d’information aux conférences en direct en passant par les visites virtuelles. Ainsi, le site du Louvre a connu une fréquentation historique de 11 millions de visite durant le premier confinement (Pham, 2022).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Mise en place du pass Culture</eventName>
                     <date when="2021"/>
                     <description>
-                        <p>Ce dispositif proposé par l'État français vise à favoriser la démocratisation culturelle en proposant notamment à tous les jeunes de 18 ans de disposer d'un crédit de 300 euros, utilisable pendant deux ans par le biais d'une application L'objectif, au-delà de permettre à ce type de public de bénéficier d'une consommation culturelle facilitée, est également de permettre l'émergence de nouvelles pratiques culturelles. Ce projet résulte également d'un constat quant à la production et la consommation culturelle qui est celui de la multiplication des écrans. Considérés comme à la fois addictif et une source d'opportunités créatives, le numérique revêt plus que jamais une ambivalence au sein de la sphére culturelle (Bachelot-Narquin, 2022).</p>
+                        <p>Ce dispositif proposé par l’État français vise à favoriser la démocratisation culturelle en proposant notamment à tous les jeunes de 18 ans de disposer d’un crédit de 300 euros, utilisable pendant deux ans par le biais d’une application L’objectif, au-delà de permettre à ce type de public de bénéficier d’une consommation culturelle facilitée, est également de permettre l’émergence de nouvelles pratiques culturelles. Ce projet résulte également d’un constat quant à la production et la consommation culturelle qui est celui de la multiplication des écrans. Considérés comme à la fois addictif et une source d’opportunités créatives, le numérique revêt plus que jamais une ambivalence au sein de la sphére culturelle (Bachelot-Narquin, 2022).</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Mise en ligne de l'espace Louvre +</eventName>
+                    <eventName>Mise en ligne de l’espace Louvre +</eventName>
                     <date when="2021"/>
                     <description>
-                        <p>Prolongeant son désir de maintenir le lien avec son public hors-les-murs, le Louvre propose en décembre 2021 un espace comprenant des vidéos, des podccasts ainsi que des visites virtuelles mettant en valeur l'utilisation d'outils numériques innovants. Il s'agit donc d'un espace en ligne pensé pour tous, quelque soit les usages et les attentes (Pham, 2022).</p>
+                        <p>Prolongeant son désir de maintenir le lien avec son public hors-les-murs, le Louvre propose en décembre 2021 un espace comprenant des vidéos, des podccasts ainsi que des visites virtuelles mettant en valeur l’utilisation d’outils numériques innovants. Il s’agit donc d’un espace en ligne pensé pour tous, quelque soit les usages et les attentes (Pham, 2022).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Développement et mise en ligne du projet Prometheus.Museum</eventName>
                     <date when="2021-2022"/>
                     <description>
-                        <p>Ce projet novateur concilie numérique et patrimoine immatériel. C'est en s'inspirant de récits expographiques de musées de société, comme le Musée de la civilisation de Québec notamment, que ce projet s'appui sur trois regards : celui de Vanessa Foltier, présidente du comité des fêtes d'Izaourt, Vincent Boya, conseiller municipal d'Esténos, et Père Arnaud Richard, curé de Bagnères-de-Luchon. De cette façon, ce musée numérique propose une mise en valeur novatrice des fêtes du feu des solstices dans les Pyrénées. Par le biais de vidéos et d'une carte interactive, le site met en évidence l'importance de ces célébrations locales, inscrites sur la Liste représentative du patrimoine culturel immatériel de l'humanité par l'UNESCO. Par ailleurs, le rôle citoyen du musée est également développé au sein de cette interface par une approche interdisciplinaire du sujet (Soulier et Roigé, 2022).</p>
+                        <p>Ce projet novateur concilie numérique et patrimoine immatériel. C’est en s’inspirant de récits expographiques de musées de société, comme le Musée de la civilisation de Québec notamment, que ce projet s’appui sur trois regards : celui de Vanessa Foltier, présidente du comité des fêtes d’Izaourt, Vincent Boya, conseiller municipal d’Esténos, et Père Arnaud Richard, curé de Bagnères-de-Luchon. De cette façon, ce musée numérique propose une mise en valeur novatrice des fêtes du feu des solstices dans les Pyrénées. Par le biais de vidéos et d’une carte interactive, le site met en évidence l’importance de ces célébrations locales, inscrites sur la Liste représentative du patrimoine culturel immatériel de l’humanité par l’UNESCO. Par ailleurs, le rôle citoyen du musée est également développé au sein de cette interface par une approche interdisciplinaire du sujet (Soulier et Roigé, 2022).</p>
                     </description>
                 </event>
             </listEvent>
