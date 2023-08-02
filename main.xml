@@ -247,35 +247,35 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
             <listEvent>
                 <head>Liste d’événements</head>
                 <event>
-                    <eventName>Réalisation d’une base de données de l’Inventaire général</eventName>
-                    <date when="1969"/>
+                    <eventName>Fondation de l’Inventaire général du patrimoine culturel en France</eventName>
+                    <date when="1964-03-04"> 4 mars 1964</date>
                     <description>
                         <p>Lors de sa présentation, cette base de données suscita un important scepticisme chez les historiens de l’art. Si cet événement semble anecdotique, il révèle les réticences suscitées par l’émergence de l’utilisation des outils numériques en matière de conservation du patrimoine (Couillard, 2019).</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Projet Gutenberg</eventName>
-                    <date when="1970"/>
+                    <eventName>Création du Projet Gutenberg</eventName>
+                    <date when="1971-12-01">1er décembre 1971</date>
                     <description>
                         <p>Ce projet collectif de numérisation de livres existants en version papier a pour objectif de créer une bibliothèque électronique qui se veut universelle et accessible au plus grand nombre. Les oeuvres numérisées appartiennent au domaine public (Vinck, 2016). </p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Premier ordinateur au sein d’un musée</eventName>
+                    <eventName>Premier ordinateur au sein d’un musée (à vérifier) </eventName>
                     <date when="1970/72"/>
                     <description>
-                        <p>Le Musée national des arts et traditions populaires est le premier à se doter d’un ordinateur en France. La machine permet alors de "regrouper et d’analyser les multiples informations manipulées par les spécialistes [...] qui tous ensemble travaillent à l’établissement rigoureux des connaissances et de la conservation des sciences humaines".</p>
+                        <p>Le Musée national des arts et traditions populaires est le premier à se doter d’un ordinateur en France. La machine permet alors de "regrouper et d’analyser les multiples informations manipulées par les spécialistes [...] qui tous ensemble travaillent à l’établissement rigoureux des connaissances et de la conservation des sciences humaines" (Segalen, 2019).</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Création du Programme National d’inventaire canadien (ancien RCIP)</eventName>
+                    <eventName>Création du Programme d’Inventaire National canadien</eventName>
                     <date when="1972"/>
                     <description>
                         <p>Cet organisme de service intégré au ministère du Patrimoine canadien a pour objectif d’offrir des ressources dans le cadre de la gestion des collections muséales canadiennes. Travaillant aussi bien sur la documentation et la gestion de ces collections, il joue également un rôle en matière de diffusion de l’information, en particulier en ligne. Depuis sa création, cet organisme a connu plusieurs phases, s’adaptant à la fois à l’évolution des politiques culturelles et des technologies numériques. Si des premiers changements sont à noter dans les années 1980, c’est notamment dans les années 1990 que l’organisation évolue et s’adapte à la démocratisation de l’Internet. (Bauer, 2002).</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Publication du premier guide informatique à destination des professionnels du patrimoine</eventName>
+                    <eventName>Publication du premier guide informatique à destination des professionnels du patrimoine en France</eventName>
                     <date when="1972"/>
                     <description>
                         <p>Intitulé "L’informatique appliquée à la réalisation de l’Inventaire général des monuments et des richesses artistiques de la France", ce guide  est publié conjointement par le ministère des Affaires culturelles et le ministère de l’Éducation nationale. Il s’agit d’un document fondamental, posant les jalons pour la création des premières bases de données informatiques dans le but d’améliorer les outils informatiques destinés à la connaissance du patrimoine français (Couillard, 2019).</p>
@@ -291,7 +291,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Création du Comité international pour la muséologie (Icofom)</eventName>
-                    <date when="1976"/>
+                    <date when="1977"/>
                     <description>
                         <p>Ce Comité devient rapidement un espace de discussion déterminant au sein de la muséologie. La création de ce comité intervient dans un contexte favorable puisque la discipline connait un regain intérêt à la fin des années 1980. Ce phénomène ne durera cependant pas, la muséologie connaissant une crise au cours de la décennie suivante. Trop éloignée des réalités muséales, la muséologie théorique prendra alors la forme d’un guide de bonnes intentions stéréotypées (Poulot, 2009).</p>
                     </description>
@@ -410,6 +410,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
+                    <eventName>Création du Museo Virtual de Artes ou MUVA</eventName>
+                    <date when="1997"/>
+                    <description>
+                        <p>Crée par le journal El Païs, le MUVA est un des premiers exemples de musée virtuel. C'est afin d'encourager le développement des centres d'art et des musées en Uruguay que ce musée virtuel est conçu, permettant également d'envisager de nouvelles possibilités en la matière (Terrisse, 2013).</p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Première exposition proposant un catalogue sur CD-Rom au Canada</eventName>
                     <date when="1997-1998"/>
                     <description>
@@ -474,6 +481,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
+                    <eventName>Mise en place d'une visite virtuelle en 3D sur le site du musée Guggenheim de Bilbao</eventName>
+                    <date when="2005"/>
+                    <description>
+                        <p>Cette visite accessible en ligne souffre d'un manque d'ergonomie et de précision. Pour autant, elle reste précurseure et permet aux visiteurs de bénéficier d'une visite enrichie par des vidéos et des commentaires (Terrisse, 2013).</p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Museum Lab</eventName>
                     <date when="2006"/>
                     <description>
@@ -485,6 +499,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date when="2008"/>
                     <description>
                         <p>Entre immersion et simulation, cette exposition est développée par un centre de culture scientifique, au sein de la Cité des Sciences. S’écartant de la structure patrimoniale classe, cette institution se révèle tout de même particulièrement novatrice en matière d’expérience muséale.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Lancement d'une application par la National Gallery de Londres</eventName>
+                    <date when="2009-07">Juillet 2009</date>
+                    <description>
+                        <p>Payante et disponible sur iPhone et iPad, cette application offrait la possibilité d'admirer 250 peintures de la collection permanente du musée. Des zooms et des commentaires agrémentaient la visualisation. Cette innovation inspirera par la suite d'autres sites patrimoniaux, comme le château de Versailles (Terrisse, 2013)</p>
                     </description>
                 </event>
                 <event>
@@ -501,6 +522,14 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <description>
                         <p>Les ordinateurs placés à disposition des visiteurs dans le cadre de cette exposition permettaient de recueillir les témoignages des visiteurs sur la façon dont la culture a façonné leur vie. Les vidéos ont ensuite été diffusées sur la chaine Youtube de l’exposition. Ainsi, ce projet intégre le visiteur au propos muséal et l’incite à en devenir co-constructeur.</p>
                     </description>
+                </event>
+                <event>
+                    <eventName>Lancement du programme de numérisation du patrimoine par la Commission européenne</eventName>
+                    <date when="2010"/>
+                    <description>
+                        <p>L'émergence de la numérisation du patrimoine accompagne l'entrée du numérique au sein de l'espace muséal. Pour autant, d'autres initiatives antérieures annoncent ce programme lancé par la Commission européenne. C'est notamment le cas du projet Europeana lancé par la France dès 2008 (Terrisse, 2013).</p>
+                    </description>
+                    <p/>
                 </event>
                 <event>
                     <eventName>Le Musée Nestploria et les Grottes de Gargas proposent un parcours interactif</eventName>
@@ -540,6 +569,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
+                    <eventName>Apparition du Google Art Project</eventName>
+                    <date when="2011-02">Février 2011</date>
+                    <description>
+                        <p>Développé par la multinationale californienne Google, ce projet propose une nouvelle approche muséale par le biais de la numérisation. Se basant sur la technologie Street View, ce projet permet de numériser non plus seulement les oeuvres, mais également les musées eux-mêmes, offrant de nouvelles possibilités en matière de visite virtuelle (Terrisse, 2013).</p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Mise en place du dispositif  "Blinkster" au Centre Pompidou</eventName>
                     <date when="2011-2012"/>
                     <description>
@@ -562,7 +598,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Le Louvre propose un parcours de visite sur Nintendo DS</eventName>
-                    <date when="2012"/>
+                    <date when="2012-03">Mars 2012</date>
                     <description>
                         <p>Souhaitant remplacer l’audio-guide, le dispositif se veut à la fois ludique et pédagogique. Par le biais d’une Nintendo DS, une console de jeu portable, les visiteurs ont accès à plusieurs parcours et peuvent se balader librement au sein du musée. Ce projet étonnant se veut destiné aux publics peu habitués à la visite muséale. Par ailleurs, il marque une nouvelle approche du patrimoine, proposant aux visiteurs de découvrir les collections du musée à travers le divertissement interactif.</p>
                     </description>
@@ -662,13 +698,6 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
             <listEvent>
                 <head>Canada (à discuter ensemble)</head>
                 <event>
-                    <eventName>To the Totem Forets : Emily Carr and her Contemporaries Interpret Coastal Villages</eventName>
-                    <date when="1999">automne 1999</date>
-                    <description>
-                        <p>An on-line version of a physical exhibit created by the Art Gallery of Greter Victoria (AGGV)</p>
-                    </description>
-                </event>
-                <event>
                     <eventName>Artropolis 97</eventName>
                     <date when="1997">1997</date>
                     <description>
@@ -691,7 +720,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>CyberMuse (NGA)</eventName>
-                    <date when="1999-05">mai 1999</date>
+                    <date when="1999-05">Mai 1999</date>
                     <description>
                         <p>Lancé comme un service d’éducation interactif avec le support de Silicon Graphics Canada et de la fondation American Express. "part of a broader strategy designed to increase accessibility to our [the NGC] collections through an expanded repertoire of educational programs and innovative communications efforts."</p>
                     </description>
