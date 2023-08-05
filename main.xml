@@ -333,30 +333,30 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Exposition "Quelle mémoire pour demain ?" présentée à Grenoble au Musée dauphinois</eventName>
-                    <date when="1989"/>
+                    <date when="1989-10-27">27 octobre 1989</date>
                     <description>
                         <p>Dans le cadre de cette exposition, un ordinateur est mis à disposition des visiteurs afin qu’ils puissent accéder à la banque d’images et des fiches informatisées du patrimoine Rhône-alpins, soit 13 000 images. Cet exemple démontre la volonté des musées d’utiliser les innovations technologiques non plus seulement au service de la numérisation et de la conservation des oeuvres à des fins scientifiques, mais également afin de partager ce contenu avec les visiteurs (Andreacola, 2014).</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Publication du CD-Rom "Microsoft’ Art Gallery: The Collection of the National Gallery"</eventName>
+                    <eventName>Publication du CD-Rom "Microsoft Art Gallery: The Collection of the National Gallery"</eventName>
                     <date when="1993"/>
                     <description>
-                        <p>Première utilisation sérieure du Multimédia.</p>
+                        <p>Dédié aux collections de la National Gallery de Londres, ce logiciel est un outil d'apprentissage multimédia. L'utilisateur peut naviguer parmi les oeuvres et interargir avec elles. Commercialité en Angleterre dès 1993, il sera également vendu en Australie plus tard la même année. </p>
                     </description>
                 </event>
                 <event>
-                    <eventName>WebMuseum (Le Louvre)</eventName>
-                    <date when="1994"/>
+                    <eventName>Débuts de WebMuseum</eventName>
+                    <date when="1994-03">Mars 1994</date>
                     <description>
-                        <p>Nicholas Pioch, un informaticien professeur à l’École Nationale Supérieure des Télécommunications de Pairs créée le site WebMuseum sur son temps libre. http://www.ibiblio.org/wm/</p>
+                        <p>Nicholas Pioch, un informaticien professeur à l’École Nationale Supérieure des Télécommunications de Pairs créée le site WebMuseum sur son temps libre. Il le conçoit comme un projet collaboratif par et pour les visiteurs, afin de répandre l'art sur le World Wide Web. Le projet remporte rapidement le prix de "Meilleur usage de médias divers" (Best Use of Multiple Media Award) au concours Best of Web '94 (Pioch, 2006).</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Virtual Library museums pages (Vlmp)</eventName>
+                    <eventName>Création de la Virtual Library museums pages (Vlmp)</eventName>
                     <date when="1994"/>
                     <description>
-                        <p>Jonathan Bowen, un professeur d’informatique de la South Bank University de Londres crée un répertoire de sites web mondiaux maintenu par des volontaires. Le site fut adopté comme répertoire par l’ICOM en 1996.</p>
+                        <p>Jonathan Bowen, un professeur d’informatique de la South Bank University de Londres crée un répertoire de sites web mondiaux maintenu par des volontaires. Le site fut adopté comme répertoire par l’ICOM en 1996. </p>
                     </description>
                 </event>
                 <event>
@@ -376,9 +376,9 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Publication du CD-Rom "A Passion for Art: Renoir, Cezanne, Matisse and Dr. Barnes"</eventName>
-                    <date when="1995"/>
+                    <date when="1995-02">Février 1995</date>
                     <description>
-                        <p>Produit par Corbis Corporation et la Fondation Barnes.</p>
+                        <p>Produit par Corbis Corporation et la Fondation Barnes, il s'agit d'un contenu interactif basé sur des oeuvres impressionistes. Sous la forme d'un jeu, l'utilisateur découvre l'histoire do Docteur Barnes et de sa collection d'art. Disponible sur Windows dès février 1995, il ne sort sur Macintosh qu'en juin de la même année. </p>
                     </description>
                 </event>
                 <event>
@@ -390,14 +390,14 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Création de Gallica</eventName>
-                    <date when="1997"/>
+                    <date when="1997-10-10">10 octobre 1997</date>
                     <description>
                         <p>Développée par la Bibliothèque nationale de France, cette base de données accessible en ligne met à disposition un nombre considérable de livres, journaux et cartes en format image et texte (Vinck, 2016). </p>
                     </description>
                 </event>
                 <event>
                     <eventName>Colloque "Patrimoine et Multimédia - Le rôle du conservateur"</eventName>
-                    <date when="1997"/>
+                    <date when="1996-10">23 et 25 octobre 1996</date>
                     <description>
                         <p>Ce colloque s’est tenu à la Bibliothèque Nationale de France et participe à la réaffirmation du rôle de conservateur au sein de l’institution muséale. Il s’agit également d’un moyen de susciter la confiance des professionels en l’utilisation du multimédia (Couillard, 2019).</p>
                     </description>
@@ -425,7 +425,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Mise en place du Plan d’action gouvernemental pour la société d’information (PAGSI)</eventName>
-                    <date when="1998"/>
+                    <date when="1998-01">Janvier 1998</date>
                     <description>
                         <p>Ce plan est mis en place par le gouvernement et fait de la culture un domaine privilégié de la diffusion et de l’utilisation des technologies numériques (Couillard, 2019).</p>
                     </description>
@@ -439,7 +439,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Mise en ligne du dispositif To the Totem Forests par la Galerie d’Art de Greater Victoria</eventName>
-                    <date when="1999"/>
+                    <date when="1999-08-05">5 août 1999</date>
                     <description>
                         <p>Ce projet consiste en une exposition itinérante accessible en ligne et permettant de découvrir les villages des Premières Nations de la côte nord-ouest. Cette exposition virtuelle, bien que le terme soit alors anachronique, comprend des images d’archives ainsi que des témoignages à la première personne, offrant un contexte aux oeuvres présentées. La création de cette version en ligne est postérieure à l’organisation d’une exposition physique et son contenu est moins développé que celui proposé au sein du catalogue d’exposition (Broadbent, 2003).</p>
                     </description>
@@ -468,7 +468,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Définition de la loi dite "loi-musée"</eventName>
-                    <date when="2002"/>
+                    <date when="2002-01-04">4 janvier 2002</date>
                     <description>
                         <p>Selon cette définition, les "musées de France" sont dans l’obligation de formaliser un projet culturel et scientifique (PSC) ainsi que de proposer un service public. Dans ce cadre, les établissements nationaux peuvent faire démonstration de leur capacité à déployer les moyens financiers et humains nécessaires au développement d’offres numériques de plus en plus sophistiquées (Couillard, 2019).</p>
                     </description>
@@ -491,12 +491,12 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Museum Lab</eventName>
                     <date when="2006"/>
                     <description>
-                        <p>Le Museum Lab du Louvre propose de nouvelles approches de l’art depuis 2006. Parmi les différents projets développés, il est notamment possible de citer une expérience tournée vers l’exploration d’un tableau de Titien intitulé La Vierge au Lapin. Cette découverte repose sur plusieurs dispositifs : un film explicatif, des écrans tactiles d’observation de l’oeuvre et un espace immersif. </p>
+                        <p>Le Museum Lab du Louvre propose de nouvelles approches de l’art depuis 2006. Parmi les différents projets développés, il est notamment possible de citer une expérience tournée vers l’exploration d’un tableau de Titien intitulé La Vierge au Lapin. Cette découverte repose sur plusieurs dispositifs : un film explicatif, des écrans tactiles d’observation de l’oeuvre et un espace immersif.</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Exposition Epidemik à la Cité des Sciences et de l’industrie</eventName>
-                    <date when="2008"/>
+                    <date when="2008-10-21">21 octobre 2008</date>
                     <description>
                         <p>Entre immersion et simulation, cette exposition est développée par un centre de culture scientifique, au sein de la Cité des Sciences. S’écartant de la structure patrimoniale classe, cette institution se révèle tout de même particulièrement novatrice en matière d’expérience muséale.</p>
                     </description>
@@ -510,7 +510,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Présentation du jeu "Plug, les secrets du musée" au Musée des arts et métiers de Paris</eventName>
-                    <date when="2009"/>
+                    <date when="2009-05-29">29 mai 2009</date>
                     <description>
                         <p>Présenté au public du 29 mai au 7 juin, ce jeu reposait sur 16 objets de la collection dont chacun était rattaché à une carte virtuelle. L’objectif du visiteur était de retrouver les bonnes cartes virtuelles par l’intermédiaire d’un téléphone portable, en découvrant au passage de nouvelles informations sur les objets concernés. Si ce projet est rapidement qualifié d’original et ded ynamique, il est également précurseur en matière d’utilisation des téléphones portables au sein de la visite muséale.</p>
                     </description>
@@ -541,7 +541,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Exposition "Révélations, une odyssée numérique dans la peinture" au Petit Palais de Paris</eventName>
-                    <date when="2010"/>
+                    <date when="2010-09-18">18 septembre 2010</date>
                     <description>
                         <p>Issue d’une collaboration entre les équipes du Petit Palais et de l’entreprise Samsung, cette exposition temporaire dévoilait 40 oeuvres accompagnées d’une médiation numérique. Cette dernière consistait en des écrans présentant de courts films et invitant le visiteur à découvrir les détails et les intentions cachés d’un artiste.</p>
                     </description>
@@ -549,7 +549,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Première édition du projet Museomix au musée des Arts Décoratifs de Paris</eventName>
-                    <date when="2011"/>
+                    <date when="2011-11">Novembre 2011</date>
                     <description>
                         <p>Inventé par Stéphanie Bacquère, Samuel Bausson, Julien Dorra, Diane Dubray, Yves-Armel Martin, Christophe Monnet et Marie-Noéline Viguier, ce projet vise à inciter les publics à se réapproprier la médiation muséale. Pendant trois jours, une équipe plurisdisciplaire est invitée à concevoir un dispositif de médiation innovant sous la forme d’un prototype. Ce dernier est ensuite testé par les publics lors de la troisième journée.</p>
                     </description>
@@ -647,8 +647,15 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
-                    <eventName>Ouverture du "Palais virtuel" au Palais de Tokyo</eventName>
+                    <eventName>Lancement de la plate-forme ouverte du patrimoine en France (POP)</eventName>
                     <date when="2019"/>
+                    <description>
+                        <p>Cette plate-forme disponible en ligne comprend près de 4 millions de notices de biens culturels français divers. L'objectif est de favoriser la diffusion des ressources culturelles et de rassembler différentes sources en la matière . Les données collectées et accessibles sont issues de différentes bases de données : Joconde, Mérimée, Palissy, Mémoire, MNR Rose Valland, Muséofile, Autor, Enluminures. D'autres applications peuvent utilisées les données de cette plate-forme qui est enrichie en permanence (POP, Ministère de la culture).</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Ouverture du "Palais virtuel" au Palais de Tokyo</eventName>
+                    <date when="2019-04-03">3 avril 2019</date>
                     <description>
                         <p>Inauguré le 3 avril 2019, il s’agit d’un espace de diffusion d’oeuvres numériques permanent et dédié à la réalité virtuelle. Plusieurs artistes sont invités à y dévoiler leur travail, interrogeant à la fois le nouveau rapport à l’art que suggère une telle approche, mais également plus largement la place du numérique au sein de la société (Club Innovation et Culture France, 2019).</p>
                     </description>
