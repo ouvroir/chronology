@@ -417,6 +417,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
+                    <eventName>Exposition d'art Artropolis 97 à Vancouver</eventName>
+                    <date when="1997">1997</date>
+                    <description>
+                        <p>Organisées de 1987 à 2005, les expositions Artropolis se tenaient à Vancouver tous les 3 ans. L'ambition était de présenter le travail d'artistes contemporains de Colombie-Britannique dans des espaces peu proprices à la présentation d'oeuvres d'art, tels que des centres communautaires par exemple. Dans ce cadre, l'édition de 1997 intitulée "Browser" (navigateur) se tient à la Roundhouse Community Centre. Elle se distingue des précédentes éditions par la création d'un CD-Rom accompagnant l’exposition (Artropolis, 2012). </p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Première exposition proposant un catalogue sur CD-Rom au Canada</eventName>
                     <date when="1997-1998"/>
                     <description>
@@ -707,13 +714,6 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
             </listEvent>
             <listEvent>
                 <head>Canada (à discuter ensemble)</head>
-                <event>
-                    <eventName>Artropolis 97</eventName>
-                    <date when="1997">1997</date>
-                    <description>
-                        <p>CD-Rom accompagnant l’exposition de l’Artropolis Society de Vancouver</p>
-                    </description>
-                </event>
                 <event>
                     <eventName>The Canadian Collection of the National Gallery of Canada: Three Centuries of Art by over 2 000 Artists (NGC)</eventName>
                     <date when="1997"/>
