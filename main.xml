@@ -488,6 +488,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
+                    <eventName>Début du projet de recherche Documentation et conservation du patrimoine des arts médiatiques (DOCAM)</eventName>
+                    <date when="2005">2005</date>
+                    <description>
+                        <p>Ce projet de recherche international s'étend sur une période de 5 ans et part d'un constat : les institutions culturelles doivent à la fois préserver les anciennes oeuvres d'art à composantes technologiques tout en les comprenant et en les documentant. Dans ce cadre, ce programme de recherche s'intèresse à la documentation et à la préservation de ces arts médiatiques. Le fonctionnement de ce programme se base sur la collaboration de différents acteurs culturels et universitaires nord-américains et est initié par la Fondation Daniel Langlois de Montréal (Bardiot).</p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Museum Lab</eventName>
                     <date when="2006"/>
                     <description>
@@ -548,27 +555,6 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <p/>
                 </event>
                 <event>
-                    <eventName>Première édition du projet Museomix au musée des Arts Décoratifs de Paris</eventName>
-                    <date when="2011-11">Novembre 2011</date>
-                    <description>
-                        <p>Inventé par Stéphanie Bacquère, Samuel Bausson, Julien Dorra, Diane Dubray, Yves-Armel Martin, Christophe Monnet et Marie-Noéline Viguier, ce projet vise à inciter les publics à se réapproprier la médiation muséale. Pendant trois jours, une équipe plurisdisciplaire est invitée à concevoir un dispositif de médiation innovant sous la forme d’un prototype. Ce dernier est ensuite testé par les publics lors de la troisième journée.</p>
-                    </description>
-                </event>
-                <event>
-                    <eventName>Mise en ligne du projet data.bnf.fr</eventName>
-                    <date when="2011"/>
-                    <description>
-                        <p>Ce projet consiste en un rassemblement et un partage des données de la BnF sur le Web, et ce, afin d’en accroître la visibilité. Au-delà de la quantité importante des données collectées, il s’agit également d’une contribution déterminante car adoptant une approche tournée vers la coopération et l’échange de métadonnées avec d’autres ressources de confiance. Par ailleurs, cette publication des données de la Bibliothèque nationale de France s’inscrit dans un réseau de partage libre, selon la Licence ouverte de l’Etat.</p>
-                    </description>
-                </event>
-                <event>
-                    <eventName>Installation d’une cabine 3D à la Cité de la dentelle et de la mode de Calais</eventName>
-                    <date when="2011"/>
-                    <description>
-                        <p>Cette cabine calcule les mensurations du visiteur afin de créer un avatar à son image. Des pièces fragiles issues des collections de la Cité de la dentelle et de la mode sont ensuite projetées sur la silhouette numérisée. Il s’agit là d’une approche participative, le visiteur prenant part à une modélisation sans laquelle les pièces ne pourraient être montrées. Par ailleurs, ce projet met en évidence la pertinence du numérique en matière de mise en exposition d’objets fragiles.</p>
-                    </description>
-                </event>
-                <event>
                     <eventName>Apparition du Google Art Project</eventName>
                     <date when="2011-02">Février 2011</date>
                     <description>
@@ -576,24 +562,38 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
-                    <eventName>Mise en place du dispositif  "Blinkster" au Centre Pompidou</eventName>
-                    <date when="2011-2012"/>
+                    <eventName>Première expérimentation du dispositif  "Blinkster" au Centre Pompidou</eventName>
+                    <date when="2011-06-22">22 juin 2011</date>
                     <description>
                         <p>Présenté dans le cadre de Futur en Seine, ce dispositif est intégré à la visite du Centre Pompidou afin de permettre aux visiteurs d’effectuer une reconnaissance d’oeuvres. Développé en partenariat avec la société Euréva, Blinkster est une application mobile dotée d’un système de reconnaissance faciale par le biais duquel le visiteur peut avoir accès à des informations supplémentaires sur les oeuvres flashées (IRI, 2011).</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Conception et premières expérimentations du projet Kjing</eventName>
-                    <date when="2011-2012"/>
+                    <eventName>Mise en ligne du projet data.bnf.fr</eventName>
+                    <date when="2011-07">Juillet 2011</date>
                     <description>
-                        <p>Cet outil est développé par le laboratoire d’innovation ouverte de la métropole de Lyon, Erasme. L’objectif est de concevoir un environnement proposant des contenus multimédias accessibles à travers des interactions simples. De cette façon, il devient possible pour les personnes assurant la médiation d’un musée de transformer et d’adapter l’espace d’exposition.</p>
+                        <p>Ce projet consiste en un rassemblement et un partage des données de la BnF sur le Web, et ce, afin d’en accroître la visibilité. Au-delà de la quantité importante des données collectées, il s’agit également d’une contribution déterminante car adoptant une approche tournée vers la coopération et l’échange de métadonnées avec d’autres ressources de confiance. Par ailleurs, cette publication des données de la Bibliothèque nationale de France s’inscrit dans un réseau de partage libre, selon la Licence ouverte de l’Etat.</p>
                     </description>
                 </event>
                 <event>
-                    <eventName>Organisation d’une journée professionnelle sur l’informatisation, la numérisation et la mise en ligne des collections des musées de France</eventName>
+                    <eventName>Installation d’une cabine 3D à la Cité de la dentelle et de la mode de Calais</eventName>
+                    <date when="2011-09">Septembre 2011</date>
+                    <description>
+                        <p>Cette cabine calcule les mensurations du visiteur afin de créer un avatar à son image. Des pièces fragiles issues des collections de la Cité de la dentelle et de la mode sont ensuite projetées sur la silhouette numérisée. Il s’agit là d’une approche participative, le visiteur prenant part à une modélisation sans laquelle les pièces ne pourraient être montrées. Par ailleurs, ce projet met en évidence la pertinence du numérique en matière de mise en exposition d’objets fragiles.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Première édition du projet Museomix au musée des Arts Décoratifs de Paris</eventName>
+                    <date when="2011-11">Novembre 2011</date>
+                    <description>
+                        <p>Inventé par Stéphanie Bacquère, Samuel Bausson, Julien Dorra, Diane Dubray, Yves-Armel Martin, Christophe Monnet et Marie-Noéline Viguier, ce projet vise à inciter les publics à se réapproprier la médiation muséale. Pendant trois jours, une équipe plurisdisciplaire est invitée à concevoir un dispositif de médiation innovant sous la forme d’un prototype. Ce dernier est ensuite testé par les publics lors de la troisième journée.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Premières expérimentations du projet Kjing</eventName>
                     <date when="2012"/>
                     <description>
-                        <p>Organisée le 8 juin 2012 par le Ministère de la Culture français, cette journée est l’occasion d’évoquer les enjeux soulevés par la diffusion numérique des collections des musées que ce soit concernant les publics visés, les politiques culturelles envisagées ou encore les moyens numériques déployés. Les contributions de cette journée sont ensuite publiées sur le portail de la base Joconde, afin de favoriser les échanges et la réflexion sur le sujet(Ministère de la Culture, 2012).</p>
+                        <p>Cet outil est développé par le laboratoire d’innovation ouverte de la métropole de Lyon, Erasme. L’objectif est de concevoir un environnement proposant des contenus multimédias accessibles à travers des interactions simples. De cette façon, il devient possible pour les personnes assurant la médiation d’un musée de transformer et d’adapter l’espace d’exposition.</p>
                     </description>
                 </event>
                 <event>
@@ -601,6 +601,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date when="2012-03">Mars 2012</date>
                     <description>
                         <p>Souhaitant remplacer l’audio-guide, le dispositif se veut à la fois ludique et pédagogique. Par le biais d’une Nintendo DS, une console de jeu portable, les visiteurs ont accès à plusieurs parcours et peuvent se balader librement au sein du musée. Ce projet étonnant se veut destiné aux publics peu habitués à la visite muséale. Par ailleurs, il marque une nouvelle approche du patrimoine, proposant aux visiteurs de découvrir les collections du musée à travers le divertissement interactif.</p>
+                    </description>
+                </event>
+                <event>
+                    <eventName>Organisation d’une journée professionnelle sur l’informatisation, la numérisation et la mise en ligne des collections des musées de France</eventName>
+                    <date when="2012-06-08">8 juin 2012</date>
+                    <description>
+                        <p>Organisée le 8 juin 2012 par le Ministère de la Culture français, cette journée est l’occasion d’évoquer les enjeux soulevés par la diffusion numérique des collections des musées que ce soit concernant les publics visés, les politiques culturelles envisagées ou encore les moyens numériques déployés. Les contributions de cette journée sont ensuite publiées sur le portail de la base Joconde, afin de favoriser les échanges et la réflexion sur le sujet(Ministère de la Culture, 2012).</p>
                     </description>
                 </event>
                 <event>
@@ -619,7 +626,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Table ronde "La commémoration à l’ère du numérique"</eventName>
-                    <date when="2017"/>
+                    <date when="2017-10">Octobre 2017</date>
                     <description>
                         <p>Organisée durant le "Forum d’histoire et de patrimoine de Montréal. Découvrir la métropole par ses quartiers", cette table ronde a été l’occasion de questionner le rôle du numérique en matière de commémoration. Au-delà d’évoquer la capacité du numérique à replacer la commémoration au sein de l’espace public, cette réflexion a également soulever des questionnements en matière de financement et de pérennité. (Rondeau, 2018).</p>
                     </description>
@@ -634,7 +641,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Art # connexion au Grand Palais</eventName>
-                    <date when="2018"/>
+                    <date when="2018-07">Juillet 2018</date>
                     <description>
                         <p>Se déroulant du 7 au 9 juillet 2018, cet événément ouvert à tous et gratuit réunissait en un même lieu des expériences innovantes et numériques, produites par les institutions culturelles françaises. Entre réalité virtuelle et augmentée, projections immersives, numérisations 3D ou encore écrans interactifs, les visiteurs avaient la possibilité d’expérimenter les différents outils mis à leur disposition. Par ailleurs, ce projet a été conçu en partenariat avec Google Arts et Culture, dans le cadre de son développement d’expériences numériques immersives de mise en valeur du patrimoine (Pagès, 2020).</p>
                     </description>
@@ -648,7 +655,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Lancement de la plate-forme ouverte du patrimoine en France (POP)</eventName>
-                    <date when="2019"/>
+                    <date when="2019-07-09">9 juillet 2019</date>
                     <description>
                         <p>Cette plate-forme disponible en ligne comprend près de 4 millions de notices de biens culturels français divers. L'objectif est de favoriser la diffusion des ressources culturelles et de rassembler différentes sources en la matière . Les données collectées et accessibles sont issues de différentes bases de données : Joconde, Mérimée, Palissy, Mémoire, MNR Rose Valland, Muséofile, Autor, Enluminures. D'autres applications peuvent utilisées les données de cette plate-forme qui est enrichie en permanence (POP, Ministère de la culture).</p>
                     </description>
@@ -662,9 +669,9 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Annonce d’un programme de déploiement de micro-folies</eventName>
-                    <date when="2020"/>
+                    <date when="2019-09">Septembre 2019</date>
                     <description>
-                        <p>C’est durant l’été 2020 que le ministre français de la Culture Franck Riester annonce le déploiement de 1000 micro-folies d’ici 2022. Il s’agit d’espaces modulables présentés comme des "musées numériques" favorisant la création et la diffusion de l’art. Ce projet est "hors les murs" consiste donc à sensibiliser les publics les plus éloignés de la culture institutionnelle, tout en impliquant de grands acteurs culturels tels que le Musée du Louvre ou encore l’Opéra National de Paris (Pagès, 2020).</p>
+                        <p>C’est durant l’été 2019 que le ministre français de la Culture Franck Riester annonce le déploiement de 1000 micro-folies d’ici 2022. Il s’agit d’espaces modulables présentés comme des "musées numériques" favorisant la création et la diffusion de l’art. Ce projet est "hors les murs" consiste donc à sensibiliser les publics les plus éloignés de la culture institutionnelle, tout en impliquant de grands acteurs culturels tels que le Musée du Louvre ou encore l’Opéra National de Paris (Pagès, 2020).</p>
                     </description>
                 </event>
                 <event>
@@ -675,32 +682,28 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     </description>
                 </event>
                 <event>
+                    <eventName>Début du projet Prometheus.Museum</eventName>
+                    <date when="2020"/>
+                    <description>
+                        <p>Ce projet novateur concilie numérique et patrimoine immatériel. C’est en s’inspirant de récits expographiques de musées de société, comme le Musée de la civilisation de Québec notamment, que ce projet s’appui sur trois regards : celui de Vanessa Foltier, présidente du comité des fêtes d’Izaourt, Vincent Boya, conseiller municipal d’Esténos, et Père Arnaud Richard, curé de Bagnères-de-Luchon. De cette façon, ce musée numérique propose une mise en valeur novatrice des fêtes du feu des solstices dans les Pyrénées. Par le biais de vidéos et d’une carte interactive, le site met en évidence l’importance de ces célébrations locales, inscrites sur la Liste représentative du patrimoine culturel immatériel de l’humanité par l’UNESCO. Par ailleurs, le rôle citoyen du musée est également développé au sein de cette interface par une approche interdisciplinaire du sujet (Soulier et Roigé, 2022).</p>
+                    </description>
+                </event>
+                <event>
                     <eventName>Mise en place du pass Culture</eventName>
-                    <date when="2021"/>
+                    <date when="2021-05-21">21 mai 2021</date>
                     <description>
                         <p>Ce dispositif proposé par l’État français vise à favoriser la démocratisation culturelle en proposant notamment à tous les jeunes de 18 ans de disposer d’un crédit de 300 euros, utilisable pendant deux ans par le biais d’une application L’objectif, au-delà de permettre à ce type de public de bénéficier d’une consommation culturelle facilitée, est également de permettre l’émergence de nouvelles pratiques culturelles. Ce projet résulte également d’un constat quant à la production et la consommation culturelle qui est celui de la multiplication des écrans. Considérés comme à la fois addictif et une source d’opportunités créatives, le numérique revêt plus que jamais une ambivalence au sein de la sphére culturelle (Bachelot-Narquin, 2022).</p>
                     </description>
                 </event>
                 <event>
                     <eventName>Mise en ligne de l’espace Louvre +</eventName>
-                    <date when="2021"/>
+                    <date when="2021-12-16">16 décembre 2021</date>
                     <description>
                         <p>Prolongeant son désir de maintenir le lien avec son public hors-les-murs, le Louvre propose en décembre 2021 un espace comprenant des vidéos, des podccasts ainsi que des visites virtuelles mettant en valeur l’utilisation d’outils numériques innovants. Il s’agit donc d’un espace en ligne pensé pour tous, quelque soit les usages et les attentes (Pham, 2022).</p>
                     </description>
                 </event>
-                <event>
-                    <eventName>Développement et mise en ligne du projet Prometheus.Museum</eventName>
-                    <date when="2021-2022"/>
-                    <description>
-                        <p>Ce projet novateur concilie numérique et patrimoine immatériel. C’est en s’inspirant de récits expographiques de musées de société, comme le Musée de la civilisation de Québec notamment, que ce projet s’appui sur trois regards : celui de Vanessa Foltier, présidente du comité des fêtes d’Izaourt, Vincent Boya, conseiller municipal d’Esténos, et Père Arnaud Richard, curé de Bagnères-de-Luchon. De cette façon, ce musée numérique propose une mise en valeur novatrice des fêtes du feu des solstices dans les Pyrénées. Par le biais de vidéos et d’une carte interactive, le site met en évidence l’importance de ces célébrations locales, inscrites sur la Liste représentative du patrimoine culturel immatériel de l’humanité par l’UNESCO. Par ailleurs, le rôle citoyen du musée est également développé au sein de cette interface par une approche interdisciplinaire du sujet (Soulier et Roigé, 2022).</p>
-                    </description>
-                </event>
             </listEvent>
             <listEvent>
-                <event>
-                    <eventName>Documentation and conservation of the media arts heritage (DOCAM)</eventName>
-                    <date>2005-2010</date>
-                </event>
             </listEvent>
             <listEvent>
                 <head>Canada (à discuter ensemble)</head>
