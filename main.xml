@@ -76,46 +76,55 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Création de l'ARPANET</eventName>
                     <date when="1969-10-29">29 octobre 1969</date>
                     <p>Fondé par le gouvernement américain, l’ARPANET (Advanced Research Projects Agency Network) est considéré comme étant l’ancêtre d’Internet. Ce projet avait pour objectif de créer un réseau permettant de lier des superordinateurs à des institutions académiques et universitaires. Le 29 octobre 1969 est envoyé le premier message entièrement lisible via ARPANET (IONOS, 2018). Sa première démonstration officielle date de 1972 (Bauer, 2002).</p>
+                <idno>zotero://select/groups/4804195/items/KYSX67YE</idno>
                 </event>
                 <event type="point">
                     <eventName>Invention du microprocesseur</eventName>
                     <date when="1971-11-15">15 novembre 1971</date>
-                    <p>Fondé par le gouvernement américain, l’ARPANET (Advanced Research Projects Agency Network) est considéré comme étant l’ancêtre d’Internet. Ce projet avait pour objectif de créer un réseau permettant de lier des superordinateurs à des institutions académiques et universitaires. Sa première démonstration officielle date de 1972 (Bauer, 2002).</p>
+                    <p>L'ère du numérique s'ouvre avec cette innovation de la firme Intel. Baptisé "4004", le premier microprocesseur est composé de 2300 transistors rassemblés sur 10 millimètres carrés (Capital, 2010). </p>
+                <idno>zotero://select/groups/4804195/items/27FZDD4G</idno>
                 </event>
                 <event type="point">
                     <eventName>Invention du courriel</eventName>
                     <date when="1971">1971</date>
                     <p>L'ingénieur Ray Tomlinson utilise l'ARPANET et combine en 1971 un protocole d'envoi de messages et un protocole de réception pour créer la première application de messagerie dédiée. Par la même, il crée également le premier courriel, ouvrant la voie à un nouvel usage pour le grand public(Robert, 2019).</p>
+                <idno>zotero://select/groups/4804195/items/WWELLFD3</idno>
                 </event>
                 <event type="point">
                     <eventName>Arrivée de l'ordinateur personnel</eventName>
                     <date when="1973">1973</date>
-                    <p>L'ordinnateur personnel est dédié à l'usage d'une seule personne et se veut accessible, aussi bien en matière de coût que de dimensions. La première machine dénommée ordinateur personnel est le Micral N, breveté en 1973 et développé par François Gernelle au sein de la société R2E (Goujon). </p>               
+                    <p>L'ordinnateur personnel est dédié à l'usage d'une seule personne et se veut accessible, aussi bien en matière de coût que de dimensions. La première machine dénommée ordinateur personnel est le Micral N, breveté en 1973 et développé par François Gernelle au sein de la société R2E (Goujon). </p>
+                <idno>zotero://select/groups/4804195/items/QNNW7U76</idno>
                 </event>
                 <event type="point">
                     <eventName>Rapport "Nora-Minc" sur l’informatisation de la société</eventName>
                     <date when="1978-12">Décembre 1978</date>
                     <p>Publié par Simon Nora et Alain Minc, ce rapport français porte sur les moyens à employer afin de susciter une réflexion nouvelle sur les moyens de conduire l’informatisation de la société.</p>
+                <idno>zotero://select/groups/4804195/items/7DG9V2TQ</idno>
                 </event>
                 <event type="point">
                     <eventName>Lancement du premier PC</eventName>
                     <date when="1981-08-12">12 août 1981</date>
                     <p>Équipé d’un logiciel conçu par Microsoft, ce premier ordinateur personnel est lancé par IBM, en collaboration avec Microsoft, entreprise alors méconnue. Quelques mois plus tôt, en avril, Adam Osborne lance le premier ordinateur portable, l'Osborne 1. Dans ce cadre, des groupes de hackers apparaissent notamment aux États-Unis et en Allemagne. Cet événement marque le début de la révolution informatique, l'ordinateur devenant de plus en plus accessible à tous dans les décennies qui suivent (Vahramian, 2020). </p>
+                <idno>zotero://select/groups/4804195/items/B2UVTYTN</idno>
                 </event>
                 <event type="point">
                     <eventName>Invention du CD-Rom</eventName>
                     <date when="1982">1982</date>
                     <p>La société néerlandaise Philips publie en 1982 The Red Book for CD Audio, annonçant l'arrivée des disques compacts ou CD-Roms. Le CD devient rapidement le premier support numérique pour la musique et les premiers lecteurs apparaissent en février 1983 sur le marché. La démocratisation de son usage va de pair avec celle de l’ordinateur. (Duchêne, 1998).</p>
+                <idno>zotero://select/groups/4804195/items/GGFJ8Y62</idno>
                 </event>
                 <event type="point">
                     <eventName>Première version du Web</eventName>
                     <date when="1989-03-12">12 mars 1989</date>
                     <p>Ce premier projet imaginé par Tim Berners Lee consiste en une réorganisation des bases de données du CERN, l'Organisation européenne pour la recherche nucléaire. Tim Berners Lee propose notamment d'utiliser l'hypertexte pour lier les documents du réseau, posant ainsi les bases de ce qui deviendra le Web par la suite (Le Bourlout, 2019)</p>
+                <idno>zotero://select/groups/4804195/items/3FSX595T</idno>
                 </event>
                 <event type="point">
                     <eventName>Ouverture du premier site Web</eventName>
                     <date when="1990-12-20">20 décembre 1990</date>
                     <p>Développé par Tim Berners Lee, ce premier site n'est alors que consultable par le biais du réseau interne du CERN. Ce projet est également l'occasion pour TBL, en collaboration avec Robert Caillau, de définir les bases des protocoles HTTP et HTML (Le Bourlout, 2019). </p>
+                <idno>zotero://select/groups/4804195/items/EEYIM3G8</idno>
                 </event>
                 <event type="point">
                     <eventName>Lancement du World Wide Web (WWW) ou de la Toile mondiale</eventName>
