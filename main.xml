@@ -273,10 +273,11 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <head>Liste d’événements</head>
                 <event>
                     <eventName>Fondation de l’Inventaire général du patrimoine culturel en France</eventName>
-                    <date when="1964-03-04"> 4 mars 1964</date>
+                    <date when="1964-03-04">4 mars 1964</date>
                     <description>
                         <p>Lors de sa présentation, cette base de données suscita un important scepticisme chez les historiens de l’art. Si cet événement semble anecdotique, il révèle les réticences suscitées par l’émergence de l’utilisation des outils numériques en matière de conservation du patrimoine (Couillard, 2019).</p>
                     </description>
+                <idno>zotero://select/groups/4804195/items/6HM6QTNS</idno>
                 </event>
                 <event>
                     <eventName>Création du Projet Gutenberg</eventName>
@@ -284,6 +285,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <description>
                         <p>Ce projet collectif de numérisation de livres existants en version papier a pour objectif de créer une bibliothèque électronique qui se veut universelle et accessible au plus grand nombre. Les oeuvres numérisées appartiennent au domaine public (Vinck, 2016). </p>
                     </description>
+                <idno>zotero://select/groups/4804195/items/TG3B3RXG</idno>
                 </event>
                 <event>
                     <eventName>Premier ordinateur au sein d’un musée (à vérifier) </eventName>
@@ -298,21 +300,24 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <description>
                         <p>Cet organisme de service intégré au ministère du Patrimoine canadien a pour objectif d’offrir des ressources dans le cadre de la gestion des collections muséales canadiennes. Travaillant aussi bien sur la documentation et la gestion de ces collections, il joue également un rôle en matière de diffusion de l’information, en particulier en ligne. Depuis sa création, cet organisme a connu plusieurs phases, s’adaptant à la fois à l’évolution des politiques culturelles et des technologies numériques. Si des premiers changements sont à noter dans les années 1980, c’est notamment dans les années 1990 que l’organisation évolue et s’adapte à la démocratisation de l’Internet. (Bauer, 2002).</p>
                     </description>
+                <idno>zotero://select/groups/4804195/items/BCAYS3YS</idno> 
                 </event>
                 <event>
                     <eventName>Publication du premier guide informatique à destination des professionnels du patrimoine en France</eventName>
                     <date when="1972"/>
                     <description>
                         <p>Intitulé "L’informatique appliquée à la réalisation de l’Inventaire général des monuments et des richesses artistiques de la France", ce guide  est publié conjointement par le ministère des Affaires culturelles et le ministère de l’Éducation nationale. Il s’agit d’un document fondamental, posant les jalons pour la création des premières bases de données informatiques dans le but d’améliorer les outils informatiques destinés à la connaissance du patrimoine français (Couillard, 2019).</p>
-                    </description>
+                <idno>zotero://select/groups/4804195/items/3CC7SENU</idno>
+                </description>
                 </event>
                 <event>
                     <eventName>Création de la base de données Joconde par le ministère de la culture français</eventName>
                     <date when="1975"/>
                     <description>
                         <p>Cette base de données répertorie les peintures conservées au sein des musées français. Elle est notamment complétée en 1978 par la création de la base Arcade, qui comprend les acquisitions d’oeuvres d’art par l’État français, et par la base Mérimée, qui est développée à partir de la documentation de l’inventaire général et de la liste des monuments inscrits et classés.</p>
-                    </description>
-                    <p/>
+                  <idno>zotero://select/groups/4804195/items/3KXG5KR8</idno>
+                  </description>
+                  <p/>
                 </event>
                 <event>
                     <eventName>Création du Comité international pour la muséologie (Icofom)</eventName>
@@ -320,6 +325,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <description>
                         <p>Ce Comité devient rapidement un espace de discussion déterminant au sein de la muséologie. La création de ce comité intervient dans un contexte favorable puisque la discipline connait un regain intérêt à la fin des années 1980. Ce phénomène ne durera cependant pas, la muséologie connaissant une crise au cours de la décennie suivante. Trop éloignée des réalités muséales, la muséologie théorique prendra alors la forme d’un guide de bonnes intentions stéréotypées (Poulot, 2009).</p>
                     </description>
+                <idno>zotero://select/groups/4804195/items/LBV7IVL4</idno>
                 </event>
                 <event>
                     <eventName>Début de l’Inventaire général du patrimoine en France</eventName>
@@ -327,6 +333,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <description>
                         <p>Cet Inventaire général du patrimoine s’appui sur les outils numériques et suscite la création de bases de données dédiées à l’architecture avec Mérimée, aux objets mobiliers avec Palissy, aux illustrations avec Mémoire et aux références documentaires avec Archidoc (Vinck, 2016). </p>
                     </description>
+                <idno>zotero://select/groups/4804195/items/6HM6QTNS</idno>
                 </event>
                 <event>
                     <eventName>Le Programme d’Inventaire National canadien devient le Réseau canadien d’information sur le patrimoine (RCIP)</eventName>
@@ -334,6 +341,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <description>
                         <p>Au-delà d’un changement de nom, cette transformation introduit un fonctionnement centralisé au sein de l’institution ainsi qu’un systéme automatisé de gestion de l’information à destination des structures patrimoniales canadiennes (Bauer, 2002).</p>
                     </description>
+                <idno>zotero://select/groups/4804195/items/B43XARAK</idno>
                 </event>
                 <event>
                     <eventName>Apparitions successives d’outils numériques au sein des institutions muséales françaises</eventName>
@@ -341,13 +349,15 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <description>
                         <p>Cette année marque l’installation des premières bornes interactives au sein de la Cité des Sciences et de l’Industrie, la mise en place d’un poste de consultation numérique au Musée d’Orsay ainsi que la création d’un vidéodisque répertoriant 15000 images provenant des collections du Musée d’Art Moderne et des Fonds nationaux et régionaux d’art contemporain, couvrant la période entre 1981 et 1986.</p>
                     </description>
+                <idno>zotero://select/groups/4804195/items/MLG9F8CB</idno>
                 </event>
                 <event>
                     <eventName>Développement de Trillium</eventName>
                     <date when="1988"/>
                     <description>
-                        <p>Développé en collaboration entre le Canadian Heritage Information Network (CHIN) et l’Association des Musées de l’Ontario (AMO), ce projet vise à susciter une collaboration entre les institutions participantes basée sur l’accès des bases de données nationales (Bauer, 2002).</p>
-                    </description>
+                        <p>Développé en collaboration entre le Canadian Heritage Information Network (CHIN) et l’Association des Musées de l’Ontario (AMO), ce projet vise à susciter une collaboration entre les institutions participantes basée sur l’accès à des bases de données nationales (Bauer, 2002).</p>
+                <idno>zotero://select/groups/4804195/items/C3R5LSV8</idno>
+                </description>
                 </event>
                 <event>
                     <eventName>Installation The Legible City de Jeffrey Shaw</eventName>
@@ -355,56 +365,63 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <description>
                         <p>Cette installation est considérée comme étant l’une des premières expérience d’immersion interactive en temps réel. Le visiteur pouvait en effet y utiliser une bicyclette afin d’accéder à une interface lui permettant d’explorer virtuellement trois villes, Karlsruhe, Amsterdam et New York (Serexhe, 2010).</p>
                     </description>
+                 <idno>zotero://select/groups/4804195/items/LG9K5Q9N</idno>
                 </event>
                 <event>
                     <eventName>Exposition "Quelle mémoire pour demain ?" présentée à Grenoble au Musée dauphinois</eventName>
                     <date when="1989-10-27">27 octobre 1989</date>
                     <description>
                         <p>Dans le cadre de cette exposition, un ordinateur est mis à disposition des visiteurs afin qu’ils puissent accéder à la banque d’images et des fiches informatisées du patrimoine Rhône-alpins, soit 13 000 images. Cet exemple démontre la volonté des musées d’utiliser les innovations technologiques non plus seulement au service de la numérisation et de la conservation des oeuvres à des fins scientifiques, mais également afin de partager ce contenu avec les visiteurs (Andreacola, 2014).</p>
-                    </description>
+                </description>
+                <idno>zotero://select/groups/4804195/items/V5ZN5JFU</idno>
                 </event>
                 <event>
                     <eventName>Publication du CD-Rom "Microsoft Art Gallery: The Collection of the National Gallery"</eventName>
                     <date when="1993"/>
                     <description>
                         <p>Dédié aux collections de la National Gallery de Londres, ce logiciel est un outil d'apprentissage multimédia. L'utilisateur peut naviguer parmi les oeuvres et interargir avec elles. Commercialité en Angleterre dès 1993, il sera également vendu en Australie plus tard la même année. </p>
-                    </description>
+                </description>
+                <idno>zotero://select/groups/4804195/items/V5R6JKBC</idno>
                 </event>
                 <event>
                     <eventName>Débuts de WebMuseum</eventName>
                     <date when="1994-03">Mars 1994</date>
                     <description>
                         <p>Nicholas Pioch, un informaticien professeur à l’École Nationale Supérieure des Télécommunications de Pairs créée le site WebMuseum sur son temps libre. Il le conçoit comme un projet collaboratif par et pour les visiteurs, afin de répandre l'art sur le World Wide Web. Le projet remporte rapidement le prix de "Meilleur usage de médias divers" (Best Use of Multiple Media Award) au concours Best of Web '94 (Pioch, 2006).</p>
-                    </description>
+                </description>
+                <idno>zotero://select/groups/4804195/items/BWG3H9HA</idno>
                 </event>
                 <event>
                     <eventName>Création de la Virtual Library museums pages (Vlmp)</eventName>
                     <date when="1994"/>
                     <description>
                         <p>Jonathan Bowen, un professeur d’informatique de la South Bank University de Londres crée un répertoire de sites web mondiaux maintenu par des volontaires. Le site fut adopté comme répertoire par l’ICOM en 1996. </p>
-                    </description>
+                </description>
+                <idno>zotero://select/groups/4804195/items/U3S899JG</idno>
                 </event>
                 <event>
                     <eventName>Développement d’une nouvelle mission d’accessibilité des données au sein du Canadian Heritage Information Network (CHIN)</eventName>
                     <date when="1995"/>
                     <description>
                         <p>L’accessibilité de ces données propres au patrimoine international se veut à destination d’un public académique mais également des musées canadiens. Cette base de données est accessible à partir d’octobre 1995, avant de proposer une première exposition virtuelle intitulée "Christmas Traditions in France and Canada" au mois de décembre. D’autres expositions virtuelles suivront par la suite, faisant du CHIN une structure précurseure en matière de mise en valeur du patrimoine par le biais du numérique : "Group of Seven" en 2001, "Panoramas: The North American Landscape in Art" également en 2001 (Bauer, 2002).</p>
-                    </description>
+                </description>
+                <idno>zotero://select/groups/4804195/items/K4A2IW35</idno>
                 </event>
                 <event>
                     <eventName>Publication du CD-Rom "Le Louvre, peintures et palais"</eventName>
-                    <date when="1995"/>
+                    <date when="1994-12"/>Décembre 1994 </date> 
                     <description>
                         <p>La publication de ce CD-Rom par la Réunion des Monuments Nationaux (Rmn)s’inscrit dans une période d’engouement pour les contenus culturels de ce type. Les années 1990 voient en effet la multiplication d’e-albums centrés sur un artiste et permettant aux usagers d’aller au-delà du contenu muséal (Miguet et Paquienséguy, 2019). </p>
-                    </description>
-                    <p/>
+                </description>
+                <idno>zotero://select/groups/4804195/items/L53JF7M5</idno>
                 </event>
                 <event>
-                    <eventName>Publication du CD-Rom "A Passion for Art: Renoir, Cezanne, Matisse and Dr. Barnes"</eventName>
+                 <eventName>Publication du CD-Rom "A Passion for Art: Renoir, Cezanne, Matisse and Dr. Barnes"</eventName>
                     <date when="1995-02">Février 1995</date>
                     <description>
                         <p>Produit par Corbis Corporation et la Fondation Barnes, il s'agit d'un contenu interactif basé sur des oeuvres impressionistes. Sous la forme d'un jeu, l'utilisateur découvre l'histoire do Docteur Barnes et de sa collection d'art. Disponible sur Windows dès février 1995, il ne sort sur Macintosh qu'en juin de la même année. </p>
-                    </description>
+                </description>
+                <idno>zotero://select/groups/4804195/items/NVXDLWCH</idno>
                 </event>
                 <event>
                     <eventName>Le Musée des Beaux-Arts de Bordeaux se dote d’un site Internet</eventName>
@@ -412,48 +429,55 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <description>
                         <p>Malgré un budget inexistant, le conservateur des Beaux-Arts de Bordeaux initie ce projet, qu’il est aujourd’hui possible de qualifier de précurseur. Si par la suite, des prestataires extérieurs seront amenés à intervenir dans le cadre de mécénats de compétences ou bénévolement, cette première tentative est développée en interne (Couillard, 2019).</p>
                     </description>
+                <idno>zotero://select/groups/4804195/items/7NFQ7HDB</idno>
                 </event>
                 <event>
                     <eventName>Création de Gallica</eventName>
                     <date when="1997-10-10">10 octobre 1997</date>
                     <description>
                         <p>Développée par la Bibliothèque nationale de France, cette base de données accessible en ligne met à disposition un nombre considérable de livres, journaux et cartes en format image et texte (Vinck, 2016). </p>
-                    </description>
+                </description>
+                <idno>zotero://select/groups/4804195/items/3I5Q3Q5C</idno>
                 </event>
                 <event>
                     <eventName>Colloque "Patrimoine et Multimédia - Le rôle du conservateur"</eventName>
                     <date when="1996-10">23 et 25 octobre 1996</date>
                     <description>
                         <p>Ce colloque s’est tenu à la Bibliothèque Nationale de France et participe à la réaffirmation du rôle de conservateur au sein de l’institution muséale. Il s’agit également d’un moyen de susciter la confiance des professionels en l’utilisation du multimédia (Couillard, 2019).</p>
-                    </description>
+                </description>
+                <idno>zotero://select/groups/4804195/items/C7V8FYFL</idno>
                 </event>
                 <event>
                     <eventName>L’Inventaire national canadien est accessible à tous sur l’Internet</eventName>
                     <date when="1997"/>
                     <description>
                         <p>En 1997, le gouvernement canadien annonce son programme favorisant la connectivité des institutions à destination des canadiens. Plus largement, l’objectif est de faire du Canada la nation la plus connectée au monde (Bauer, 2002).</p>
-                    </description>
+                </description>
+                <idno>zotero://select/groups/4804195/items/BCAYS3YS</idno>
                 </event>
                 <event>
                     <eventName>Création du Museo Virtual de Artes ou MUVA</eventName>
                     <date when="1997"/>
                     <description>
                         <p>Crée par le journal El Païs, le MUVA est un des premiers exemples de musée virtuel. C'est afin d'encourager le développement des centres d'art et des musées en Uruguay que ce musée virtuel est conçu, permettant également d'envisager de nouvelles possibilités en la matière (Terrisse, 2013).</p>
-                    </description>
+                </description>
+                <idno>zotero://select/groups/4804195/items/QGDBPQC4</idno>
                 </event>
                 <event>
                     <eventName>Exposition d'art Artropolis 97 à Vancouver</eventName>
                     <date when="1997">1997</date>
                     <description>
-                        <p>Organisées de 1987 à 2005, les expositions Artropolis se tenaient à Vancouver tous les 3 ans. L'ambition était de présenter le travail d'artistes contemporains de Colombie-Britannique dans des espaces peu proprices à la présentation d'oeuvres d'art, tels que des centres communautaires par exemple. Dans ce cadre, l'édition de 1997 intitulée "Browser" (navigateur) se tient à la Roundhouse Community Centre. Elle se distingue des précédentes éditions par la création d'un CD-Rom accompagnant l’exposition (Artropolis, 2012). </p>
+                        <p>Organisées de 1987 à 2005, les expositions Artropolis se tenaient à Vancouver tous les 3 ans. L'ambition était de présenter le travail d'artistes contemporains de Colombie-Britannique dans des espaces peu proprices à la présentation d'oeuvres d'art, tels que des centres communautaires par exemple. Dans ce cadre, l'édition de 1997 intitulée "Browser" (navigateur) se tient à la Roundhouse Community Centre. Elle se distingue des précédentes éditions par la création d'un CD-Rom accompagnant l’exposition (Artropolis, 2012).</p>
                     </description>
+                <idno>zotero://select/groups/4804195/items/PU8BFY4L</idno>
                 </event>
                 <event>
                     <eventName>Première exposition proposant un catalogue sur CD-Rom au Canada</eventName>
                     <date when="1997-1998"/>
                     <description>
-                        <p>Organisée conjointement par le Musée des Beaux-Arts du Canada et par le Musée canadien de la photographie contemporaine, cette exposition s’est déroulée entre octobre 1997 et janvier 1998 et présentait le travail de George Legrady.Cette rétrospective se basait sur une présentation allant des supports analogiques aux medias numériques et développée par Legrady lui-même. L’objectif de ce dispositif est d’étendre le contenu proposé au sein d’un catalogue d’exposition classique par le biais d’un CD-Rom imaginé par l’artiste lui-même (Broadbent, 2003).</p>
+                        <p>Organisée conjointement par le Musée des Beaux-Arts du Canada et par le Musée canadien de la photographie contemporaine, cette exposition s’est déroulée entre octobre 1997 et janvier 1998 et présentait le travail de George Legrady. Cette rétrospective intitulée "De l'analogie au codage numérique : la photographie et l'interactivité" se basait sur une présentation allant des supports analogiques aux medias numériques, développée par Legrady lui-même. L’objectif de ce dispositif est d’étendre le contenu proposé au sein d’un catalogue d’exposition classique par le biais d’un CD-Rom imaginé par l’artiste lui-même (Broadbent, 2003).</p>
                     </description>
+                <idno>zotero://select/groups/4804195/items/T79ETLYX</idno>
                 </event>
                 <event>
                     <eventName>Mise en place du Plan d’action gouvernemental pour la société d’information (PAGSI)</eventName>
