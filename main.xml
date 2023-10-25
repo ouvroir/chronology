@@ -545,6 +545,15 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/8NVDFU3Y</idno>
                 </event>
                 <event>
+                    <eventName>Installation du guide virtuel "MAX"</eventName>
+                    <date when="2004">2004</date>
+                    <description>
+                        <p>L'un des premiers chatbots au sein d'un musée est installé au musée Heinz Nixdorf MuseumsForum (HNF) à Paderborn, en Allemagne. Ce projet novateur pour l'époque s'accorde parfaitement avec la vocation des lieux, puisqu'il s'agit d'un des plus grands musées de l'informatique au monde (Muzéodrome/Pesquer, 2023). 
+                        </p>
+                    </description>
+                  <idno>zotero://select/groups/4804195/items/WR47B3UP</idno>
+                </event>
+                <event>
                     <eventName>Mise en place d'une visite virtuelle en 3D sur le site du musée Guggenheim de Bilbao</eventName>
                     <date when="2005"/>
                     <description>
@@ -782,6 +791,15 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/FEPCX6L6</idno>
                 </event>
                 <event>
+                    <eventName>Quatrième édition du projet reGeneration et création d'une plateforme spécifique</eventName>
+                    <date when="2020-07-01">1er juillet 2020</date>
+                    <description>
+                        <p>Consacré à la photographie émergente internationale, le projet reGeneration propose pour sa quatrième édition une cartographie interactive de l'exposition qui permet notamment de filtrer les oeuvres et d'effectuer une association de mots clés (Muzéodrome/Pesquer, juillet 2020). 
+                        </p>
+                    </description>
+                    <idno>zotero://select/groups/4804195/items/WR47B3UP</idno>
+                </event>
+                <event>
                     <eventName>Ouverture de la plateforme Petit Louvre</eventName>
                     <date when="2020"/>
                     <description>
@@ -816,6 +834,15 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
             </p>
             </description>
             <idno>zotero://select/groups/4804195/items/5XK3L2CF</idno>
+            </event>
+                <event>
+                    <eventName>Exposition "Mondes disparus" au Museum d'Histoire Naturelle (MNHM)</eventName>
+                    <date when="2023-10-14">14 octobre 2023</date>
+                    <description>
+                        <p>Du 14 octobre 2023 au 16 juin 2024, le Museum d'Histoire Naturelle propose une expédition en réalité virtuelle en collaboration avec la société Emissive/Excurio. Basée sur des recherches scientifiques récentes validées par un comité scientifique mis en place par le Muséum, ce dispositif conjugue éducation et immersion (Muzéodrome/Pesquer, 2023). 
+                        </p>
+                    </description>
+            <idno>zotero://select/groups/4804195/items/YZWWZV4L</idno>
             </event>
             </listEvent>
             <listEvent>
