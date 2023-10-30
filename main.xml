@@ -408,7 +408,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Publication du CD-Rom "Le Louvre, peintures et palais"</eventName>
-                    <date when="1994-12"/>Décembre 1994 </event> 
+                    <date when="1994-12">Décembre 1994</date> 
                     <description>
                         <p>La publication de ce CD-Rom par la Réunion des Monuments Nationaux (Rmn)s’inscrit dans une période d’engouement pour les contenus culturels de ce type. Les années 1990 voient en effet la multiplication d’e-albums centrés sur un artiste et permettant aux usagers d’aller au-delà du contenu muséal (Miguet et Paquienséguy, 2019). </p>
                 </description>
@@ -890,3 +890,4 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
             The Best of the Web, http://botw.org/1994/awards/media.html-->
         </body>
     </text>
+</TEI>
