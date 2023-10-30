@@ -1,10 +1,9 @@
 <?xml version="1.1" encoding="UTF-8"?>
 
-<!--<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 schemas/provisoire.xsd"
     xmlns="http://www.tei-c.org/ns/1.0">
--->    <TEI 
-        xmlns="http://www.tei-c.org/ns/1.0">
+
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -28,17 +27,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <front>
+        <!--<front>
             <div>
                 <head>Présentation</head>
                 <p>Cette chronologie de la muséologie numérique couvre la période 1960 à nos jours.</p>
                 <p>Elle a été établie à partir de recherches menées dans des sources disparates pour identifier des moments jalons de la muséologie numérique. Cette chronologie n’a pas vocation à être exhaustive, les événements qui y figurent ont été sélectionnés en raison de leur caractère inédit ou novateur ou de leurs retombées ultérieures. La muséologie est comprise de manière étendue pour inclure l’ensemble des réalisations culturelles s’appropriant les moyens numériques. Bien sûr, certains projets n’ont parfois pas connus de réelle postérité mais ils représentaient à l’époque de leur réalisation une innovation importante. La chronologie s’accompagne d’une périodisation et de repères chronologiques.</p>
-                <!-- exemple lien image -->
+                <!-\- exemple lien image -\->
                 <figure corresp="zotero://select/groups/4804195/items/N5FMDQR2"/>
-                <!-- exemple lien citation -->
+                <!-\- exemple lien citation -\->
                 <ref target="zotero://select/groups/4804195/items/N5FMDQR2">(auteur date)</ref>
             </div>
-        </front>
+        </front>-->
         <body>
             <listEvent>
                 <event type="point">
@@ -797,7 +796,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                         <p>Consacré à la photographie émergente internationale, le projet reGeneration propose pour sa quatrième édition une cartographie interactive de l'exposition qui permet notamment de filtrer les oeuvres et d'effectuer une association de mots clés (Muzéodrome/Pesquer, juillet 2020). 
                         </p>
                     </description>
-                    <idno>zotero://select/groups/4804195/items/WR47B3UP</idno>
+                <idno>zotero://select/groups/4804195/items/C9G3UXLA</idno>
                 </event>
                 <event>
                     <eventName>Ouverture de la plateforme Petit Louvre</eventName>
@@ -891,4 +890,3 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
             The Best of the Web, http://botw.org/1994/awards/media.html-->
         </body>
     </text>
-</TEI>
