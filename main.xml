@@ -402,7 +402,8 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Développement d’une nouvelle mission d’accessibilité des données au sein du Canadian Heritage Information Network (CHIN)</eventName>
                     <date when="1995"/>
                     <description>
-                        <p>L’accessibilité de ces données propres au patrimoine international se veut à destination d’un public académique mais également des musées canadiens. Cette base de données est accessible à partir d’octobre 1995, avant de proposer une première exposition virtuelle intitulée "Christmas Traditions in France and Canada" au mois de décembre. D’autres expositions virtuelles suivront par la suite, faisant du CHIN une structure précurseure en matière de mise en valeur du patrimoine par le biais du numérique : "Group of Seven" en 2001, "Panoramas: The North American Landscape in Art" également en 2001 (Bauer, 2002).</p>
+                        <p>L’accessibilité de ces données propres au patrimoine international se veut à destination d’un public académique mais également des musées canadiens. Cette base de données est accessible à partir d’octobre 1995, avant de proposer une première exposition virtuelle intitulée "Christmas Traditions in France and Canada" au mois de décembre. D’autres expositions virtuelles suivront par la suite, faisant du CHIN une structure précurseure en matière de mise en valeur du patrimoine par le biais du numérique : "Group of Seven" en 2001, "Panoramas: The North American Landscape in Art" également en 2001 (Bauer, 2002)
+                            .</p>
                 </description>
                 <idno>zotero://select/groups/4804195/items/K4A2IW35</idno>
                 </event>
@@ -410,7 +411,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Publication du CD-Rom "Le Louvre, peintures et palais"</eventName>
                     <date when="1994-12">Décembre 1994</date> 
                     <description>
-                        <p>La publication de ce CD-Rom par la Réunion des Monuments Nationaux (Rmn)s’inscrit dans une période d’engouement pour les contenus culturels de ce type. Les années 1990 voient en effet la multiplication d’e-albums centrés sur un artiste et permettant aux usagers d’aller au-delà du contenu muséal (Miguet et Paquienséguy, 2019). </p>
+                        <p>La publication de ce CD-Rom par la Réunion des Monuments Nationaux (Rmn)s’inscrit dans une période d’engouement pour les contenus culturels de ce type. Les années 1990 voient en effet la multiplication d’e-albums centrés sur un artiste et permettant aux usagers d’aller au-delà du contenu muséal (Miguet et Paquienséguy, 2019).</p>
                 </description>
                 <idno>zotero://select/groups/4804195/items/L53JF7M5</idno>
             </event>
@@ -817,6 +818,15 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/W4BENTD7</idno>
                 </event>
                 <event>
+                    <eventName>Installation topographique au M + museum</eventName>
+                    <date when="2021">2021</date>
+                    <description>
+                        <p>Conçue pour le M + museum de Hong Kong, cette installation se base sur une impression 3D de l'oeuvre "Work" de l'artiste Yamazaki Tsuruko qui date de 1967. Les visiteurs, en plaçant et en déplaçant leurs mains sur différentes parties de la peinture désormais en 3 dimensions, étaient en mesure de produire une carte sonore. Il s'agit d'une expérience multisensorielle mobilisant aussi bien la vue, que l'ouïe et le toucher et conçue par le studio numérique MetaObjects (Pesquer, juillet 2023).
+                        </p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/8D4MRBJ4</idno>
+                </event>
+                <event>
                     <eventName>Mise en place du Pass Culture</eventName>
                     <date when="2021-05-21">21 mai 2021</date>
                     <description>
@@ -826,7 +836,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/RWDMY423</idno>
                 </event>
                 <event>
-                    <eventName>Mise en ligne de l’espace Louvre +</eventName>
+                    <eventName>Mise en ligne de l’espace Louvre+</eventName>
                     <date when="2021-12-16">16 décembre 2021</date>
                     <description>
                         <p>Prolongeant son désir de maintenir le lien avec son public hors-les-murs, le Louvre propose en décembre 2021 un espace comprenant des vidéos, des podccasts ainsi que des visites virtuelles mettant en valeur l’utilisation d’outils numériques innovants. Il s’agit donc d’un espace en ligne pensé pour tous, quelque soit les usages et les attentes (Pham, 2022).
