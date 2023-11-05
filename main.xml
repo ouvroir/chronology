@@ -327,6 +327,15 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/LBV7IVL4</idno>
                 </event>
                 <event>
+                    <eventName>Fondation du New Museum of Contemporary Art de New York</eventName>
+                    <date when="1977">1977</date>
+                    <description>
+                        <p>Fondé par l'historienne de l'art et conservatrice Marcia Tucker, ce musée d'un nouveau genre se distingue par la composition de ses collections, exclusivement constituées des archives de sa programmation. Les archives numériques du musée sont donc particulièrement importantes, répertoriant l'histoire de l'institution mais également ses évolutions artistiques et culturelles. Une chronologie est notamment accessible, précise au point de pouvoir vous dévoiler les artistes exposé.es le jour de votre naissance (Pesquer, juin 2023).
+                        </p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/2P63498F</idno>
+                </event>
+                <event>
                     <eventName>Début de l’Inventaire général du patrimoine en France</eventName>
                     <date when="1980"/>
                     <description>
@@ -584,6 +593,14 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                         <p>Entre immersion et simulation, cette exposition est développée par un centre de culture scientifique, au sein de la Cité des Sciences. S’écartant de la structure patrimoniale classe, cette institution se révèle tout de même particulièrement novatrice en matière d’expérience muséale.</p>
                 </description>
                 <idno>zotero://select/groups/4804195/items/VY8ZR9MH</idno>
+                </event>
+                <event>
+                    <eventName>Lancement de la première application pour téléphone intelligent d'un musée français</eventName>
+                    <date when="2008-04">Avril 2009</date>
+                    <description>
+                        <p>La société Audiovisit spécialisée dans les dispositifs de visites mobiles et fondée par Guillaume Ducongé en 2002 lance cette première application pour le musée de Cluny. Ce dispositif, particulièrement précurseur, pourrait même être le premier du genre à l'échelle mondiale (Pesquer, juin 2023).</p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/ICZ8PTGY</idno>
                 </event>
                 <event>
                     <eventName>Lancement d'une application par la National Gallery de Londres</eventName>
@@ -853,6 +870,24 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
             </description>
             <idno>zotero://select/groups/4804195/items/5XK3L2CF</idno>
             </event>
+                <event>
+                    <eventName>Le Chau Chak Wing Museum met en service des lunettes pour les visiteurs daltoniens</eventName>
+                    <date when="2022-04">Avril 2022</date>
+                    <description>
+                        <p>Le musée de l'Université de Sydney ou Chau Chak Wing Museum met à disposition des visiteurs daltoniens depuis avril 2022 des lunettes spéciales leur permettant de découvrir les véritables couleurs des oeuvres exposées (Pesquer, août 2022). Ce projet a été développé en partenariat avec l'entreprise américaine EnChroma et s'inscrit dans une réflexion globale quant à l'inclusion des personnes en situation de handicap au sein de l'espace muséal et au sein de laquelle les nouvelles technologies occupebt un rôle fondamental. 
+                        </p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/AT8W7V88</idno>
+                </event>
+                <event>
+                    <eventName>Exposition "Icônes by Susan Kare" au Musée de l'Imprimerie et de la Communication graphique de Lyon</eventName>
+                    <date when="2022-04-14">14 avril 2022</date>
+                    <description>
+                        <p>Cette exposition est une rétrospective dédiée à Susan Kare, designer graphique dont le travail a marqué la conception du premier Macintosh au début des années 1980 puisqu'elle a imaginé les polices de caractère et les icônes. Au-delà d'offrir une visibilité à une femme au parcours professionnel et artistique hors du commun, cette exposition est également l'occasion de questionner la place de l'ordinateur dans le quotidien de chacun (Pesquer, août 2022).
+                        </p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/BMCHD62U</idno>
+                </event>
                 <event>
                     <eventName>Exposition "Mondes disparus" au Museum d'Histoire Naturelle (MNHM)</eventName>
                     <date when="2023-10-14">14 octobre 2023</date>
