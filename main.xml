@@ -791,7 +791,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Développement du dispositif "Interactive replicas" </eventName>
-                    <date when="2023-04">Avril 2019</date>
+                    <date when="2019-04">Avril 2019</date>
                     <description>
                         <p>Dans le cadre d'une résidence au mudac (le musée cantonal de design et d'arts appliqués contemporains de Lausanne), le studio INT débute le développement d'"Interactive replicas". Ce dispositif tactile a pour objectif de permettre la découverte des objets de design par la manipulation d'oeuvres numérisées provenant de la collection du mudac. Le dispositif est déployé avec la collaboration d'Archeotech au MCAH (Musée cantonal d'archéologie et d'histoire)(LabElysée, 2021 ; INT Studio).</p>
                     </description>
@@ -865,13 +865,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date when="2021-05-21">21 mai 2021</date>
                     <description>
                         <p>Ce dispositif proposé par l’État français vise à favoriser la démocratisation culturelle en proposant notamment à tous les jeunes de 18 ans de disposer d’un crédit de 300 euros, utilisable pendant deux ans par le biais d’une application. L’objectif, au-delà de permettre à ce type de public de bénéficier d’une consommation culturelle facilitée, est également de permettre l’émergence de nouvelles pratiques culturelles. Ce projet résulte également d’un constat quant à la production et la consommation culturelle qui est celui de la multiplication des écrans. Considérés comme à la fois addictif et une source d’opportunités créatives, le numérique revêt plus que jamais une ambivalence au sein de la sphére culturelle (Bachelot-Narquin, 2022).
-                </p>
-                </description>
+                        </p>
+                    </description>
                 <idno>zotero://select/groups/4804195/items/RWDMY423</idno>
                 </event>
                 <event>
                     <eventName>Premièrre édition du NUMIX LAB</eventName>
-                    <date when="2023-11-29">29 novembre 2021</date>
+                    <date when="2021-11-29">29 novembre 2021</date>
                     <description>
                         <p>La première édition de ce NUMIX LAB qui se déroule à Paris est l'occasion de favoriser le réseautage parmi les professionnels francophones de la créativité numérique. La liste des participants est composée de studios, de lieux de culture et d'institutions qui innovent par le biais des technologies pour créer de nouveaux dispositifs et de nouvelles expériences toujours plus immersives. L'événement consiste en un parcours itinérant au sein des villes sélectionnées pour chaque édition (PRIX NUMIX, 2023).</p>
                     </description>
@@ -882,17 +882,27 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date when="2021-12-16">16 décembre 2021</date>
                     <description>
                         <p>Prolongeant son désir de maintenir le lien avec son public hors-les-murs, le Louvre propose en décembre 2021 un espace comprenant des vidéos, des podccasts ainsi que des visites virtuelles mettant en valeur l’utilisation d’outils numériques innovants. Il s’agit donc d’un espace en ligne pensé pour tous, quelque soit les usages et les attentes (Pham, 2022).
-            </p>
-            </description>
-            <idno>zotero://select/groups/4804195/items/5XK3L2CF</idno>
-            </event>
-                <event>
-                    <eventName>Le Chau Chak Wing Museum met en service des lunettes pour les visiteurs daltoniens</eventName>
-                    <date when="2022-04">Avril 2022</date>
-                    <description>
-                        <p>Le musée de l'Université de Sydney ou Chau Chak Wing Museum met à disposition des visiteurs daltoniens depuis avril 2022 des lunettes spéciales leur permettant de découvrir les véritables couleurs des oeuvres exposées (Pesquer, août 2022). Ce projet a été développé en partenariat avec l'entreprise américaine EnChroma et s'inscrit dans une réflexion globale quant à l'inclusion des personnes en situation de handicap au sein de l'espace muséal et au sein de laquelle les nouvelles technologies occupebt un rôle fondamental. 
                         </p>
                     </description>
+                 <idno>zotero://select/groups/4804195/items/5XK3L2CF</idno>
+                </event>
+                <event>
+                    <eventName>Déploiement en France du dispositif numérique MUSE</eventName>
+                    <date when="2022">2022</date>
+                    <description>
+                        <p>Porté par le Réseau des Musées Nationaux et du Grand Palais (RMN GP) l'outil MUSE donne accès à des contenus muséaux avec une approche pédagogique. L'objectif de cet outil est de faire du numérique un axe de développement de l'établissement notamment par la production d'expositions numériques et par leur diffusion. Ce dispositif vise également à développer une approche attentive aux publics prioritaires. Dans ce cadre, le numérique apparait comme une opportunité pour toucher de nouveaux publics et faire rayonner l'action muséale (Ministère de la Culture, 2022).</p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/JNW4BCIS</idno>
+                </event>
+                <event>
+                    <eventName></eventName>
+                    <date></date>
+                <eventName>Le Chau Chak Wing Museum met en service des lunettes pour les visiteurs daltoniens</eventName>
+                <date when="2022-04">Avril 2022</date>
+                <description>
+                    <p>Le musée de l'Université de Sydney ou Chau Chak Wing Museum met à disposition des visiteurs daltoniens depuis avril 2022 des lunettes spéciales leur permettant de découvrir les véritables couleurs des oeuvres exposées (Pesquer, août 2022). Ce projet a été développé en partenariat avec l'entreprise américaine EnChroma et s'inscrit dans une réflexion globale quant à l'inclusion des personnes en situation de handicap au sein de l'espace muséal et au sein de laquelle les nouvelles technologies occupebt un rôle fondamental. 
+                    </p>
+                </description>
                 <idno>zotero://select/groups/4804195/items/AT8W7V88</idno>
                 </event>
                 <event>
@@ -903,6 +913,30 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                         </p>
                     </description>
                 <idno>zotero://select/groups/4804195/items/BMCHD62U</idno>
+                </event>
+                <event>
+                    <eventName>Lancement de la vente de morceaux de La Ronde de nuit de Rembrandt en NFT</eventName>
+                    <date when="2022-10-12">12 octobre 2022</date>
+                    <description>
+                        <p> Le mercredi 12 octobre 2022, la Rembrandt Heritage Foundation a mis en vente 8000 fragments numériques de "La Ronde de nuit", en collaboration avec la HODL Finance (spécialisée dans la blockchain). L'objectif de cette vente un peu particulière est de réunir des fonds afin de créer une version 2.0 du musée dédié au maître néerlandais. Nommé MetaRembrandt, cette version virtuelle sera ouverte de manière exclusive aux acheteurs. Au-delà de livrer un nouvel exemple de préservation numérique des oeuvres, ce projet fait également entrer l'institution muséale dans le metavers, interrogeant de la même manière son accessibilité dans un monde virtuel (Hakoun, 2022).</p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/UB8CN39J</idno>
+                </event>
+                <event>
+                    <eventName>Déploiement d'une nouvelle application mobile pour le British Museum</eventName>
+                    <date when="2023-04">Avril 2023</date>
+                    <description>
+                        <p>Mise en ligne au début du mois d'avril 2023, la nouvelle application du British Museum permet aux utilisateurs de découvrir plus de 250 objets de la collection permanente et de les localiser dans les salles du musée. Elle est disponible en 5 langues et comprend également un guide en langue des signes anglaise. Au-delà de ces fonctionnalités, elle accompagne le visiteur en proposant un parcours audioguidé dans certaines galeries avec une fonction de carte interactive. Certaines fonctionnalités sont payantes, ce qui est une pratique assez peu répandue au sein des applications de musées (Club innovation et Culture France, 2023).</p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/7Y39WVW5</idno>
+                </event>
+                <event>
+                    <eventName>Inauguration d'une exposition dédiée aux NFT au Centre Pompidou</eventName>
+                    <date when="2023-04">Avril 2023</date>
+                    <description>
+                        <p>Si le Centre Pompidou n'est pas la première institution muséale française à intégrer des NFT dans ses collections, il reste le premier musée national à organiser une exposition de ce genre. C'est à la suite d'un travail de recherche mené par la commission d'acquisition du Musée national d'art moderne que les jetons non fongiles ou NFT sont sélectionnés et intégrés aux collections du musée. L'exposition se déroule dans deux salles du musée et présente 18 oeuvres jusqu'en janvier 2024 (Jardonnet, 2023).</p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/PEWVPZ2G</idno>
                 </event>
                 <event>
                     <eventName>Exposition "Mondes disparus" au Museum d'Histoire Naturelle (MNHM)</eventName>
