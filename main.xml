@@ -861,6 +861,15 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/8D4MRBJ4</idno>
                 </event>
                 <event>
+                    <eventName>Parution du Livre Blanc de la Vitamine immersive</eventName>
+                    <date when="2021-02-21">21 février 2021</date>
+                    <description>
+                        <p>La Vitamine immersive est un projet collaboratif qui réunit l'assureur mutualiste québécois Beneva, l'acteur culturel La Piscine et Oasis inmmersion. L'objectif de cette collaboration est d'explorer l'impact positif et cognitif des arts immersifs, notamment dans l'environnement de travail, mais également dans un contexte culturel immersif. La parution du Livre blanc le 21 février 2023 permet de faire un premier bilan des investigations menées. Les premiers participants ont notamment été exposés à une expérience immersive diffusée dans les galeries d'Oasis Immersion, révélant des pistes prometteuses quant à l'apport de l'expérience aux niveaux émotif et cognitif. Cette publication sera suivie d'une phase dédiée à l'étude de la relation entre immersion et attention (Club Innovation et Culture France, mars 2023).
+                        </p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/LER6S3TT</idno>
+                </event>
+                <event>
                     <eventName>Mise en place du Pass Culture</eventName>
                     <date when="2021-05-21">21 mai 2021</date>
                     <description>
@@ -878,7 +887,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/2M56K7JA</idno>
                 </event>
                 <event>
-                    <eventName>Mise en ligne de l’espace Louvre+</eventName>
+                    <eventName>Mise en ligne de l’espace Louvre+</eventName
                     <date when="2021-12-16">16 décembre 2021</date>
                     <description>
                         <p>Prolongeant son désir de maintenir le lien avec son public hors-les-murs, le Louvre propose en décembre 2021 un espace comprenant des vidéos, des podccasts ainsi que des visites virtuelles mettant en valeur l’utilisation d’outils numériques innovants. Il s’agit donc d’un espace en ligne pensé pour tous, quelque soit les usages et les attentes (Pham, 2022).
@@ -921,6 +930,24 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                         <p> Le mercredi 12 octobre 2022, la Rembrandt Heritage Foundation a mis en vente 8000 fragments numériques de "La Ronde de nuit", en collaboration avec la HODL Finance (spécialisée dans la blockchain). L'objectif de cette vente un peu particulière est de réunir des fonds afin de créer une version 2.0 du musée dédié au maître néerlandais. Nommé MetaRembrandt, cette version virtuelle sera ouverte de manière exclusive aux acheteurs. Au-delà de livrer un nouvel exemple de préservation numérique des oeuvres, ce projet fait également entrer l'institution muséale dans le metavers, interrogeant de la même manière son accessibilité dans un monde virtuel (Hakoun, 2022).</p>
                     </description>
                 <idno>zotero://select/groups/4804195/items/UB8CN39J</idno>
+                </event>
+                <event>
+                    <eventName>Mise en place du premier abonnement numérique dans un musée</eventName>
+                    <date when="2021-06-03">3 juin 2023</date>
+                    <description>
+                        <p>Le Mucem est le premier a proposer un abonnement à un musée totalement numérique à ses visiteurs. Nommé Mucem+, ce projet consiste en un abonnement sur mobile illimité, renouvelable automatiquement et avec prélèvement mensuel. L'application est lancée le 3 juin 2023 à l'occasion du 10e anniversaire du Mucem et propose différentes formules à partir de 3 euros par mois. Elle permet notamment aux visiteurs de profiter d'offres exclusives autour de la programmation culturelle du musée, avec comme ambition pour ce dernier de créer une communauté (Club Innovation et Culture France, mai 2023).
+                        </p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/7BZYG2KX</idno>
+                </event>
+                <event>
+                    <eventName>Ouverture de l'Open Museum</eventName>
+                    <date when="2021-04-13">13 avril 2023</date>
+                    <description>
+                        <p>Le palais des Beaux-Arts de Lille inaugure le 13 avril 2023 la 8e édition du rendez-vous "Open Museum" dédiée au jeu vidéo. Cet événement est alors l'occasion d'instaurer un dialogue entre des oeuvres "classiques" et des créations des studios Ankama et Spiders (S. CH, 2023).
+                        </p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/3WLHIPIP</idno>
                 </event>
                 <event>
                     <eventName>Déploiement d'une nouvelle application mobile pour le British Museum</eventName>
