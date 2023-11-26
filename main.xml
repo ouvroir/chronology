@@ -825,15 +825,6 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/9R8K4M7P</idno>
                 </event>
                 <event>
-                    <eventName>Quatrième édition du projet reGeneration et création d'une plateforme spécifique</eventName>
-                    <date when="2020-07-01">1er juillet 2020</date>
-                    <description>
-                        <p>Consacré à la photographie émergente internationale, le projet reGeneration propose pour sa quatrième édition une cartographie interactive de l'exposition qui permet notamment de filtrer les oeuvres et d'effectuer une association de mots clés (Muzéodrome/Pesquer, juillet 2020). 
-                        </p>
-                    </description>
-                <idno>zotero://select/groups/4804195/items/C9G3UXLA</idno>
-                </event>
-                <event>
                     <eventName>Ouverture de la plateforme Petit Louvre</eventName>
                     <date when="2020"/>
                     <description>
@@ -843,13 +834,31 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/WQ7JVLW7</idno>
                 </event>
                 <event>
-                    <eventName>Début du projet Prometheus.Museum</eventName>
+                    <eventName>Début du projet Prometheus.Museum</eventName
                     <date when="2020"/>
                     <description>
                         <p>Ce projet novateur concilie numérique et patrimoine immatériel. C’est en s’inspirant de récits expographiques de musées de société, comme le Musée de la civilisation de Québec notamment, que ce projet s’appui sur trois regards : celui de Vanessa Foltier, présidente du comité des fêtes d’Izaourt, Vincent Boya, conseiller municipal d’Esténos, et Père Arnaud Richard, curé de Bagnères-de-Luchon. De cette façon, ce musée numérique propose une mise en valeur novatrice des fêtes du feu des solstices dans les Pyrénées. Par le biais de vidéos et d’une carte interactive, le site met en évidence l’importance de ces célébrations locales, inscrites sur la Liste représentative du patrimoine culturel immatériel de l’humanité par l’UNESCO. Par ailleurs, le rôle citoyen du musée est également développé au sein de cette interface par une approche interdisciplinaire du sujet (Soulier et Roigé, 2022).
                 </p>
                 </description>
                 <idno>zotero://select/groups/4804195/items/W4BENTD7</idno>
+                </event>
+                <event>
+                    <eventName>Quatrième édition du projet reGeneration et création d'une plateforme spécifique</eventName>
+                    <date when="2020-07-01">1er juillet 2020</date>
+                    <description>
+                        <p>Consacré à la photographie émergente internationale, le projet reGeneration propose pour sa quatrième édition une cartographie interactive de l'exposition qui permet notamment de filtrer les oeuvres et d'effectuer une association de mots clés (Muzéodrome/Pesquer, juillet 2020). 
+                        </p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/C9G3UXLA</idno>
+                </event>
+                <event>
+                    <eventName>Lancement de l'exposition multimédia "Heart of the Nation: Migration and the Making of the NHS"</eventName>
+                    <date when="2020-10-05">5 octobre 2020</date>
+                    <description>
+                        <p>Le Migration Museum de Londres propose cette exposition multimédia en ligne qui met en scène les archives traitant des personnes venues au Royaume-Uni pour y travailler au sein du système de santé publique, le National Health Service (NHS) depuis la moitié du XXe siècle. Cette histoire est racontée en six chapitres et mobilise le format long pour mettre en valeur son contenu (Muzéodrome/Pesquer, novembre 2020).
+                        </p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/DZSAQDEJ</idno>
                 </event>
                 <event>
                     <eventName>Installation topographique au M + museum</eventName>
@@ -964,6 +973,14 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                         <p>Si le Centre Pompidou n'est pas la première institution muséale française à intégrer des NFT dans ses collections, il reste le premier musée national à organiser une exposition de ce genre. C'est à la suite d'un travail de recherche mené par la commission d'acquisition du Musée national d'art moderne que les jetons non fongiles ou NFT sont sélectionnés et intégrés aux collections du musée. L'exposition se déroule dans deux salles du musée et présente 18 oeuvres jusqu'en janvier 2024 (Jardonnet, 2023).</p>
                     </description>
                 <idno>zotero://select/groups/4804195/items/PEWVPZ2G</idno>
+                </event>
+                <event>
+                    <eventName>Lancement du module Internet Artifacts</eventName>
+                    <date when="2023-10">Octobre 2023</date>
+                    <description>
+                        <p>Ce module se présente comme un musée minimaliste en ligne qui permet de découvrir l'histoire d'Internet à travers des artefacts virtuels comme le premier tweet de Jack Dorsey de 2006. Il est lancé par le développeur Neal Agarwal (Pesquer, novembre 2023).</p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/DHJKKHJB</idno>
                 </event>
                 <event>
                     <eventName>Exposition "Mondes disparus" au Museum d'Histoire Naturelle (MNHM)</eventName>
