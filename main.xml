@@ -198,6 +198,18 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/DJ9UYIC5</idno>
                 </event>
                 <event type="point">
+                    <eventName>Fondation de Matterport</eventName>
+                    <date when="2011">2011</date>
+                    <p>Matterport est un format de visite virtuelle aujourd'hui incontournable. Crée par une société américaine, cette plateforme logicielle permet de créer rapidement, facilement et à prix abordable un support de visite à 360°. Elle est particulièrement intuitive et permet une navigation très fluide, ce qui en fait un outil plébiscité par les institutions culturelles pour concevoir des visites virtuelles (Centre des monuments nationaux, 2023).</p>
+                <idno>zotero://select/groups/4804195/items/5G6AX4H9</idno>
+                </event>
+                <event type="point">
+                    <eventName>Invention des réseaux antagonistes génératifs ou Generative Adverarial Networls (GAN)</eventName>
+                    <date when="2014">2014</date>
+                    <p>Basée sur deux algorithmes qui s'entraînent mutuellement pour fabriqueer des contrefaçons et détecter les faux, cette technologie est inventée par le chercheur Ian Goodfellow. Cette innovation annonce les premiers "deepfakes", contraction de "deep learning" et de "fakes" qui naîtront à la fin de l'année 2017. Ces derniers seront ensuite utilisés par les expositions et les musées pour faire revivre des artistes disparus par exemple (Pesquer, mai 2022).</p>
+                <idno>zotero://select/groups/4804195/items/D8HLBS54</idno>
+                </event>
+                <event type="point">
                     <eventName>Projet de loi sur le numérique en France</eventName>
                     <date when="2015">2015</date>
                     <p>Ce projet de loi suscite un débat autour de multiples questions, notamment quant au libre accès aux publications scientifiques et aux données de recherche ainsi que concernant le droit sur les données scientifiques pour créer des services à valeur ajoutée. Il s’agit alors d’interroger la viabilité économique d’une telle liberté d’accès (Vinck, 2016) ainsi que ses conséquences en matière de propriété intellectuelle.</p>
@@ -779,6 +791,15 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </p>
                 </description>
                 <idno>zotero://select/groups/4804195/items/5SILFBEH</idno>
+                </event>
+                <event>
+                    <eventName>Inauguration du dispositif "Dali Lives" par le Salvador Dali Museum</eventName>
+                    <date when="2019-05-11">11 mai 2019</date>
+                    <description>
+                        <p>Ce dispositif inédit est présenté par le Salvador Dali Museum de St. Pétersburg aux États-Unis. Il s'agit d'un premier exemple d'utilisation d'intelligence artificielle qui permet aux visiteurs du musée d'interagir avec le peinture catalan par le biais d'un écran. C'est une expérience aléatoire et donc unique puisque près de 200 000 combinaisons d'interactions sont possibles (Pesquer, mai 2020).
+                        </p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/XVTH28X8</idno>
                 </event>
                 <event>
                     <eventName>Lancement de la plate-forme ouverte du patrimoine en France (POP)</eventName>
