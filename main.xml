@@ -757,6 +757,14 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/8NVDFU3Y</idno>
                 </event>
                 <event>
+                    <eventName>Début du projet Bretez</eventName>
+                    <date when="2017"/>
+                    <description>
+                        <p>Ce projet de valorisation patrimoniale tente de reconstituer l’ambiance sonore du quartier du Grand Châtelet à Paris au XVIIIe siècle. Pour cela, une approche interdisciplinaire est adoptée, le projet associant des historiens à des spécialiste 3D. Au-delà de l’approche novatrice du patrimoine que ce dispositif propose, il s’agit également d’un exemple d’utilisaton de données numériques au service de la recherche en sciences humaines et de la médiation culturelle (Deramond, 2021).</p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/5646LU7Y</idno>
+                </event>
+                <event>
                     <eventName>Table ronde "La commémoration à l’ère du numérique"</eventName>
                     <date when="2017-10">Octobre 2017</date>
                     <description>
@@ -764,15 +772,6 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </p>
                 </description>
                 <idno>zotero://select/groups/4804195/items/AXKA8NR8</idno>
-                </event>
-                <event>
-                    <eventName>Début du projet Bretez</eventName>
-                    <date when="2017"/>
-                    <description>
-                        <p>Ce projet de valorisation patrimoniale tente de reconstituer l’ambiance sonore du quartier du Grand Châtelet à Paris au XVIIIe siècle. Pour cela, une approche interdisciplinaire est adoptée, le projet associant des historiens à des spécialiste 3D. Au-delà de l’approche novatrice du patrimoine que ce dispositif propose, il s’agit également d’un exemple d’utilisaton de données numériques au service de la recherche en sciences humaines et de la médiation culturelle (Deramond, 2021).
-                </p>
-                </description>
-                <idno>zotero://select/groups/4804195/items/5646LU7Y</idno>
                 </event>
                 <event>
                     <eventName>Art # connexion au Grand Palais</eventName>
@@ -855,7 +854,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/WQ7JVLW7</idno>
                 </event>
                 <event>
-                    <eventName>Début du projet Prometheus.Museum</eventName
+                <eventName>Début du projet Prometheus.Museum</eventName>
                     <date when="2020"/>
                     <description>
                         <p>Ce projet novateur concilie numérique et patrimoine immatériel. C’est en s’inspirant de récits expographiques de musées de société, comme le Musée de la civilisation de Québec notamment, que ce projet s’appui sur trois regards : celui de Vanessa Foltier, présidente du comité des fêtes d’Izaourt, Vincent Boya, conseiller municipal d’Esténos, et Père Arnaud Richard, curé de Bagnères-de-Luchon. De cette façon, ce musée numérique propose une mise en valeur novatrice des fêtes du feu des solstices dans les Pyrénées. Par le biais de vidéos et d’une carte interactive, le site met en évidence l’importance de ces célébrations locales, inscrites sur la Liste représentative du patrimoine culturel immatériel de l’humanité par l’UNESCO. Par ailleurs, le rôle citoyen du musée est également développé au sein de cette interface par une approche interdisciplinaire du sujet (Soulier et Roigé, 2022).
@@ -871,6 +870,15 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                         </p>
                     </description>
                 <idno>zotero://select/groups/4804195/items/C9G3UXLA</idno>
+                </event>
+                <event>
+                    <eventName>Préfiguration du projet "The Ray Bradbury Experience Museum"</eventName>
+                    <date when="2020-08-22">22 août 2020</date> 
+                    <description>
+                        <p>Ce projet est imaginé dans la ville natale du célébre écrivain états-unien des littératures de l'imaginaire, Ray Bradbury, à Waukegan. L'objectif est de concevoir un musée expérimental aux pratiques et aux espaces non-conventionnels dédié à l'oeuvre de l'écrivain et aux thèmes qui y sont abordés. Une collecte de fond commence en 2019 mais le projet est finalement abandonné en mai 2023. Il s'agit cependant d'un projet muséal novateur, entre libre pensée et créativité, interrogeant par sa nature même l'utilisation du numérique dans la transmission de savoirs. Ainsi, une mini-exposition de préfiguration du projet est présentée le 22 août 2020, pour le centenaire de la naissance de l'écrivain (Pesquer, janvier 2021).
+                        </p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/2HTFSARW</idno>
                 </event>
                 <event>
                     <eventName>Lancement de l'exposition multimédia "Heart of the Nation: Migration and the Making of the NHS"</eventName>
@@ -909,12 +917,21 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/RWDMY423</idno>
                 </event>
                 <event>
-                    <eventName>Premièrre édition du NUMIX LAB</eventName>
+                    <eventName>Première édition du NUMIX LAB</eventName>
                     <date when="2021-11-29">29 novembre 2021</date>
                     <description>
                         <p>La première édition de ce NUMIX LAB qui se déroule à Paris est l'occasion de favoriser le réseautage parmi les professionnels francophones de la créativité numérique. La liste des participants est composée de studios, de lieux de culture et d'institutions qui innovent par le biais des technologies pour créer de nouveaux dispositifs et de nouvelles expériences toujours plus immersives. L'événement consiste en un parcours itinérant au sein des villes sélectionnées pour chaque édition (PRIX NUMIX, 2023).</p>
                     </description>
                 <idno>zotero://select/groups/4804195/items/2M56K7JA</idno>
+                </event>
+                <event>
+                    <eventName>Expérimentation du Centre des monuments nationaux sur les visites guidées à distance et création du programme "CMN Numérique"</eventName>
+                    <date when="2021">2021-12</date>
+                    <description>
+                        <p>Cette expérimentation est menée par le Centre des monuments nationaux et méne à la création du programme "CMN Numérique". Ce dernier s'étale sur 3 ans; de 2022 à 2025 et vise à rationnaliser et à optimiser la création et l'exploitation des représentations numériques des monuments. Il s'agit également d'une étude de ce mode de valorisation patrimoniale et son impact aussi bien auprès du grand public que des professionnels du milieu (CMN, 2021).
+                        </p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/BPXYFM8J</idno>
                 </event>
                 <event>
                     <eventName>Mise en ligne de l’espace Louvre+</eventName
@@ -996,6 +1013,14 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/PEWVPZ2G</idno>
                 </event>
                 <event>
+                    <eventName>Le Smithsonian American Art Museum publie des bandes dessinées numériques</eventName>
+                    <date when="2023-09">Septembre 2023</date>
+                    <description>
+                        <p>C'est dans le cadre d'une mise en valeur d'histoires de femmes artistes que le Smithsonian American Art Museum de Washington a publié 10 mini bandes dessinées sur le sujet. Ces bandes dessinées numériques ont été dessiné par des étudiant.e.s en illustration du Ringling College of Art and Design. Il s'agit d'une nouvelle façon de mettre en lumière les collections d'un musée et de les partager numériquement(Pesquer, novembre 2023).</p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/HB7RM8T8</idno>
+                </event>
+                <event>
                     <eventName>Lancement du module Internet Artifacts</eventName>
                     <date when="2023-10">Octobre 2023</date>
                     <description>
@@ -1019,6 +1044,15 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                         <p>Le Louvre propose à partir du 18 octobre 2023 un parcours en réalité augmentée de ses collections du département des Antiquités égyptiennes. Grâce à la technologie du studio de RA de Snapchat, les visiteurs peuvent placer leurs téléphones portables devant les oeuvres pour découvrir les formes, les matières et les couleurs disparus avec le temps. Ce parcours de visite interactif va au-delà d'une mise en valeur des collections du musée puisqu'il intégre également un regard nouveau sur l'obélisque de la Concorde. Désormais, les utilisateurs du dispositif peuvent le découvrir virtuellement dans la cour Carrée du musée du Louvre, selon la vision de Jean-François Champollion (Louvre, 2023).</p>
                     </description>
                 <idno>zotero://select/groups/4804195/items/YLUATKKS</idno>
+                </event>
+                <event>
+                    <eventName>Le château d'Azay-le-Rideau dévoile un premier prototype d'escape game numérique</eventName>
+                    <date when="2023-12">Décembre 2023</date> 
+                    <description>
+                        <p>Développé en partenariat avec MIRA, le Centre des monuments nationaux dévoile en décembre 2023 les premières images de son espace game numérique du château d'Azay-le-Rideau. Développé dans le cadre du programme "CMN Numérique", ce disposit est une expérience immersive accessible sur smartphone, ordinateur et par le biais de casque de réalité virtuelle. Le jeu s'adresse principalement à un public entre 15 et 30 ans et se base sur la collaboration et l'échange entre les joueurs. Des premiers tests sont effectués avec des jeunes du Pass Culture et des étudiants de l'Université d'Angers (Centre des monuments nationaux, décembre 2023).
+                        </p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/W8SDYWUA</idno>
                 </event>
             </listEvent>
             <listEvent>
