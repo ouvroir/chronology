@@ -980,7 +980,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Le Château de Chantilly associe chef d'oeuvres et expériences numériques</eventName>
-                    <date from="2023-06-03" to="2023-10-1">3 juin 2023</date>
+                    <date from="2023-06-03" to="2023-10-1">Du 3 juin au 1er octobre 2023</date>
                     <description>
                         <p>Dans le cadre d'une exposition dédiée à Jean-Auguste-Dominique Ingres, le Château de Chantilly propose une série d'expériences numériques, in situ mais également en ligne. Des numérisations en très haute résolution par la société Artmyn permettent de dévoiler aux visiteurs des éléments invisible à l'oeil nu. Des écrans interactifs sont également disponibles dans les salles, les visiteurs pouvant manipuler les tableaux. des vidéos immersives sont également disponibles, toujours dans le but de dévoiler les secrets des ces oeuvres. Le site propose un e-catalogue composé des tableaux numérisés et permet également d'accéder aux supports numériques présentés in situ (Club innovation et culture, juin 2023). </p>
                     </description>
@@ -994,6 +994,15 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                         </p>
                     </description>
                 <idno>zotero://select/groups/4804195/items/7BZYG2KX</idno>
+                </event>
+                <event>
+                    <eventName>Le musée des sciences de Stockholm présente une statue créée par l'intelligence artificielle</eventName>
+                    <date when="2023-06-08">8 juin 2023</date>
+                    <description>
+                        <p>Intitulée "La Statue Impossible", cette sculpture s'inspire des caractèristiques de 5 maîtres : Michel-Ange, Auguste Rodin, Käthe Kollwitz, Takamura Kotaro, Augusta Savage. Cette création est le résultat d'une collaboration entre le musée, The AI Framework et le groupe Sandvik, société suédoise d'inténierie spécialisée dans la découpe des métaux. L'intelligence artificielle formée par Sandvik a été alimenté d'images de sculptures créées par les cinq artistes afin de proposer un modèle en 2D ensuite converti en 3D avec l'aide de plusieurs logiciels. La statue a intégré les collections permanentes du Musée national des sciences et de la technologie de Stockholm (Club innovation et culture, 19 juin 2023).
+                        </p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/DCLEDSGL</idno>
                 </event>
                 <event>
                     <eventName>Ouverture de l'Open Museum</eventName>
