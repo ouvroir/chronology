@@ -1030,6 +1030,14 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/PEWVPZ2G</idno>
                 </event>
                 <event>
+                    <eventName>Le Nasher Museum of Art confie le commissariat d'une exposition à l'intelligence artificielle</eventName>
+                    <date from="2023-09-09" to="2024-01-13">Du 9 septembre 2023 au 13 janvier 2024</date>
+                    <description>
+                        <p>Le Nasher Museum of Art de l'Université Duke a fait appel à la plateforme Chat GPT dans le but d'organiser une exposition d'art. Au départ, ce projet est un défi lancé par Marshall Price, conservateur en chef du musée, pour faire face à la pénurie de personnel et au manque de diversité dans la programmation. Ce qui était une plaisanterie deviendra une expérience inédite menée par l'équipe de conservation du musée et interrogeant l'utilisation de l'intelligence artificielle dans les institutions muséales. L'exposition temporaire qui résulte de cette idée est intitulée "Act as if you are a curator" (Agissez comme si vous étiez un conservateur)(Club innovation et culture, 12 septembre 2023 ; Nasher Museum of Art at Duke University).</p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/99ARQYQC</idno>
+                </event>
+                <event>
                     <eventName>Le Smithsonian American Art Museum publie des bandes dessinées numériques</eventName>
                     <date when="2023-09">Septembre 2023</date>
                     <description>
@@ -1055,7 +1063,15 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
             <idno>zotero://select/groups/4804195/items/YZWWZV4L</idno>
             </event>
                 <event>
-                    <eventName>Mise en place du dispositif "Egypte augmentée" au musée du Louvres</eventName>
+                    <eventName>Le British Museum présente son programme de numérisation de ses collections</eventName>
+                    <date when="2023-10-18">18 octobre 2023</date>
+                    <description>
+                        <p>L'institution britannique présente le 18 octobre 2023 son programme de numérisation et de documentation de l'intégralité de ses collections. Ce programme s'étend sur 5 ans et vise à accroître l'accès à la collection. Si les objets numérisés seront disponibles en ligne, ils seront également accessibles au sein des salles d'étude du Musée, accessibles aux publics sur rendez-vous.  (Club innovation et culture, 19 octobre 2023)</p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/E8K49NAN</idno>
+                </event> 
+                <event>
+                    <eventName>Mise en place du dispositif "Egypte augmentée" au musée du Louvre</eventName>
                     <date when="2023-10-18">18 octobre 2023</date>
                     <description>
                         <p>Le Louvre propose à partir du 18 octobre 2023 un parcours en réalité augmentée de ses collections du département des Antiquités égyptiennes. Grâce à la technologie du studio de RA de Snapchat, les visiteurs peuvent placer leurs téléphones portables devant les oeuvres pour découvrir les formes, les matières et les couleurs disparus avec le temps. Ce parcours de visite interactif va au-delà d'une mise en valeur des collections du musée puisqu'il intégre également un regard nouveau sur l'obélisque de la Concorde. Désormais, les utilisateurs du dispositif peuvent le découvrir virtuellement dans la cour Carrée du musée du Louvre, selon la vision de Jean-François Champollion (Louvre, 2023).</p>
