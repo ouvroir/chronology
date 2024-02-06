@@ -868,6 +868,14 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/WQ7JVLW7</idno>
                 </event>
                 <event>
+                    <eventName>Le Musée d'Histoire de Lyon (MHL) propose un dispositif de médiation hybride pour les jeunes publics</eventName>
+                    <date when="2020"/>
+                    <description>
+                        <p>Entre numérique et interaction classique, le Musée d'Histoire de Lyon met en place en 2020 un jeu de construction pour sensibiliser les plus jeunes aux enjeux écologiques. Le visiteur peut modifier l'environnement du jeu à travers un mouvement de formes et d'ombres. Il peut également écouter des sons de la nature, seulement s'il le souhaite. Il s'agit donc d'un dispositif à la fois multimédia et immersif qui réunit différentes technologies entre électro-aimants, capteurs magnétiques et cartes électroniques (Pinson, 2024 ; Musée d'Histoire de Lyon, 2020). </p>
+                    </description>
+                    <idno>zotero://select/groups/4804195/items/CAWU447J</idno>
+                </event>
+                <event>
                 <eventName>Début du projet Prometheus.Museum</eventName>
                     <date when="2020"/>
                     <description>
@@ -965,6 +973,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/JNW4BCIS</idno>
                 </event>
                 <event>
+                    <eventName>Le MuséoParc Alésia propose un nouveau parcours audiovisuel et immersif</eventName>
+                    <date when="2022-02-15">15 février 2022</date>
+                    <description>
+                        <p>Le parcours permanent du Muséoparc d'Alésia est transformé en 2022 pour mieux favoriser l'intégration de dispositifs numériques. Parmi ces nouveaux outils, un faux livre est installé sur lequel est projeté le texte de la "Guerre des Gaules". Une piste audio lit les pages en fonction du rythme du visiteur qui peut tourner les pages lui-même. Il s'agit d'un outil interactif mais aussi tactile et innovant qui permet de supprimer l'intermédiaire entre le patrimoine et le visiteur (Pinson, 2022).</p>
+                    </description>                                       <idno>zotero://select/groups/4804195/items/9J2ZBEW4</idno>
+                </event>
+                <event>
                     <eventName></eventName>
                     <date></date>
                 <eventName>Le Chau Chak Wing Museum met en service des lunettes pour les visiteurs daltoniens</eventName>
@@ -1009,6 +1024,14 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/7Y39WVW5</idno>
                 </event>
                 <event>
+                    <eventName>Le Musée national de la Marine transforme sa médiation et utilise le numérique pour être plus inclusif</eventName>
+                    <date when="2023"/>
+                    <description>
+                        <p>C'est en 2023 que le Musée national de la Marine transforme son parcours et ses outils de médiation pour mettre en place différents dispositifs numériques. Au-delà d'apporter de nouvelles formes de transmission aux visiteurs, cette transformation favorise également l'inclusion. Une ligne podotactile pour les visiteurs non et malvoyants est notamment installée ainsi que des tables de médiation en accessibilités universelle, afin d'offrir la même expérience à tous les visiteurs (Pinson, 2024).</p>
+                    </description>
+                    <idno>zotero://select/groups/4804195/items/I3BNQ4W9</idno>
+                </event>
+                <event>
                     <eventName>Inauguration d'une exposition dédiée aux NFT au Centre Pompidou</eventName>
                     <date when="2023-04">Avril 2023</date>
                     <description>
@@ -1021,7 +1044,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <date from="2023-05-25" to="2024-04-28">Du 25 mai 2023 au 28 avril 2024</date>
                     <description>
                         <p>L'exposition "Destins de Verdun" propose un parcours immersif entre créations audiovisuelles et dispositifs numériques. Elle invite les publics à découvrir les parcours de 20 personnes impliquées dans la bataille de Verdun à travers des supports textuels et sonores. Dans ce cadre, des personnalités et des comédien.ne.s ont prêté.es leurs voix pour donner une nouvelle dimension à ces témoignages. Si cette adoption de dispositifs immersifs est dans l'ère du temps, elle est ici au service de l'exploration d'un épisode douloureux et traumatique de l'histoire (Mémorial de Verdun).</p>
-                    </description>                                                         <idno>zotero://select/groups/4804195/items/JAQYRY47</idno>
+                    </description>                                       <idno>zotero://select/groups/4804195/items/JAQYRY47</idno>
                 </event>
                 <event>
                     <eventName>Le Château de Chantilly associe chef d'oeuvres et expériences numériques</eventName>
