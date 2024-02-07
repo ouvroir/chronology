@@ -1016,20 +1016,20 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/3WLHIPIP</idno>
                 </event>
                 <event>
-                    <eventName>Déploiement d'une nouvelle application mobile pour le British Museum</eventName>
-                    <date when="2023-04">Avril 2023</date>
-                    <description>
-                        <p>Mise en ligne au début du mois d'avril 2023, la nouvelle application du British Museum permet aux utilisateurs de découvrir plus de 250 objets de la collection permanente et de les localiser dans les salles du musée. Elle est disponible en 5 langues et comprend également un guide en langue des signes anglaise. Au-delà de ces fonctionnalités, elle accompagne le visiteur en proposant un parcours audioguidé dans certaines galeries avec une fonction de carte interactive. Certaines fonctionnalités sont payantes, ce qui est une pratique assez peu répandue au sein des applications de musées (Club innovation et Culture France, 2023).</p>
-                    </description>
-                <idno>zotero://select/groups/4804195/items/7Y39WVW5</idno>
-                </event>
-                <event>
                     <eventName>Le Musée national de la Marine transforme sa médiation et utilise le numérique pour être plus inclusif</eventName>
                     <date when="2023"/>
                     <description>
                         <p>C'est en 2023 que le Musée national de la Marine transforme son parcours et ses outils de médiation pour mettre en place différents dispositifs numériques. Au-delà d'apporter de nouvelles formes de transmission aux visiteurs, cette transformation favorise également l'inclusion. Une ligne podotactile pour les visiteurs non et malvoyants est notamment installée ainsi que des tables de médiation en accessibilités universelle, afin d'offrir la même expérience à tous les visiteurs (Pinson, 2024).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/I3BNQ4W9</idno>
+                </event>
+                <event>
+                    <eventName>Déploiement d'une nouvelle application mobile pour le British Museum</eventName>
+                    <date when="2023-04">Avril 2023</date>
+                    <description>
+                        <p>Mise en ligne au début du mois d'avril 2023, la nouvelle application du British Museum permet aux utilisateurs de découvrir plus de 250 objets de la collection permanente et de les localiser dans les salles du musée. Elle est disponible en 5 langues et comprend également un guide en langue des signes anglaise. Au-delà de ces fonctionnalités, elle accompagne le visiteur en proposant un parcours audioguidé dans certaines galeries avec une fonction de carte interactive. Certaines fonctionnalités sont payantes, ce qui est une pratique assez peu répandue au sein des applications de musées (Club innovation et Culture France, 2023).</p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/7Y39WVW5</idno>
                 </event>
                 <event>
                     <eventName>Inauguration d'une exposition dédiée aux NFT au Centre Pompidou</eventName>
@@ -1073,6 +1073,22 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/DCLEDSGL</idno>
                 </event>
                 <event>
+                    <eventName>Le Smithsonian American Art Museum publie des bandes dessinées numériques</eventName>
+                    <date when="2023-09">Septembre 2023</date>
+                    <description>
+                        <p>C'est dans le cadre d'une mise en valeur d'histoires de femmes artistes que le Smithsonian American Art Museum de Washington a publié 10 mini bandes dessinées sur le sujet. Ces bandes dessinées numériques ont été dessiné par des étudiant.e.s en illustration du Ringling College of Art and Design. Il s'agit d'une nouvelle façon de mettre en lumière les collections d'un musée et de les partager numériquement(Pesquer, novembre 2023).</p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/HB7RM8T8</idno>
+                </event>
+                <event>
+                    <eventName>Le Nasher Museum of Art confie le commissariat d'une exposition à l'intelligence artificielle</eventName>
+                    <date from="2023-09-09" to="2024-01-13">Du 9 septembre 2023 au 13 janvier 2024</date>
+                    <description>
+                        <p>Le Nasher Museum of Art de l'Université Duke a fait appel à la plateforme Chat GPT dans le but d'organiser une exposition d'art. Au départ, ce projet est un défi lancé par Marshall Price, conservateur en chef du musée, pour faire face à la pénurie de personnel et au manque de diversité dans la programmation. Ce qui était une plaisanterie deviendra une expérience inédite menée par l'équipe de conservation du musée et interrogeant l'utilisation de l'intelligence artificielle dans les institutions muséales. L'exposition temporaire qui résulte de cette idée est intitulée "Act as if you are a curator" (Agissez comme si vous étiez un conservateur)(Club innovation et culture, 12 septembre 2023 ; Nasher Museum of Art at Duke University).</p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/99ARQYQC</idno>
+                </event>
+                <event>
                     <eventName>Le Victoria & Albert Museum lance le site interactif "Mused"</eventName>
                     <date when="2023-09-25">25 septembre 2023</date>
                     <description>
@@ -1091,28 +1107,12 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/245HC824</idno>
                 </event>
                 <event>
-                    <eventName>Le Nasher Museum of Art confie le commissariat d'une exposition à l'intelligence artificielle</eventName>
-                    <date from="2023-09-09" to="2024-01-13">Du 9 septembre 2023 au 13 janvier 2024</date>
-                    <description>
-                        <p>Le Nasher Museum of Art de l'Université Duke a fait appel à la plateforme Chat GPT dans le but d'organiser une exposition d'art. Au départ, ce projet est un défi lancé par Marshall Price, conservateur en chef du musée, pour faire face à la pénurie de personnel et au manque de diversité dans la programmation. Ce qui était une plaisanterie deviendra une expérience inédite menée par l'équipe de conservation du musée et interrogeant l'utilisation de l'intelligence artificielle dans les institutions muséales. L'exposition temporaire qui résulte de cette idée est intitulée "Act as if you are a curator" (Agissez comme si vous étiez un conservateur)(Club innovation et culture, 12 septembre 2023 ; Nasher Museum of Art at Duke University).</p>
-                    </description>
-                <idno>zotero://select/groups/4804195/items/99ARQYQC</idno>
-                </event>
-                <event>
                     <eventName>Le Mauritshuis présente une exposition innovante sur 10 objets d'art pillés</eventName>
                     <date from="2023-09-14" to="2024-01-07">Du 14 septembre 2023 au 7 janvier 2024</date>
                     <description>
                         <p>Cette exposition présente des objets d'art pillés issus de la période coloniale, napoléonienne et nazie. Au-delà du sujet, qui s'inscrit dans une prise de conscience des acquisitions problèmatiques muséales, l'originalité de l'exposition réside dansle mode de présentation adopté, entre répliques physiques et numériques. Ce projet est le fruit d'une collaboration entre le Mauritshuis et le Musée des beaux-arts de Rennes. Les objets sont présentés à travers trois expériences de réalité virtuelle et trois installations vidéos. De cette façon, le musée parvient à rendre visible aux publics les objets controversés sans les exposer directement, donnant ainsi un aperçu des modes de présentation rendus possibles par le numérique (Club innovation et culture, 18 septembre 2023).</p>
                     </description>
                 <idno>zotero://select/groups/4804195/items/CC6HQL5D</idno>
-                </event>
-                <event>
-                    <eventName>Le Smithsonian American Art Museum publie des bandes dessinées numériques</eventName>
-                    <date when="2023-09">Septembre 2023</date>
-                    <description>
-                        <p>C'est dans le cadre d'une mise en valeur d'histoires de femmes artistes que le Smithsonian American Art Museum de Washington a publié 10 mini bandes dessinées sur le sujet. Ces bandes dessinées numériques ont été dessiné par des étudiant.e.s en illustration du Ringling College of Art and Design. Il s'agit d'une nouvelle façon de mettre en lumière les collections d'un musée et de les partager numériquement(Pesquer, novembre 2023).</p>
-                    </description>
-                <idno>zotero://select/groups/4804195/items/HB7RM8T8</idno>
                 </event>
                 <event>
                     <eventName>Présentation de deux nouveaux projets d'exposition immersive pour le Motown Museum de Détroit</eventName>
@@ -1154,6 +1154,14 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                         <p>Le Louvre propose à partir du 18 octobre 2023 un parcours en réalité augmentée de ses collections du département des Antiquités égyptiennes. Grâce à la technologie du studio de RA de Snapchat, les visiteurs peuvent placer leurs téléphones portables devant les oeuvres pour découvrir les formes, les matières et les couleurs disparus avec le temps. Ce parcours de visite interactif va au-delà d'une mise en valeur des collections du musée puisqu'il intégre également un regard nouveau sur l'obélisque de la Concorde. Désormais, les utilisateurs du dispositif peuvent le découvrir virtuellement dans la cour Carrée du musée du Louvre, selon la vision de Jean-François Champollion (Louvre, 2023).</p>
                     </description>
                 <idno>zotero://select/groups/4804195/items/YLUATKKS</idno>
+                </event>
+                <event>
+                    <eventName>Le Grand Musée égyptien ouvre ses portes avec une expérience immersive</eventName>
+                    <date when="2023-11">Novembre 2023</date>
+                    <description>
+                        <p>L'ouverture de ce musée particulièrement attendu est marquée par l'accueil d'une exposition immersive "Toutankhamon. L'exposition immersive". Produite par la société espagnole Madrid Artes Digitales, cette expérience est réalisée à l'aide de projections vidéos à 360 degrés et de modélisations en 3D de temples, d'objets et de trésors de l'Égypte ancienne. Cette installation massive de dispositifs numériques à visée immersive ajoute au caractère inédit de l'inauguration de ce musée, le plus grand espace de présentation archéologique dédié à une seule civilisation au monde (Grand Musée égyptien).</p>
+                    </description>
+                <idno>zotero://select/groups/4804195/items/RQLZIQ4S</idno>
                 </event>
                 <event>
                     <eventName>Une exposition immersive sur "Le monde des insectes" à Soho</eventName>
