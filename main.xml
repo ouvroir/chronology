@@ -412,9 +412,9 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </event>
                 <event>
                     <eventName>Débuts de WebMuseum</eventName>
-                    <date when="1994-03">Mars 1994</date>
+                    <date when="1994-03-20">20 Mars 1994</date>
                     <description>
-                        <p>Nicholas Pioch, un informaticien professeur à l’École Nationale Supérieure des Télécommunications de Pairs créée le site WebMuseum sur son temps libre. Il le conçoit comme un projet collaboratif par et pour les visiteurs, afin de répandre l'art sur le World Wide Web. Le projet remporte rapidement le prix de "Meilleur usage de médias divers" (Best Use of Multiple Media Award) au concours Best of Web '94 (Pioch, 2006).</p>
+                        <p>Nicholas Pioch, un informaticien professeur à l’École Nationale Supérieure des Télécommunications de Paris créé le site "WebMuseum" sur son temps libre. Il le conçoit comme un projet collaboratif par et pour les visiteurs, afin de répandre l'art sur le World Wide Web. Le projet remporte rapidement le prix de "Meilleur usage de médias divers" (Best Use of Multiple Media Award) au concours Best of Web '94. Initialement nommé le "WeLouvre", il doit cependant changer de nom sous la pression institutionelle (Pioch, 2006 et Pesquer, novembre 2020).</p>
                 </description>
                 <idno>zotero://select/groups/4804195/items/BWG3H9HA</idno>
                 </event>
@@ -427,21 +427,29 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <idno>zotero://select/groups/4804195/items/U3S899JG</idno>
                 </event>
                 <event>
-                    <eventName>Développement d’une nouvelle mission d’accessibilité des données au sein du Canadian Heritage Information Network (CHIN)</eventName>
-                    <date when="1995"/>
-                    <description>
-                        <p>L’accessibilité de ces données propres au patrimoine international se veut à destination d’un public académique mais également des musées canadiens. Cette base de données est accessible à partir d’octobre 1995, avant de proposer une première exposition virtuelle intitulée "Christmas Traditions in France and Canada" au mois de décembre. D’autres expositions virtuelles suivront par la suite, faisant du CHIN une structure précurseure en matière de mise en valeur du patrimoine par le biais du numérique : "Group of Seven" en 2001, "Panoramas: The North American Landscape in Art" également en 2001 (Bauer, 2002)
-                            .</p>
-                </description>
-                <idno>zotero://select/groups/4804195/items/K4A2IW35</idno>
-                </event>
-                <event>
                     <eventName>Publication du CD-Rom "Le Louvre, peintures et palais"</eventName>
                     <date when="1994-12">Décembre 1994</date> 
                     <description>
                         <p>La publication de ce CD-Rom par la Réunion des Monuments Nationaux (Rmn)s’inscrit dans une période d’engouement pour les contenus culturels de ce type. Les années 1990 voient en effet la multiplication d’e-albums centrés sur un artiste et permettant aux usagers d’aller au-delà du contenu muséal (Miguet et Paquienséguy, 2019).</p>
                 </description>
                 <idno>zotero://select/groups/4804195/items/L53JF7M5</idno>
+            </event>
+            <event>
+                <eventName>Développement d’une nouvelle mission d’accessibilité des données au sein du Canadian Heritage Information Network (CHIN)</eventName>
+                <date when="1995"/>
+                <description>
+                    <p>L’accessibilité de ces données propres au patrimoine international se veut à destination d’un public académique mais également des musées canadiens. Cette base de données est accessible à partir d’octobre 1995, avant de proposer une première exposition virtuelle intitulée "Christmas Traditions in France and Canada" au mois de décembre. D’autres expositions virtuelles suivront par la suite, faisant du CHIN une structure précurseure en matière de mise en valeur du patrimoine par le biais du numérique : "Group of Seven" en 2001, "Panoramas: The North American Landscape in Art" également en 2001 (Bauer, 2002)
+                        .</p>
+            </description>
+            <idno>zotero://select/groups/4804195/items/K4A2IW35</idno>
+            </event>
+            <event>
+                <eventName>Le Musée des Beaux-Arts de Bordeaux se dote d’un site Internet</eventName>
+                <date when="1995"/>
+                <description>
+                    <p>Malgré un budget inexistant, le conservateur des Beaux-Arts de Bordeaux initie ce projet, qu’il est aujourd’hui possible de qualifier de précurseur. Si par la suite, des prestataires extérieurs seront amenés à intervenir dans le cadre de mécénats de compétences ou bénévolement, cette première tentative est développée en interne (Couillard, 2019).</p>
+                </description>
+            <idno>zotero://select/groups/4804195/items/7NFQ7HDB</idno>
             </event>
                 <event>
                  <eventName>Publication du CD-Rom "A Passion for Art: Renoir, Cezanne, Matisse and Dr. Barnes"</eventName>
@@ -450,14 +458,6 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                         <p>Produit par Corbis Corporation et la Fondation Barnes, il s'agit d'un contenu interactif basé sur des oeuvres impressionistes. Sous la forme d'un jeu, l'utilisateur découvre l'histoire do Docteur Barnes et de sa collection d'art. Disponible sur Windows dès février 1995, il ne sort sur Macintosh qu'en juin de la même année. </p>
                 </description>
                 <idno>zotero://select/groups/4804195/items/NVXDLWCH</idno>
-                </event>
-                <event>
-                    <eventName>Le Musée des Beaux-Arts de Bordeaux se dote d’un site Internet</eventName>
-                    <date when="1995"/>
-                    <description>
-                        <p>Malgré un budget inexistant, le conservateur des Beaux-Arts de Bordeaux initie ce projet, qu’il est aujourd’hui possible de qualifier de précurseur. Si par la suite, des prestataires extérieurs seront amenés à intervenir dans le cadre de mécénats de compétences ou bénévolement, cette première tentative est développée en interne (Couillard, 2019).</p>
-                    </description>
-                <idno>zotero://select/groups/4804195/items/7NFQ7HDB</idno>
                 </event>
                 <event>
                     <eventName>Création de Gallica</eventName>
@@ -813,6 +813,14 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 </p>
                 </description>
                 <idno>zotero://select/groups/4804195/items/5SILFBEH</idno>
+                </event>
+                <event>
+                    <eventName>Le Muséeum national d'Histoire naturelle présente l'exposition "Océans. Une plongée insolite"</eventName>
+                    <date from="2019-04-03" to= "2020-01-05">Du 3 avril 2019 au 5 janvier 2020</date>
+                    <description>
+                        <p>Cette exposition propose à ses visiteurs d'explorer les océans à travers des dispositifs innovants et accessibles à tous. Le visiteur est impliqué dans les dispositifs et ne peut adopter une posture passive. Ainsi, une projection à reconnaissance de mouvements permet de présenter la façon dont les fonds marins font avancer l'industrie pharmaceutique. Ce dispositif a pour avantage de ne nécessiter aucun accessoire porté par le visiteur et de délivrer un rendu très doux, puisque le visiteur n'est pas devant un écran mais devant un mur.(Exposcope, 2024).</p>
+                </description>
+                <idno>zotero://select/groups/4804195/items/VQ9Y8CLR</idno>
                 </event>
                 <event>
                     <eventName>Inauguration du dispositif "Dali Lives" par le Salvador Dali Museum</eventName>
