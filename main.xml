@@ -1,8 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 schemas/provisoire.xsd"
-    xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 <!-- @todo ajouter les œuvres d’art web expositionnelles citées par Karine Leonard Bouillet dans sa thèse -->
     <teiHeader>
         <fileDesc>
@@ -27,24 +25,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <!--<front>
+        <front>
             <div>
                 <head>Présentation</head>
-                <p>Cette chronologie de la muséologie numérique couvre la période 1960 à nos jours.</p>
-                <p>Elle a été établie à partir de recherches menées dans des sources disparates pour identifier des moments jalons de la muséologie numérique. Cette chronologie n’a pas vocation à être exhaustive, les événements qui y figurent ont été sélectionnés en raison de leur caractère inédit ou novateur ou de leurs retombées ultérieures. La muséologie est comprise de manière étendue pour inclure l’ensemble des réalisations culturelles s’appropriant les moyens numériques. Bien sûr, certains projets n’ont parfois pas connus de réelle postérité mais ils représentaient à l’époque de leur réalisation une innovation importante. La chronologie s’accompagne d’une périodisation et de repères chronologiques.</p>
+                <p>Cette chronologie de la muséologie numérique couvre la période 1960 à nos jours. Elle a été établie à partir de recherches menées dans plusieurs sources afin d’identifier des moments jalons de la muséologie numérique. La liste des événements présentés n’est donc pas exhaustive, ceux qui y figurent ont été sélectionnés en raison de leur caractère inédit ou novateur ou de leurs retombées ultérieures. Le domaine muséologique est compris de manière étendue pour inclure l’ensemble des réalisations culturelles qui s’approprient les moyens numériques. Bien sûr, certains projets n’ont parfois pas connus de réelle postérité mais ils représentaient à l’époque de leur réalisation une innovation importante. La chronologie comprend une périodisation historique et des repères chronologiques contextuels.</p>
+            <!--
                 <!-\- exemple lien image -\->
                 <figure corresp="zotero://select/groups/4804195/items/N5FMDQR2"/>
                 <!-\- exemple lien citation -\->
-                <ref target="zotero://select/groups/4804195/items/N5FMDQR2">(auteur date)</ref>
+                <ref target="zotero://select/groups/4804195/items/N5FMDQR2">(auteur date)</ref>-->
             </div>
-        </front>-->
+        </front>
         <body>
-            <listEvent>
-                <event type="point">
-                    <eventName>Création de la base de données Joconde par le ministère de la culture français</eventName>
-                    <date when="1975">1975</date>
-                </event>
-            </listEvent>
             <!-- 
     Chronology Statements
     - single instance in time (a date point) : point
@@ -72,7 +64,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
             <listEvent>
                 <head>Repères historiques</head>
                 <event type="point">
-                    <eventName>Création de l’ARPANET</eventName>
+                    <eventName>Création d’ARPANET</eventName>
                     <date when="1969-10-29">29 octobre 1969</date>
                     <p>Fondé par le gouvernement américain, l’ARPANET (Advanced Research Projects Agency Network) est considéré comme étant l’ancêtre d’Internet. Ce projet avait pour objectif de créer un réseau permettant de lier des superordinateurs à des institutions académiques et universitaires. Le 29 octobre 1969 est envoyé le premier message entièrement lisible via ARPANET (IONOS, 2018). Sa première démonstration officielle date de 1972 (Bauer, 2002).</p>
                     <idno>zotero://select/groups/4804195/items/KYSX67YE</idno>
@@ -92,7 +84,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <event type="point">
                     <eventName>Arrivée de l’ordinateur personnel</eventName>
                     <date when="1973">1973</date>
-                    <p>L’ordinnateur personnel est dédié à l’usage d’une seule personne et se veut accessible, aussi bien en matière de coût que de dimensions. La première machine dénommée ordinateur personnel est le Micral N, breveté en 1973 et développé par François Gernelle au sein de la société R2E (Goujon). </p>
+                    <p>L’ordinateur personnel est dédié à l’usage d’une seule personne et se veut accessible, aussi bien en matière de coût que de dimensions. La première machine dénommée ordinateur personnel est le Micral N, breveté en 1973 et développé par François Gernelle au sein de la société R2E (Goujon). </p>
                     <idno>zotero://select/groups/4804195/items/QNNW7U76</idno>
                 </event>
                 <event type="point">
@@ -110,7 +102,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <event type="point">
                     <eventName>Invention du CD-Rom</eventName>
                     <date when="1982">1982</date>
-                    <p>La société néerlandaise Philips publie en 1982 The Red Book for CD Audio, annonçant l’arrivée des disques compacts ou CD-Roms. Le CD devient rapidement le premier support numérique pour la musique et les premiers lecteurs apparaissent en février 1983 sur le marché. La démocratisation de son usage va de pair avec celle de l’ordinateur. (Duchêne, 1998).</p>
+                    <p>La société néerlandaise Philips publie en 1982 <title>The Red Book for CD Audio</title>, annonçant l’arrivée des disques compacts ou CD-Roms. Le CD devient rapidement le premier support numérique pour la musique et les premiers lecteurs apparaissent en février 1983 sur le marché. La démocratisation de son usage va de pair avec celle de l’ordinateur. (Duchêne, 1998).</p>
                     <idno>zotero://select/groups/4804195/items/GGFJ8Y62</idno>
                 </event>
                 <event type="point">
@@ -132,13 +124,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <idno>zotero://select/groups/4804195/items/3FSX595T</idno>
                 </event>
                 <event type="point">
-                    <eventName>Invention de Yahoo!</eventName>
+                    <eventName>Création de Yahoo!</eventName>
                     <date when="1994-01">Janvier 1994</date>
                     <p>Avec l’explosion du nombre de sites accessibles sur le WWW apparaît rapidement la nécessité pour l’internaute de bénéficier d’un annuaire. Conçu par deux étudiants de Stanford, Jerry Yang et David Filo, le site Yahoo! devient rapidement le portail le plus important des années 1990 (Le Bourlout, 2019).</p>
                     <idno>zotero://select/groups/4804195/items/M98EHVUF</idno>
                 </event>
                 <event type="point">
-                    <eventName>Arrivée d’Amazon</eventName>
+                    <eventName>Lancement d’Amazon</eventName>
                     <date when="1995-07">Juillet 1995</date>
                     <p>Jeff Bezos lance la première librairie en ligne, proposant ainsi une nouvelle approche du commerce par le biais du Web(Le Bourlout, 2019). </p>
                     <idno>zotero://select/groups/4804195/items/AQ49QXXC</idno>
@@ -180,9 +172,9 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <idno>zotero://select/groups/4804195/items/NACMX9SI</idno>
                 </event>
                 <event type="point">
-                    <eventName>Article « What is Web 2.0 » de Tim O’Reilly</eventName>
+                    <eventName>Publication de l’article « What is Web 2.0 » de Tim O’Reilly</eventName>
                     <date when="2005-09-30">30 septembre 2005</date>
-                    <p>Cet article rédigé par Tim O’Reilly, fondateur de la société O’Reilly Media en 1978, propose des modèles de conception et d’affaires pour la prochaine génération de logiciels. Dans ce texte, il introduit le terme de Web 2.0 et le définit comme une évolution du Web 1.0 (O’Reilly, 2005).</p>
+                    <p>Cet article rédigé par Tim O’Reilly, fondateur de la société O’Reilly Media en 1978, propose des modèles de conception et d’affaires pour la prochaine génération de logiciels. Dans ce texte, il introduit le terme de Web 2.0 et le définit comme une évolution du Web 1.0 (O’Reilly, 2005).</p>
                     <idno>zotero://select/groups/4804195/items/8KQT89Y6</idno>
                 </event>
                 <event type="point">
@@ -222,7 +214,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <idno>zotero://select/groups/4804195/items/6WJN82Y3</idno>
                 </event>
                 <event type="point">
-                    <eventName>Annonce de Meta</eventName>
+                    <eventName>Annonce de Meta sur le métavers</eventName>
                     <date when="2021-10-28">28 octobre 2021</date>
                     <p>C’est lors de l’événement Facebook Connect 2021 que le PDG de Facebook, Mark Zuckerberg, annonce le lancement de Meta. C’est bien une nouvelle stratégie qu’adopte Facebook avec ce changement de nom, avec pour ambition de dépasser le réseau social pour créer un métavers, soit un univers virtuel fictif (Rozier, 2021).</p>
                     <idno>zotero://select/groups/4804195/items/JIKXQQIX</idno>
@@ -255,7 +247,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Premières conceptions d’expositions de type interactif et ouverture de la notion de patrimoine culturel</eventName>
                     <date from="1980" to="1990"/>
                     <description>
-                        <p>Ces expositions d’un genre nouveau apparaissent au sein des musées scientifiques où la démonstration de concepts et d’idées est particulièrement pertinente. Elles restent absentes des musées d’art, où l’exposition des oeuvres ainsi que leur conservation restent les principaux enjeux. Ainsi, ce processus initié par les musées scientifiques marque le début d’une muséologie d’idées, dépassant la simple représentation d’artefacts (Davallon, 1992). C’est également la période d’entrée de nombreux dispositifs faisant appel aux interactions humain-machine, notamment sonores, donnant un nouvel élan à l’entrée de dispositifs de médiation numériques au sein des musées (Omer Pesquer, avril 2024). Par ailleurs, dans le domaine de la recherche, la notion de patrimoine culturel est questionnée, alimentant la réflexion dans ce domaine. Ainsi, la fin des années 1980 voit l’apparition des premiers programmes d’études supérieures en muséologie, à Montréal et à Québec (Guzin Lukic, 2015). En France, c’est la médiation culturelle qui fait l’objet d’une étude plus approfondie (Paquin et Lemay-Perreault, 2016). </p>
+                        <p>Ces expositions d’un genre nouveau apparaissent au sein des musées scientifiques où la démonstration de concepts et d’idées est particulièrement pertinente. Elles restent absentes des musées d’art, où l’exposition des œuvres ainsi que leur conservation restent les principaux enjeux. Ainsi, ce processus initié par les musées scientifiques marque le début d’une muséologie d’idées, dépassant la simple représentation d’artefacts (Davallon, 1992). C’est également la période d’entrée de nombreux dispositifs faisant appel aux interactions humain-machine, notamment sonores, donnant un nouvel élan à l’entrée de dispositifs de médiation numériques au sein des musées (Omer Pesquer, avril 2024). Par ailleurs, dans le domaine de la recherche, la notion de patrimoine culturel est questionnée, alimentant la réflexion dans ce domaine. Ainsi, la fin des années 1980 voit l’apparition des premiers programmes d’études supérieures en muséologie, à Montréal et à Québec (Guzin Lukic, 2015). En France, c’est la médiation culturelle qui fait l’objet d’une étude plus approfondie (Paquin et Lemay-Perreault, 2016). </p>
                     </description>
                 </event>
                 <event>
@@ -284,7 +276,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Les effets post-confinement</eventName>
                     <date from="2020" to="2024"/>
                     <description>
-                        <p>La pandémie de Covid-19 et les multiples périodes de confinement à l’international ont eu des répercussions sur les pratiques culturelles. Si la réouverture des sites culturels a permis de mettre en évidence un attachement certain au pratrimoine et à sa visite in situ chez les publics, la consommation culturelle sur écran est également entrée dans les moeurs. L’augmentation de cette forme de consommation culturelle est particulièrement perceptible chez les personnes âgées de 60 ans et plus, notamment par le biais des vidéos et des réseaux sociaux. Par ailleurs, la pratique du jeu vidéo est également en nette augmentation au lendemain de la pandémie, y compris chez les 60 ans et plus. Si c’est tendance sont commune à différentes tranches d’âges, elles sont particulièrement notables chez les seniors ainsi que chez les ouvriers (Jonchery et Garcia, 2023). </p>
+                        <p>La pandémie de covid-19 et les multiples périodes de confinement à l’international ont eu des répercussions sur les pratiques culturelles. Si la réouverture des sites culturels a permis de mettre en évidence un attachement certain au patrimoine et à sa visite in situ chez les publics, la consommation culturelle sur écran est également entrée dans les mœurs. L’augmentation de cette forme de consommation culturelle est particulièrement perceptible chez les personnes âgées de 60 ans et plus, notamment par le biais des vidéos et des réseaux sociaux. Par ailleurs, la pratique du jeu vidéo est également en nette augmentation au lendemain de la pandémie, y compris chez les 60 ans et plus. Si c’est tendance sont commune à différentes tranches d’âges, elles sont particulièrement notables chez les seniors ainsi que chez les ouvriers (Jonchery et Garcia, 2023). </p>
                     </description>
                 </event>
             </listEvent>
@@ -302,7 +294,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Création du Projet Gutenberg</eventName>
                     <date when="1971-12-01">1er décembre 1971</date>
                     <description>
-                        <p>Ce projet collectif de numérisation de livres existants en version papier a pour objectif de créer une bibliothèque électronique qui se veut universelle et accessible au plus grand nombre. Les oeuvres numérisées appartiennent au domaine public (Vinck, 2016). </p>
+                        <p>Ce projet collectif de numérisation de livres existants en version papier a pour objectif de créer une bibliothèque électronique qui se veut universelle et accessible au plus grand nombre. Les œuvres numérisées appartiennent au domaine public (Vinck, 2016). </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/TG3B3RXG</idno>
                 </event>
@@ -333,7 +325,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Création de la base de données Joconde par le ministère de la culture français</eventName>
                     <date when="1975"/>
                     <description>
-                        <p>Cette base de données répertorie les peintures conservées au sein des musées français. Elle est notamment complétée en 1978 par la création de la base Arcade, qui comprend les acquisitions d’oeuvres d’art par l’État français, et par la base Mérimée, qui est développée à partir de la documentation de l’inventaire général et de la liste des monuments inscrits et classés.</p>
+                        <p>Cette base de données répertorie les peintures conservées au sein des musées français. Elle est notamment complétée en 1978 par la création de la base Arcade, qui comprend les acquisitions d’œuvres d’art par l’État français, et par la base Mérimée, qui est développée à partir de la documentation de l’inventaire général et de la liste des monuments inscrits et classés.</p>
                         <idno>zotero://select/groups/4804195/items/3KXG5KR8</idno>
                     </description>
                     <p/>
@@ -375,7 +367,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Apparitions successives d’outils numériques au sein des institutions muséales françaises</eventName>
                     <date when="1986"/>
                     <description>
-                        <p>Cette année marque l’installation des premières bornes interactives au sein de la Cité des Sciences et de l’Industrie, la mise en place d’un poste de consultation numérique au Musée d’Orsay ainsi que la création d’un vidéodisque répertoriant 15000 images provenant des collections du Musée d’Art Moderne et des Fonds nationaux et régionaux d’art contemporain, couvrant la période entre 1981 et 1986.</p>
+                        <p>Cette année marque l’installation des premières bornes interactives au sein de la Cité des Sciences et de l’Industrie, la mise en place d’un poste de consultation numérique au Musée d’Orsay ainsi que la création d’un vidéodisque répertoriant 15 000 images provenant des collections du Musée d’Art Moderne et des Fonds nationaux et régionaux d’art contemporain, couvrant la période entre 1981 et 1986.</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/MLG9F8CB</idno>
                 </event>
@@ -399,7 +391,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Exposition « Quelle mémoire pour demain ? » présentée à Grenoble au Musée dauphinois</eventName>
                     <date when="1989-10-27">27 octobre 1989</date>
                     <description>
-                        <p>Dans le cadre de cette exposition, un ordinateur est mis à disposition des visiteurs afin qu’ils puissent accéder à la banque d’images et des fiches informatisées du patrimoine Rhône-alpins, soit 13 000 images. Cet exemple démontre la volonté des musées d’utiliser les innovations technologiques non plus seulement au service de la numérisation et de la conservation des oeuvres à des fins scientifiques, mais également afin de partager ce contenu avec les visiteurs (Andreacola, 2014).</p>
+                        <p>Dans le cadre de cette exposition, un ordinateur est mis à disposition des visiteurs afin qu’ils puissent accéder à la banque d’images et des fiches informatisées du patrimoine Rhône-alpins, soit 13 000 images. Cet exemple démontre la volonté des musées d’utiliser les innovations technologiques non plus seulement au service de la numérisation et de la conservation des œuvres à des fins scientifiques, mais également afin de partager ce contenu avec les visiteurs (Andreacola, 2014).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/V5ZN5JFU</idno>
                 </event>
@@ -407,7 +399,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Publication du CD-Rom <title>Microsoft Art Gallery: The Collection of the National Gallery</title></eventName>
                     <date when="1993"/>
                     <description>
-                        <p>Dédié aux collections de la National Gallery de Londres, ce logiciel est un outil d’apprentissage multimédia. L’utilisateur peut naviguer parmi les oeuvres et interargir avec elles. Commercialité en Angleterre dès 1993, il sera également vendu en Australie plus tard la même année. </p>
+                        <p>Dédié aux collections de la National Gallery de Londres, ce logiciel est un outil d’apprentissage multimédia. L’utilisateur peut naviguer parmi les œuvres et interargir avec elles. Commercialité en Angleterre dès 1993, il sera également vendu en Australie plus tard la même année. </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/V5R6JKBC</idno>
                 </event>
@@ -423,7 +415,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Débuts de WebMuseum</eventName>
                     <date when="1994-03-20">20 Mars 1994</date>
                     <description>
-                        <p>Nicholas Pioch, un informaticien professeur à l’École Nationale Supérieure des Télécommunications de Paris créé le site <title>WebMuseum</title> sur son temps libre. Il le conçoit comme un projet collaboratif par et pour les visiteurs, afin de répandre l’art sur le World Wide Web. Le projet remporte rapidement le prix pour le meilleur usage de divers médias (<title>Best Use of Multiple Media Award</title>) au concours Best of Web ’94. Initialement nommé le <title>WeLouvre</title>, il doit cependant changer de nom sous la pression institutionelle (Pioch, 2006 et Pesquer, novembre 2020).</p>
+                        <p>Nicholas Pioch, un informaticien professeur à l’École Nationale Supérieure des Télécommunications de Paris créé le site <title>WebMuseum</title> sur son temps libre. Il le conçoit comme un projet collaboratif par et pour les visiteurs, afin de répandre l’art sur le World Wide Web. Le projet remporte rapidement le prix pour le meilleur usage de divers médias (<title>Best Use of Multiple Media Award</title>) au concours <title>Best of Web ’94</title>. Initialement nommé le <title>WeLouvre</title>, il doit cependant changer de nom sous la pression institutionelle (Pioch, 2006 et Pesquer, novembre 2020).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/BWG3H9HA</idno>
                 </event>
@@ -439,8 +431,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Développement d’une nouvelle mission d’accessibilité des données au sein du Canadian Heritage Information Network (CHIN)</eventName>
                     <date when="1995"/>
                     <description>
-                        <p>L’accessibilité de ces données propres au patrimoine international se veut à destination d’un public académique mais également des musées canadiens. Cette base de données est accessible à partir d’octobre 1995, avant de proposer une première exposition virtuelle intitulée <title>Christmas Traditions in France and Canada</title> au mois de décembre. D’autres expositions virtuelles suivront par la suite, faisant du CHIN une structure précurseure en matière de mise en valeur du patrimoine par le biais du numérique : <title>Group of Seven</title> en 2001, <title>Panoramas: The North American Landscape in Art</title> également en 2001 (Bauer, 2002)
-                        .</p>
+                        <p>L’accessibilité de ces données propres au patrimoine international se veut à destination d’un public académique mais également des musées canadiens. Cette base de données est accessible à partir d’octobre 1995, avant de proposer une première exposition virtuelle intitulée <title>Christmas Traditions in France and Canada</title> au mois de décembre. D’autres expositions virtuelles suivront par la suite, faisant du CHIN une structure précurseure en matière de mise en valeur du patrimoine par le biais du numérique : <title>Group of Seven</title> en 2001, <title>Panoramas: The North American Landscape in Art</title> également en 2001 (Bauer, 2002).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/K4A2IW35</idno>
                 </event>
@@ -456,7 +447,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Publication du CD-Rom <title>A Passion for Art: Renoir, Cezanne, Matisse and Dr. Barnes</title></eventName>
                     <date when="1995-02">Février 1995</date>
                     <description>
-                        <p>Produit par Corbis Corporation et la Fondation Barnes, il s’agit d’un contenu interactif basé sur des oeuvres impressionistes. Sous la forme d’un jeu, l’utilisateur découvre l’histoire do Docteur Barnes et de sa collection d’art. Disponible sur Windows dès février 1995, il ne sort sur Macintosh qu’en juin de la même année. </p>
+                        <p>Produit par Corbis Corporation et la Fondation Barnes, il s’agit d’un contenu interactif basé sur des œuvres impressionistes. Sous la forme d’un jeu, l’utilisateur découvre l’histoire do Docteur Barnes et de sa collection d’art. Disponible sur Windows dès février 1995, il ne sort sur Macintosh qu’en juin de la même année. </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/NVXDLWCH</idno>
                 </event>
@@ -480,15 +471,15 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Création du Museo Virtual de Artes ou MUVA</eventName>
                     <date when="1997"/>
                     <description>
-                        <p>Crée par le journal El Païs, le MUVA est un des premiers exemples de musée virtuel. C’est afin d’encourager le développement des centres d’art et des musées en Uruguay que ce musée virtuel est conçu, permettant également d’envisager de nouvelles possibilités en la matière (Terrisse, 2013).</p>
+                        <p>Crée par le journal <title>El Païs</title>, le MUVA est un des premiers exemples de musée virtuel. C’est afin d’encourager le développement des centres d’art et des musées en Uruguay que ce musée virtuel est conçu, permettant également d’envisager de nouvelles possibilités en la matière (Terrisse, 2013).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/QGDBPQC4</idno>
                 </event>
                 <event>
-                    <eventName>Exposition d’art Artropolis 97 à Vancouver</eventName>
+                    <eventName>Exposition d’art <title>Artropolis 97</title> à Vancouver</eventName>
                     <date when="1997">1997</date>
                     <description>
-                        <p>Organisées de 1987 à 2005, les expositions Artropolis se tenaient à Vancouver tous les trois ans. L’ambition était de présenter le travail d’artistes contemporains de Colombie-Britannique dans des espaces peu proprices à la présentation d’oeuvres d’art, tels que des centres communautaires par exemple. Dans ce cadre, l’édition de 1997 intitulée <title>Browser</title> (navigateur) se tient à la Roundhouse Community Centre. Elle se distingue des précédentes éditions par la création d’un CD-Rom accompagnant l’exposition (Artropolis, 2012).</p>
+                        <p>Organisées de 1987 à 2005, les expositions Artropolis se tenaient à Vancouver tous les trois ans. L’ambition était de présenter le travail d’artistes contemporains de Colombie-Britannique dans des espaces peu proprices à la présentation d’œuvres d’art, tels que des centres communautaires par exemple. Dans ce cadre, l’édition de 1997 intitulée <title>Browser</title> (navigateur) se tient à la Roundhouse Community Centre. Elle se distingue des précédentes éditions par la création d’un CD-Rom accompagnant l’exposition (Artropolis, 2012).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/PU8BFY4L</idno>
                 </event>
@@ -504,7 +495,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Première exposition proposant un catalogue sur CD-Rom au Canada</eventName>
                     <date when="1997-1998"/>
                     <description>
-                        <p>Organisée conjointement par le Musée des Beaux-Arts du Canada et par le Musée canadien de la photographie contemporaine, cette exposition s’est déroulée entre octobre 1997 et janvier 1998 et présentait le travail de George Legrady. Cette rétrospective intitulée <title>De l’analogie au codage numérique : la photographie et l’interactivité</title> se basait sur une présentation allant des supports analogiques aux medias numériques, développée par Legrady lui-même. L’objectif de ce dispositif est d’étendre le contenu proposé au sein d’un catalogue d’exposition classique par le biais d’un CD-Rom imaginé par l’artiste lui-même (Broadbent, 2003).</p>
+                        <p>Organisée conjointement par le Musée des Beaux-Arts du Canada et par le Musée canadien de la photographie contemporaine, cette exposition s’est déroulée entre octobre 1997 et janvier 1998 et présentait le travail de George Legrady. Cette rétrospective intitulée <title>De l’analogie au codage numérique : la photographie et l’interactivité</title> se basait sur une présentation allant des supports analogiques aux medias numériques, développée par Legrady lui-même. L’objectif de ce dispositif est d’étendre le contenu proposé au sein d’un catalogue d’exposition classique par le biais d’un CD-Rom imaginé par l’artiste lui-même (Broadbent, 2003).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/T79ETLYX</idno>
                 </event>
@@ -520,7 +511,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Lancement du projet CyberMuse au sein du Musée des Beaux-Arts du Canada</eventName>
                     <date when="1999"/>
                     <description>
-                        <p>Conçu comme un outil éducatif pouvant s’adapter et évoluer aussi bien avec les publics du musée qu’avec les besoins de l’institution, le projet CyberMuse a pour objectif de faciliter le partage des collections. Pour cela, il adopte une approche interactive qui s’incarne au sein d’un large répertoire de programmes éducatifs et de communication innovants. Cette base de données est accessible au grand public en 2002, parès une refonte de son interface et l’ajout de nouveaux contenus. Au-delà de son succès, cet outil s’avère précurseur et inspirera d’autres institutions canadiennes par la suite (Broadbent, 2003).</p>
+                        <p>Conçu comme un outil éducatif pouvant s’adapter et évoluer aussi bien avec les publics du musée qu’avec les besoins de l’institution, le projet CyberMuse a pour objectif de faciliter le partage des collections. Pour cela, il adopte une approche interactive qui s’incarne au sein d’un large répertoire de programmes éducatifs et de communication innovants. Cette base de données est accessible au grand public en 2002, par une refonte de son interface et l’ajout de nouveaux contenus. Au-delà de son succès, cet outil s’avère précurseur et inspirera d’autres institutions canadiennes par la suite (Broadbent, 2003).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/HRG3ECUC</idno>
                 </event>
@@ -528,7 +519,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Mise en ligne du dispositif To the Totem Forests par la Galerie d’Art de Greater Victoria</eventName>
                     <date when="1999-08-05">5 août 1999</date>
                     <description>
-                        <p>Ce projet consiste en une exposition itinérante accessible en ligne et permettant de découvrir les villages des Premières Nations de la côte nord-ouest. Cette exposition virtuelle, bien que le terme soit alors anachronique, comprend des images d’archives ainsi que des témoignages à la première personne, offrant un contexte aux oeuvres présentées. La création de cette version en ligne est postérieure à l’organisation d’une exposition physique et son contenu est moins développé que celui proposé au sein du catalogue d’exposition (Broadbent, 2003).</p>
+                        <p>Ce projet consiste en une exposition itinérante accessible en ligne et permettant de découvrir les villages des Premières Nations de la côte nord-ouest. Cette exposition virtuelle, bien que le terme soit alors anachronique, comprend des images d’archives ainsi que des témoignages à la première personne, offrant un contexte aux œuvres présentées. La création de cette version en ligne est postérieure à l’organisation d’une exposition physique et son contenu est moins développé que celui proposé au sein du catalogue d’exposition (Broadbent, 2003).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/L8N2CT8U</idno>
                 </event>
@@ -536,7 +527,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Publication de l’enquête sur les Premiers usages des CD-Rom des musées</eventName>
                     <date when="2000"/>
                     <description>
-                        <p>Commanditée en 1996 par la Rmn, cette enquête est menée par Jean Davallon, Hana Gottesdiener et Joëlle Le Marec. Elle met en lumière les différents obstacles rencontrés par les usagers ainsi que leurs attentes. Si les CD-Rom culturels n’ont pas survécus au-delà des années 1990, les différents écueils relevés au sein de cette enquête  restent pertinents en matière de conception et d’utilisation d’un outil numérique dans un cadre culturel (Miguet et Paquienséguy, 2019). </p>
+                        <p>Commanditée en 1996 par la RMN, cette enquête est menée par Jean Davallon, Hana Gottesdiener et Joëlle Le Marec. Elle met en lumière les différents obstacles rencontrés par les usagers ainsi que leurs attentes. Si les CD-Rom culturels n’ont pas survécus au-delà des années 1990, les différents écueils relevés au sein de cette enquête  restent pertinents en matière de conception et d’utilisation d’un outil numérique dans un cadre culturel (Miguet et Paquienséguy, 2019). </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/HCEJAYT8</idno>
                     <p/>
@@ -594,7 +585,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Début du projet de recherche Documentation et conservation du patrimoine des arts médiatiques (DOCAM)</eventName>
                     <date when="2005">2005</date>
                     <description>
-                        <p>Ce projet de recherche international s’étend sur une période de 5 ans et part d’un constat : les institutions culturelles doivent à la fois préserver les anciennes oeuvres d’art à composantes technologiques tout en les comprenant et en les documentant. Dans ce cadre, ce programme de recherche s’intèresse à la documentation et à la préservation de ces arts médiatiques. Le fonctionnement de ce programme se base sur la collaboration de différents acteurs culturels et universitaires nord-américains et est initié par la Fondation Daniel Langlois de Montréal (Bardiot).</p>
+                        <p>Ce projet de recherche international s’étend sur une période de cinq ans et part d’un constat : les institutions culturelles doivent à la fois préserver les anciennes œuvres d’art à composantes technologiques tout en les comprenant et en les documentant. Dans ce cadre, ce programme de recherche s’intèresse à la documentation et à la préservation de ces arts médiatiques. Le fonctionnement de ce programme se base sur la collaboration de différents acteurs culturels et universitaires nord-américains et est initié par la Fondation Daniel Langlois de Montréal (Bardiot).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/BFBDNL94</idno>
                 </event>
@@ -602,7 +593,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Museum Lab</eventName>
                     <date when="2006"/>
                     <description>
-                        <p>Le Museum Lab du Louvre propose de nouvelles approches de l’art depuis 2006. Parmi les différents projets développés, il est notamment possible de citer une expérience tournée vers l’exploration d’un tableau de Titien intitulé La Vierge au Lapin. Cette découverte repose sur plusieurs dispositifs : un film explicatif, des écrans tactiles d’observation de l’oeuvre et un espace immersif.</p>
+                        <p>Le Museum Lab du Louvre propose de nouvelles approches de l’art depuis 2006. Parmi les différents projets développés, il est notamment possible de citer une expérience tournée vers l’exploration d’un tableau de Titien intitulé La Vierge au Lapin. Cette découverte repose sur plusieurs dispositifs : un film explicatif, des écrans tactiles d’observation de l’œuvre et un espace immersif.</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/SGU3CHY9</idno>
                 </event>
@@ -634,7 +625,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Présentation du jeu <title>Plug, les secrets du musée</title> au Musée des arts et métiers de Paris</eventName>
                     <date when="2009-05-29">29 mai 2009</date>
                     <description>
-                        <p>Présenté au public du 29 mai au 7 juin, ce jeu reposait sur 16 objets de la collection dont chacun était rattaché à une carte virtuelle. L’objectif du visiteur était de retrouver les bonnes cartes virtuelles par l’intermédiaire d’un téléphone portable, en découvrant au passage de nouvelles informations sur les objets concernés. Si ce projet est rapidement qualifié d’original et ded ynamique, il est également précurseur en matière d’utilisation des téléphones portables au sein de la visite muséale.</p>
+                        <p>Présenté au public du 29 mai au 7 juin, ce jeu reposait sur seize objets de la collection dont chacun était rattaché à une carte virtuelle. L’objectif du visiteur était de retrouver les bonnes cartes virtuelles par l’intermédiaire d’un téléphone portable, en découvrant au passage de nouvelles informations sur les objets concernés. Si ce projet est rapidement qualifié d’original et de dynamique, il est également précurseur en matière d’utilisation des téléphones portables au sein de la visite muséale.</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/N4Q9MWPI</idno>
                     <p/>
@@ -669,7 +660,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Exposition <title>Révélations, une odyssée numérique dans la peinture</title> au Petit Palais de Paris</eventName>
                     <date when="2010-09-18">18 septembre 2010</date>
                     <description>
-                        <p>Issue d’une collaboration entre les équipes du Petit Palais et de l’entreprise Samsung, cette exposition temporaire dévoilait 40 oeuvres accompagnées d’une médiation numérique. Cette dernière consistait en des écrans présentant de courts films et invitant le visiteur à découvrir les détails et les intentions cachés d’un artiste.</p>
+                        <p>Issue d’une collaboration entre les équipes du Petit Palais et de l’entreprise Samsung, cette exposition temporaire dévoilait quarante œuvres accompagnées d’une médiation numérique. Cette dernière consistait en des écrans présentant de courts films et invitant le visiteur à découvrir les détails et les intentions cachés d’un artiste.</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/B7YCHDMP</idno>
                     <p/>
@@ -678,7 +669,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Apparition du Google Art Project</eventName>
                     <date when="2011-02">Février 2011</date>
                     <description>
-                        <p>Développé par la multinationale californienne Google, ce projet propose une nouvelle approche muséale par le biais de la numérisation. Se basant sur la technologie Street View, ce projet permet de numériser non plus seulement les oeuvres, mais également les musées eux-mêmes, offrant de nouvelles possibilités en matière de visite virtuelle (Terrisse, 2013).
+                        <p>Développé par la multinationale californienne Google, ce projet propose une nouvelle approche muséale par le biais de la numérisation. Se basant sur la technologie Street View, ce projet permet de numériser non plus seulement les œuvres, mais également les musées eux-mêmes, offrant de nouvelles possibilités en matière de visite virtuelle (Terrisse, 2013).
                 </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/6QNM5D6W</idno>
@@ -687,7 +678,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Première expérimentation du dispositif <title>Blinkster</title> au Centre Pompidou</eventName>
                     <date when="2011-06-22">22 juin 2011</date>
                     <description>
-                        <p>Présenté dans le cadre de Futur en Seine, ce dispositif est intégré à la visite du Centre Pompidou afin de permettre aux visiteurs d’effectuer une reconnaissance d’oeuvres. Développé en partenariat avec la société Euréva, Blinkster est une application mobile dotée d’un système de reconnaissance faciale par le biais duquel le visiteur peut avoir accès à des informations supplémentaires sur les oeuvres flashées (IRI, 2011).
+                        <p>Présenté dans le cadre de Futur en Seine, ce dispositif est intégré à la visite du Centre Pompidou afin de permettre aux visiteurs d’effectuer une reconnaissance d’œuvres. Développé en partenariat avec la société Euréva, Blinkster est une application mobile dotée d’un système de reconnaissance faciale par le biais duquel le visiteur peut avoir accès à des informations supplémentaires sur les œuvres flashées (IRI, 2011).
                 </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/EAXKV637</idno>
@@ -696,7 +687,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Mise en ligne du projet data.bnf.fr</eventName>
                     <date when="2011-07">Juillet 2011</date>
                     <description>
-                        <p>Ce projet consiste en un rassemblement et un partage des données de la BnF sur le Web, et ce, afin d’en accroître la visibilité. Au-delà de la quantité importante des données collectées, il s’agit également d’une contribution déterminante car adoptant une approche tournée vers la coopération et l’échange de métadonnées avec d’autres ressources de confiance. Par ailleurs, cette publication des données de la Bibliothèque nationale de France s’inscrit dans un réseau de partage libre, selon la Licence ouverte de l’Etat.
+                        <p>Ce projet consiste en un rassemblement et un partage des données de la BnF sur le Web, et ce, afin d’en accroître la visibilité. Au-delà de la quantité importante des données collectées, il s’agit également d’une contribution déterminante car adoptant une approche tournée vers la coopération et l’échange de métadonnées avec d’autres ressources de confiance. Par ailleurs, cette publication des données de la Bibliothèque nationale de France s’inscrit dans un réseau de partage libre, selon la Licence ouverte de l’État.
                 </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/LKTRLNP9</idno>
@@ -714,7 +705,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Première édition du projet Museomix au musée des Arts Décoratifs de Paris</eventName>
                     <date when="2011-11">Novembre 2011</date>
                     <description>
-                        <p>Inventé par Stéphanie Bacquère, Samuel Bausson, Julien Dorra, Diane Dubray, Yves-Armel Martin, Christophe Monnet et Marie-Noéline Viguier, ce projet vise à inciter les publics à se réapproprier la médiation muséale. Pendant trois jours, une équipe plurisdisciplaire est invitée à concevoir un dispositif de médiation innovant sous la forme d’un prototype. Ce dernier est ensuite testé par les publics lors de la troisième journée.
+                        <p>Inventé par Stéphanie Bacquère, Samuel Bausson, Julien Dorra, Diane Dubray, Yves-Armel Martin, Christophe Monnet et Marie-Noéline Viguier, ce projet vise à inciter les publics à se réapproprier la médiation muséale. Pendant trois jours, une équipe pluridisciplinaire est invitée à concevoir un dispositif de médiation innovant sous la forme d’un prototype. Ce dernier est ensuite testé par les publics lors de la troisième journée.
                 </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/Y2CKAHYY</idno>
@@ -741,7 +732,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Organisation d’une journée professionnelle sur l’informatisation, la numérisation et la mise en ligne des collections des musées de France</eventName>
                     <date when="2012-06-08">8 juin 2012</date>
                     <description>
-                        <p>Organisée le 8 juin 2012 par le Ministère de la Culture français, cette journée est l’occasion d’évoquer les enjeux soulevés par la diffusion numérique des collections des musées que ce soit concernant les publics visés, les politiques culturelles envisagées ou encore les moyens numériques déployés. Les contributions de cette journée sont ensuite publiées sur le portail de la base Joconde, afin de favoriser les échanges et la réflexion sur le sujet(Ministère de la Culture, 2012).
+                        <p>Organisée le 8 juin 2012 par le Ministère de la Culture français, cette journée est l’occasion d’évoquer les enjeux soulevés par la diffusion numérique des collections des musées que ce soit concernant les publics visés, les politiques culturelles envisagées ou encore les moyens numériques déployés. Les contributions de cette journée sont ensuite publiées sur le portail de la base Joconde, afin de favoriser les échanges et la réflexion sur le sujet (Ministère de la Culture, 2012).
                 </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/GKTB6MZ4</idno>
@@ -750,8 +741,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Début d’activité de l’entreprise Histovery</eventName>
                     <date when="2013"/>
                     <description>
-                        <p>Avec l’ambition de révolutionner l’expérience du visiteur, l’entreprise Histovery s’impose rapidement comme un acteur incontournable de la transition digitale du patrimoine. Elle lance notamment l’HistoPad, une tablette de visite se basant sur la Réalité Augmentée afin de présenter des reconstitutions historiques à 360° et des objets interactifs en 3D (Perroy, 2017). Cette innovation a été adoptée par des nombreuses institutions patrimoniales telles que le Château de Chambord, la Conciergerie ou même au National Building Museum de Washington (Pagès, 2020). 
-                </p>
+                        <p>Avec l’ambition de révolutionner l’expérience du visiteur, l’entreprise Histovery s’impose rapidement comme un acteur incontournable de la transition digitale du patrimoine. Elle lance notamment l’<title>HistoPad</title>, une tablette de visite se basant sur la Réalité Augmentée afin de présenter des reconstitutions historiques à 360° et des objets interactifs en 3D (Perroy, 2017). Cette innovation a été adoptée par des nombreuses institutions patrimoniales telles que le Château de Chambord, la Conciergerie ou même au National Building Museum de Washington (Pagès, 2020).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/AC2HBSGD</idno>
                 </event>
@@ -768,7 +758,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Début du projet Bretez</eventName>
                     <date when="2017"/>
                     <description>
-                        <p>Ce projet de valorisation patrimoniale tente de reconstituer l’ambiance sonore du quartier du Grand Châtelet à Paris au XVIIIe siècle. Pour cela, une approche interdisciplinaire est adoptée, le projet associant des historiens à des spécialiste 3D. Au-delà de l’approche novatrice du patrimoine que ce dispositif propose, il s’agit également d’un exemple d’utilisaton de données numériques au service de la recherche en sciences humaines et de la médiation culturelle (Deramond, 2021).</p>
+                        <p>Ce projet de valorisation patrimoniale tente de reconstituer l’ambiance sonore du quartier du Grand Châtelet à Paris au XVIII<hi rend="sup">e</hi> siècle. Pour cela, une approche interdisciplinaire est adoptée, le projet associant des historiens à des spécialiste 3D. Au-delà de l’approche novatrice du patrimoine que ce dispositif propose, il s’agit également d’un exemple d’utilisation de données numériques au service de la recherche en sciences humaines et de la médiation culturelle (Deramond, 2021).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/5646LU7Y</idno>
                 </event>
@@ -794,7 +784,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>L’exposition <title>TeamLab : au-delà des limites</title> propose une nouvelle forme d’expérience visuelle et immersive à la Grande Halle de la Villette </eventName>
                     <date from="2018-05-15" to="2018-09-09">Du 15 mai au 9 septembre 2018</date>
                     <description>
-                        <p>Cette exposition le visiteur dans un monde virtuel à la faune et à la flore fantasmée, inspiré du Japon et de son esthétisme. Naviguant au sein d’une véritable oeuvre numérique, le visiteur y prend part et peut interagir avec cet univers. Cette dimension performative consiste pourtant en une simple déambulation, les mécanismes d’interaction étant omniprésents certes, mais également limités. Pourtant, il reste intéressant d’obseerver la manière dont les bornes disparaissent pour laisse une place totale aux projections numériques. Il reste cependant pertinent d’interroger le caractère culturel d’une telle exposition, l’expérience immersive étant mise au service d’une mise en scène de la culture japonaise (Nanta Novello Paglianti in Badulescu et de la Ville, 2019). 
+                        <p>Cette exposition le visiteur dans un monde virtuel à la faune et à la flore fantasmée, inspiré du Japon et de son esthétisme. Naviguant au sein d’une véritable œuvre numérique, le visiteur y prend part et peut interagir avec cet univers. Cette dimension performative consiste pourtant en une simple déambulation, les mécanismes d’interaction étant omniprésents certes, mais également limités. Pourtant, il reste intéressant d’observer la manière dont les bornes disparaissent pour laisse une place totale aux projections numériques. Il reste cependant pertinent d’interroger le caractère culturel d’une telle exposition, l’expérience immersive étant mise au service d’une mise en scène de la culture japonaise (Nanta Novello Paglianti in Badulescu et de la Ville, 2019). 
                         </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/LI4L25R5</idno>
@@ -811,7 +801,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Art # connexion au Grand Palais</eventName>
                     <date when="2018-07">Juillet 2018</date>
                     <description>
-                        <p>Se déroulant du 7 au 9 juillet 2018, cet événément ouvert à tous et gratuit réunissait en un même lieu des expériences innovantes et numériques, produites par les institutions culturelles françaises. Entre réalité virtuelle et augmentée, projections immersives, numérisations 3D ou encore écrans interactifs, les visiteurs avaient la possibilité d’expérimenter les différents outils mis à leur disposition. Par ailleurs, ce projet a été conçu en partenariat avec Google Arts et Culture, dans le cadre de son développement d’expériences numériques immersives de mise en valeur du patrimoine (Pagès, 2020).
+                        <p>Se déroulant du 7 au 9 juillet 2018, cet événement ouvert à tous et gratuit réunissait en un même lieu des expériences innovantes et numériques, produites par les institutions culturelles françaises. Entre réalité virtuelle et augmentée, projections immersives, numérisations 3D ou encore écrans interactifs, les visiteurs avaient la possibilité d’expérimenter les différents outils mis à leur disposition. Par ailleurs, ce projet a été conçu en partenariat avec Google Arts et Culture, dans le cadre de son développement d’expériences numériques immersives de mise en valeur du patrimoine (Pagès, 2020).
                 </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/7VBF4MYC</idno>
@@ -820,7 +810,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Développement du dispositif <title>Interactive replicas</title> </eventName>
                     <date when="2019-04">Avril 2019</date>
                     <description>
-                        <p>Dans le cadre d’une résidence au mudac (le musée cantonal de design et d’arts appliqués contemporains de Lausanne), le studio INT débute le développement d’<title>Interactive replicas</title>. Ce dispositif tactile a pour objectif de permettre la découverte des objets de design par la manipulation d’oeuvres numérisées provenant de la collection du mudac. Le dispositif est déployé avec la collaboration d’Archeotech au MCAH (Musée cantonal d’archéologie et d’histoire)(LabElysée, 2021 ; INT Studio).</p>
+                        <p>Dans le cadre d’une résidence au mudac (le musée cantonal de design et d’arts appliqués contemporains de Lausanne), le studio INT débute le développement d’<title>Interactive replicas</title>. Ce dispositif tactile a pour objectif de permettre la découverte des objets de design par la manipulation d’œuvres numérisées provenant de la collection du mudac. Le dispositif est déployé avec la collaboration d’Archeotech au MCAH (Musée cantonal d’archéologie et d’histoire ; LabElysée, 2021 ; INT Studio).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/KY69E4ZL</idno>
                 </event>
@@ -828,7 +818,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Ouverture du <title>Palais virtuel</title> au Palais de Tokyo</eventName>
                     <date when="2019-04-03">3 avril 2019</date>
                     <description>
-                        <p>Inauguré le 3 avril 2019, il s’agit d’un espace de diffusion d’oeuvres numériques permanent et dédié à la réalité virtuelle. Plusieurs artistes sont invités à y dévoiler leur travail, interrogeant à la fois le nouveau rapport à l’art que suggère une telle approche, mais également plus largement la place du numérique au sein de la société (Club Innovation et Culture France, 2019).
+                        <p>Inauguré le 3 avril 2019, il s’agit d’un espace de diffusion d’œuvres numériques permanent et dédié à la réalité virtuelle. Plusieurs artistes sont invités à y dévoiler leur travail, interrogeant à la fois le nouveau rapport à l’art que suggère une telle approche, mais également plus largement la place du numérique au sein de la société (Club Innovation et Culture France, 2019).
                 </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/4IJNSNV8</idno>
@@ -837,7 +827,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Le Muséeum national d’Histoire naturelle présente l’exposition <title>Océans. Une plongée insolite</title></eventName>
                     <date from="2019-04-03" to="2020-01-05">Du 3 avril 2019 au 5 janvier 2020</date>
                     <description>
-                        <p>Cette exposition propose à ses visiteurs d’explorer les océans à travers des dispositifs innovants et accessibles à tous. Le visiteur est impliqué dans les dispositifs et ne peut adopter une posture passive. Ainsi, une projection à reconnaissance de mouvements permet de présenter la façon dont les fonds marins font avancer l’industrie pharmaceutique. Ce dispositif a pour avantage de ne nécessiter aucun accessoire porté par le visiteur et de délivrer un rendu très doux, puisque le visiteur n’est pas devant un écran mais devant un mur.(Exposcope, 2024).</p>
+                        <p>Cette exposition propose à ses visiteurs d’explorer les océans à travers des dispositifs innovants et accessibles à tous. Le visiteur est impliqué dans les dispositifs et ne peut adopter une posture passive. Ainsi, une projection à reconnaissance de mouvements permet de présenter la façon dont les fonds marins font avancer l’industrie pharmaceutique. Ce dispositif a pour avantage de ne nécessiter aucun accessoire porté par le visiteur et de délivrer un rendu très doux, puisque le visiteur n’est pas devant un écran mais devant un mur (Exposcope, 2024).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/VQ9Y8CLR</idno>
                 </event>
@@ -845,7 +835,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Inauguration du dispositif <title>Dali Lives</title> par le Salvador Dali Museum</eventName>
                     <date when="2019-05-11">11 mai 2019</date>
                     <description>
-                        <p>Ce dispositif inédit est présenté par le Salvador Dali Museum de St. Pétersburg aux États-Unis. Il s’agit d’un premier exemple d’utilisation d’intelligence artificielle qui permet aux visiteurs du musée d’interagir avec le peinture catalan par le biais d’un écran. C’est une expérience aléatoire et donc unique puisque près de 200 000 combinaisons d’interactions sont possibles (Pesquer, mai 2020).
+                        <p>Ce dispositif inédit est présenté par le Salvador Dali Museum de St. Petersburg aux États-Unis. Il s’agit d’un premier exemple d’utilisation d’intelligence artificielle qui permet aux visiteurs du musée d’interagir avec le peinture catalan par le biais d’un écran. C’est une expérience aléatoire et donc unique puisque près de 200 000 combinaisons d’interactions sont possibles (Pesquer, mai 2020).
                         </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/XVTH28X8</idno>
@@ -854,7 +844,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Lancement de la plate-forme ouverte du patrimoine en France (POP)</eventName>
                     <date when="2019-07-09">9 juillet 2019</date>
                     <description>
-                        <p>Cette plate-forme disponible en ligne comprend près de 4 millions de notices de biens culturels français divers. L’objectif est de favoriser la diffusion des ressources culturelles et de rassembler différentes sources en la matière . Les données collectées et accessibles sont issues de différentes bases de données : Joconde, Mérimée, Palissy, Mémoire, MNR Rose Valland, Muséofile, Autor, Enluminures. D’autres applications peuvent utilisées les données de cette plate-forme qui est enrichie en permanence (POP, Ministère de la culture).
+                        <p>Cette plate-forme disponible en ligne comprend près de quatre millions de notices de biens culturels français divers. L’objectif est de favoriser la diffusion des ressources culturelles et de rassembler différentes sources en la matière . Les données collectées et accessibles sont issues de différentes bases de données : Joconde, Mérimée, Palissy, Mémoire, MNR Rose Valland, Muséofile, Autor, Enluminures. D’autres applications peuvent utilisées les données de cette plate-forme qui est enrichie en permanence (POP, Ministère de la culture).
                 </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/PJ8UWPBP</idno>
@@ -863,7 +853,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Annonce d’un programme de déploiement de micro-folies</eventName>
                     <date when="2019-09">Septembre 2019</date>
                     <description>
-                        <p>C’est durant l’été 2019 que le ministre français de la Culture Franck Riester annonce le déploiement de 1000 micro-folies d’ici 2022. Il s’agit d’espaces modulables présentés comme des <soCalled>musées numériques</soCalled> favorisant la création et la diffusion de l’art. Ce projet est <soCalled>hors les murs</soCalled> consiste donc à sensibiliser les publics les plus éloignés de la culture institutionnelle, tout en impliquant de grands acteurs culturels tels que le Musée du Louvre ou encore l’Opéra National de Paris (Pagès, 2020).
+                        <p>C’est durant l’été 2019 que le ministre français de la Culture Franck Riester annonce le déploiement de mille micro-folies d’ici 2022. Il s’agit d’espaces modulables présentés comme des <soCalled>musées numériques</soCalled> favorisant la création et la diffusion de l’art. Ce projet est <soCalled>hors les murs</soCalled> consiste donc à sensibiliser les publics les plus éloignés de la culture institutionnelle, tout en impliquant de grands acteurs culturels tels que le Musée du Louvre ou encore l’Opéra National de Paris (Pagès, 2020).
                 </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/FEPCX6L6</idno>
@@ -872,7 +862,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Lancement de l’application Bloomberg Connect</eventName>
                     <date when="2019-11">Novembre 2019</date>
                     <description>
-                        <p>Développée par Bloomberg Philanthropie, cette application gratuite s’impose rapidement comme un outil incontournable au sein des organisations partenaires toujours plus nombreuses et principalement états-uniennes. Les musées, mais également les galeries, les zoos ou les jardinsconcernés sont séduits par ses nombreuses fonctionnalités, qui vont de vue cartographique à des extraits de vidéos. Elle s’avère également un outil de conservation et de mise en valeur des performances et des activations d’oeuvres d’art numériques, ce qui en fait un outil adapté aux pratiques muséales contemporaines (Pesquer, octobre 2023). 
+                        <p>Développée par Bloomberg Philanthropie, cette application gratuite s’impose rapidement comme un outil incontournable au sein des organisations partenaires toujours plus nombreuses et principalement états-uniennes. Les musées, mais également les galeries, les zoos ou les jardins concernés sont séduits par ses nombreuses fonctionnalités, qui vont de vue cartographique à des extraits de vidéos. Elle s’avère également un outil de conservation et de mise en valeur des performances et des activations d’œuvres d’art numériques, ce qui en fait un outil adapté aux pratiques muséales contemporaines (Pesquer, octobre 2023). 
                         </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/9R8K4M7P</idno>
@@ -881,7 +871,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Ouverture de la plateforme Petit Louvre</eventName>
                     <date when="2020"/>
                     <description>
-                        <p>C’est afin de faire face à la pandémie et à la fermeture des musées que le Louvre a développé ce dispositif à destination des plus jeunes. Accessibles en ligne, les contenus proposés comprennent des contes animés, des galeries d’oeuvres ou encore une série de podcasts développés avec France inter. En parallèle, le musée a également développé des contenus pour les autres publics, toujours accessibles en ligne, allant de la lettre d’information aux conférences en direct en passant par les visites virtuelles. Ainsi, le site du Louvre a connu une fréquentation historique de 11 millions de visite durant le premier confinement (Pham, 2022).
+                        <p>C’est afin de faire face à la pandémie et à la fermeture des musées que le Louvre a développé ce dispositif à destination des plus jeunes. Accessibles en ligne, les contenus proposés comprennent des contes animés, des galeries d’œuvres ou encore une série de podcasts développés avec France inter. En parallèle, le musée a également développé des contenus pour les autres publics, toujours accessibles en ligne, allant de la lettre d’information aux conférences en direct en passant par les visites virtuelles. Ainsi, le site du Louvre a connu une fréquentation historique de 11 millions de visite durant le premier confinement (Pham, 2022).
                 </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/WQ7JVLW7</idno>
@@ -898,7 +888,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Début du projet Prometheus.Museum</eventName>
                     <date when="2020"/>
                     <description>
-                        <p>Ce projet novateur concilie numérique et patrimoine immatériel. C’est en s’inspirant de récits expographiques de musées de société, comme le Musée de la civilisation de Québec notamment, que ce projet s’appui sur trois regards : celui de Vanessa Foltier, présidente du comité des fêtes d’Izaourt, Vincent Boya, conseiller municipal d’Esténos, et Père Arnaud Richard, curé de Bagnères-de-Luchon. De cette façon, ce musée numérique propose une mise en valeur novatrice des fêtes du feu des solstices dans les Pyrénées. Par le biais de vidéos et d’une carte interactive, le site met en évidence l’importance de ces célébrations locales, inscrites sur la Liste représentative du patrimoine culturel immatériel de l’humanité par l’UNESCO. Par ailleurs, le rôle citoyen du musée est également développé au sein de cette interface par une approche interdisciplinaire du sujet (Soulier et Roigé, 2022).
+                        <p>Ce projet novateur concilie numérique et patrimoine immatériel. C’est en s’inspirant de récits expographiques de musées de société, comme le Musée de la civilisation de Québec notamment, que ce projet s’appui sur trois regards : celui de Vanessa Foltier, présidente du comité des fêtes d’Izaourt, Vincent Boya, conseiller municipal d’Esténos, et Père Arnaud Richard, curé de Bagnères-de-Luchon. De cette façon, ce musée numérique propose une mise en valeur novatrice des fêtes du feu des solstices dans les Pyrénées. Par le biais de vidéos et d’une carte interactive, le site met en évidence l’importance de ces célébrations locales, inscrites sur la Liste représentative du patrimoine culturel immatériel de l’humanité par l’UNESCO. Par ailleurs, le rôle citoyen du musée est également développé au sein de cette interface par une approche interdisciplinaire du sujet (Soulier et Roigé, 2022).
                 </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/W4BENTD7</idno>
@@ -907,7 +897,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Publication d’une nouvelle édition de l’étude <title>Cinquante ans de pratiques culturelles en France</title></eventName>
                     <date when="2020-07">Juillet 2020</date>
                     <description>
-                        <p>Publiée par le Ministère de la culture, cette étude permet de faire le bilan sur les pratiques culturelles des français ainsi que leurs évolutions. Celle de 2020, la plus récente à ce jour, révèle un essor considérable des pratiques numériques entre 2010 et 2020. Dans ce cadre, les pratiques culturelles tendent à devenir hybrides, aussi en matière d’outils, avec un usage toujours plus prégnant du numérique, qu’entre univers culturels et identités des publics. Les rapports à la culture se diversifient(Badulescu et Bideran, 2023).</p>
+                        <p>Publiée par le Ministère de la culture, cette étude permet de faire le bilan sur les pratiques culturelles des français ainsi que leurs évolutions. Celle de 2020, la plus récente à ce jour, révèle un essor considérable des pratiques numériques entre 2010 et 2020. Dans ce cadre, les pratiques culturelles tendent à devenir hybrides, aussi en matière d’outils, avec un usage toujours plus prégnant du numérique, qu’entre univers culturels et identités des publics. Les rapports à la culture se diversifient (Badulescu et Bideran, 2023).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/2PBU34SA</idno>
                 </event>
@@ -915,7 +905,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Quatrième édition du projet reGeneration et création d’une plateforme spécifique</eventName>
                     <date when="2020-07-01">1er juillet 2020</date>
                     <description>
-                        <p>Consacré à la photographie émergente internationale, le projet reGeneration propose pour sa quatrième édition une cartographie interactive de l’exposition qui permet notamment de filtrer les oeuvres et d’effectuer une association de mots clés (Muzéodrome/Pesquer, juillet 2020). 
+                        <p>Consacré à la photographie émergente internationale, le projet reGeneration propose pour sa quatrième édition une cartographie interactive de l’exposition qui permet notamment de filtrer les œuvres et d’effectuer une association de mots clés (Muzéodrome/Pesquer, juillet 2020). 
                         </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/C9G3UXLA</idno>
@@ -924,7 +914,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Préfiguration du projet <title>The Ray Bradbury Experience Museum</title></eventName>
                     <date when="2020-08-22">22 août 2020</date>
                     <description>
-                        <p>Ce projet est imaginé dans la ville natale du célébre écrivain états-unien des littératures de l’imaginaire, Ray Bradbury, à Waukegan. L’objectif est de concevoir un musée expérimental aux pratiques et aux espaces non-conventionnels dédié à l’oeuvre de l’écrivain et aux thèmes qui y sont abordés. Une collecte de fond commence en 2019 mais le projet est finalement abandonné en mai 2023. Il s’agit cependant d’un projet muséal novateur, entre libre pensée et créativité, interrogeant par sa nature même l’utilisation du numérique dans la transmission de savoirs. Ainsi, une mini-exposition de préfiguration du projet est présentée le 22 août 2020, pour le centenaire de la naissance de l’écrivain (Pesquer, janvier 2021).
+                        <p>Ce projet est imaginé dans la ville natale du célèbre écrivain états-unien des littératures de l’imaginaire, Ray Bradbury, à Waukegan. L’objectif est de concevoir un musée expérimental aux pratiques et aux espaces non-conventionnels dédié à l’œuvre de l’écrivain et aux thèmes qui y sont abordés. Une collecte de fond commence en 2019 mais le projet est finalement abandonné en mai 2023. Il s’agit cependant d’un projet muséal novateur, entre libre pensée et créativité, interrogeant par sa nature même l’utilisation du numérique dans la transmission de savoirs. Ainsi, une mini-exposition de préfiguration du projet est présentée le 22 août 2020, pour le centenaire de la naissance de l’écrivain (Pesquer, janvier 2021).
                         </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/2HTFSARW</idno>
@@ -942,7 +932,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Installation topographique au M + museum</eventName>
                     <date when="2021">2021</date>
                     <description>
-                        <p>Conçue pour le M+ museum de Hong Kong, cette installation se base sur une impression 3D de l’oeuvre <title>Work</title> de l’artiste Yamazaki Tsuruko qui date de 1967. Les visiteurs, en plaçant et en déplaçant leurs mains sur différentes parties de la peinture désormais en 3 dimensions, étaient en mesure de produire une carte sonore. Il s’agit d’une expérience multisensorielle mobilisant aussi bien la vue, que l’ouïe et le toucher et conçue par le studio numérique MetaObjects (Pesquer, juillet 2023).
+                        <p>Conçue pour le M+ museum de Hong Kong, cette installation se base sur une impression 3D de l’œuvre <title>Work</title> de l’artiste Yamazaki Tsuruko qui date de 1967. Les visiteurs, en plaçant et en déplaçant leurs mains sur différentes parties de la peinture désormais en trois dimensions, étaient en mesure de produire une carte sonore. Il s’agit d’une expérience multisensorielle mobilisant aussi bien la vue, que l’ouïe et le toucher et conçue par le studio numérique MetaObjects (Pesquer, juillet 2023).
                         </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/8D4MRBJ4</idno>
@@ -951,7 +941,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Parution du Livre Blanc de la Vitamine immersive</eventName>
                     <date when="2021-02-21">21 février 2021</date>
                     <description>
-                        <p>La Vitamine immersive est un projet collaboratif qui réunit l’assureur mutualiste québécois Beneva, l’acteur culturel La Piscine et Oasis inmmersion. L’objectif de cette collaboration est d’explorer l’impact positif et cognitif des arts immersifs, notamment dans l’environnement de travail, mais également dans un contexte culturel immersif. La parution du Livre blanc le 21 février 2023 permet de faire un premier bilan des investigations menées. Les premiers participants ont notamment été exposés à une expérience immersive diffusée dans les galeries d’Oasis Immersion, révélant des pistes prometteuses quant à l’apport de l’expérience aux niveaux émotif et cognitif. Cette publication sera suivie d’une phase dédiée à l’étude de la relation entre immersion et attention (Club Innovation et Culture France, mars 2023).
+                        <p>La Vitamine immersive est un projet collaboratif qui réunit l’assureur mutualiste québécois Beneva, l’acteur culturel La Piscine et Oasis immersion. L’objectif de cette collaboration est d’explorer l’impact positif et cognitif des arts immersifs, notamment dans l’environnement de travail, mais également dans un contexte culturel immersif. La parution du Livre blanc le 21 février 2023 permet de faire un premier bilan des investigations menées. Les premiers participants ont notamment été exposés à une expérience immersive diffusée dans les galeries d’Oasis Immersion, révélant des pistes prometteuses quant à l’apport de l’expérience aux niveaux émotif et cognitif. Cette publication sera suivie d’une phase dédiée à l’étude de la relation entre immersion et attention (Club Innovation et Culture France, mars 2023).
                         </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/LER6S3TT</idno>
@@ -960,7 +950,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Mise en place du Pass Culture</eventName>
                     <date when="2021-05-21">21 mai 2021</date>
                     <description>
-                        <p>Ce dispositif proposé par l’État français vise à favoriser la démocratisation culturelle en proposant notamment à tous les jeunes de 18 ans de disposer d’un crédit de 300 euros, utilisable pendant deux ans par le biais d’une application. L’objectif, au-delà de permettre à ce type de public de bénéficier d’une consommation culturelle facilitée, est également de permettre l’émergence de nouvelles pratiques culturelles. Ce projet résulte également d’un constat quant à la production et la consommation culturelle qui est celui de la multiplication des écrans. Considérés comme à la fois addictif et une source d’opportunités créatives, le numérique revêt plus que jamais une ambivalence au sein de la sphére culturelle (Bachelot-Narquin, 2022).
+                        <p>Ce dispositif proposé par l’État français vise à favoriser la démocratisation culturelle en proposant notamment à tous les jeunes de dix-huit ans de disposer d’un crédit de trois cents euros, utilisable pendant deux ans par le biais d’une application. L’objectif, au-delà de permettre à ce type de public de bénéficier d’une consommation culturelle facilitée, est également de permettre l’émergence de nouvelles pratiques culturelles. Ce projet résulte également d’un constat quant à la production et la consommation culturelle qui est celui de la multiplication des écrans. Considérés comme à la fois addictif et une source d’opportunités créatives, le numérique revêt plus que jamais une ambivalence au sein de la sphère culturelle (Bachelot-Narquin, 2022).
                         </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/RWDMY423</idno>
@@ -977,7 +967,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Expérimentation du Centre des monuments nationaux sur les visites guidées à distance et création du programme <title>CMN Numérique</title></eventName>
                     <date when="2021-12">Décembre 2021</date>
                     <description>
-                        <p>Cette expérimentation est menée par le Centre des monuments nationaux et méne à la création du programme <title>CMN Numérique</title>. Ce dernier s’étale sur 3 ans; de 2022 à 2025 et vise à rationnaliser et à optimiser la création et l’exploitation des représentations numériques des monuments. Il s’agit également d’une étude de ce mode de valorisation patrimoniale et son impact aussi bien auprès du grand public que des professionnels du milieu (CMN, 2021).
+                        <p>Cette expérimentation est menée par le Centre des monuments nationaux et méne à la création du programme <title>CMN Numérique</title>. Ce dernier s’étale sur trois ans ; de 2022 à 2025 et vise à rationaliser et à optimiser la création et l’exploitation des représentations numériques des monuments. Il s’agit également d’une étude de ce mode de valorisation patrimoniale et son impact aussi bien auprès du grand public que des professionnels du milieu (CMN, 2021).
                         </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/BPXYFM8J</idno>
@@ -986,7 +976,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Mise en ligne de l’espace Louvre+</eventName>
                     <date when="2021-12-16">16 décembre 2021</date>
                     <description>
-                        <p>Prolongeant son désir de maintenir le lien avec son public hors-les-murs, le Louvre propose en décembre 2021 un espace comprenant des vidéos, des podccasts ainsi que des visites virtuelles mettant en valeur l’utilisation d’outils numériques innovants. Il s’agit donc d’un espace en ligne pensé pour tous, quelque soit les usages et les attentes (Pham, 2022).
+                        <p>Prolongeant son désir de maintenir le lien avec son public hors-les-murs, le Louvre propose en décembre 2021 un espace comprenant des vidéos, des podcasts ainsi que des visites virtuelles mettant en valeur l’utilisation d’outils numériques innovants. Il s’agit donc d’un espace en ligne pensé pour tous, quelque soit les usages et les attentes (Pham, 2022).
                         </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/5XK3L2CF</idno>
@@ -995,7 +985,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Déploiement en France du dispositif numérique MUSE</eventName>
                     <date when="2022">2022</date>
                     <description>
-                        <p>Porté par le Réseau des Musées Nationaux et du Grand Palais (RMN GP) l’outil MUSE donne accès à des contenus muséaux avec une approche pédagogique. L’objectif de cet outil est de faire du numérique un axe de développement de l’établissement notamment par la production d’expositions numériques et par leur diffusion. Ce dispositif vise également à développer une approche attentive aux publics prioritaires. Dans ce cadre, le numérique apparait comme une opportunité pour toucher de nouveaux publics et faire rayonner l’action muséale (Ministère de la Culture, 2022).</p>
+                        <p>Porté par le Réseau des Musées Nationaux et du Grand Palais (RMN GP) l’outil MUSE donne accès à des contenus muséaux avec une approche pédagogique. L’objectif de cet outil est de faire du numérique un axe de développement de l’établissement notamment par la production d’expositions numériques et par leur diffusion. Ce dispositif vise également à développer une approche attentive aux publics prioritaires. Dans ce cadre, le numérique apparaît comme une opportunité pour toucher de nouveaux publics et faire rayonner l’action muséale (Ministère de la Culture, 2022).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/JNW4BCIS</idno>
                 </event>
@@ -1013,7 +1003,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Le Chau Chak Wing Museum met en service des lunettes pour les visiteurs daltoniens</eventName>
                     <date when="2022-04">Avril 2022</date>
                     <description>
-                        <p>Le musée de l’Université de Sydney ou Chau Chak Wing Museum met à disposition des visiteurs daltoniens depuis avril 2022 des lunettes spéciales leur permettant de découvrir les véritables couleurs des oeuvres exposées (Pesquer, août 2022). Ce projet a été développé en partenariat avec l’entreprise américaine EnChroma et s’inscrit dans une réflexion globale quant à l’inclusion des personnes en situation de handicap au sein de l’espace muséal et au sein de laquelle les nouvelles technologies occupebt un rôle fondamental. 
+                        <p>Le musée de l’Université de Sydney ou Chau Chak Wing Museum met à disposition des visiteurs daltoniens depuis avril 2022 des lunettes spéciales leur permettant de découvrir les véritables couleurs des œuvres exposées (Pesquer, août 2022). Ce projet a été développé en partenariat avec l’entreprise américaine EnChroma et s’inscrit dans une réflexion globale quant à l’inclusion des personnes en situation de handicap au sein de l’espace muséal et au sein de laquelle les nouvelles technologies occupent un rôle fondamental. 
                     </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/AT8W7V88</idno>
@@ -1031,7 +1021,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Lancement de la vente de morceaux de <title>La Ronde de nuit</title> de Rembrandt en NFT</eventName>
                     <date when="2022-10-12">12 octobre 2022</date>
                     <description>
-                        <p> Le mercredi 12 octobre 2022, la Rembrandt Heritage Foundation a mis en vente 8000 fragments numériques de <title>La Ronde de nuit</title>, en collaboration avec la HODL Finance (spécialisée dans la blockchain). L’objectif de cette vente un peu particulière est de réunir des fonds afin de créer une version 2.0 du musée dédié au maître néerlandais. Nommé <title>MetaRembrandt</title>, cette version virtuelle sera ouverte de manière exclusive aux acheteurs. Au-delà de livrer un nouvel exemple de préservation numérique des oeuvres, ce projet fait également entrer l’institution muséale dans le metavers, interrogeant de la même manière son accessibilité dans un monde virtuel (Hakoun, 2022).</p>
+                        <p> Le mercredi 12 octobre 2022, la Rembrandt Heritage Foundation a mis en vente 8 000 fragments numériques de <title>La Ronde de nuit</title>, en collaboration avec la HODL Finance (spécialisée dans la blockchain). L’objectif de cette vente un peu particulière est de réunir des fonds afin de créer une version 2.0 du musée dédié au maître néerlandais. Nommé <title>MetaRembrandt</title>, cette version virtuelle sera ouverte de manière exclusive aux acheteurs. Au-delà de livrer un nouvel exemple de préservation numérique des œuvres, ce projet fait également entrer l’institution muséale dans le métavers, interrogeant de la même manière son accessibilité dans un monde virtuel (Hakoun, 2022).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/UB8CN39J</idno>
                 </event>
@@ -1047,7 +1037,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Déploiement d’une nouvelle application mobile pour le British Museum</eventName>
                     <date when="2023-04">Avril 2023</date>
                     <description>
-                        <p>Mise en ligne au début du mois d’avril 2023, la nouvelle application du British Museum permet aux utilisateurs de découvrir plus de 250 objets de la collection permanente et de les localiser dans les salles du musée. Elle est disponible en 5 langues et comprend également un guide en langue des signes anglaise. Au-delà de ces fonctionnalités, elle accompagne le visiteur en proposant un parcours audioguidé dans certaines galeries avec une fonction de carte interactive. Certaines fonctionnalités sont payantes, ce qui est une pratique assez peu répandue au sein des applications de musées (Club innovation et Culture France, 2023).</p>
+                        <p>Mise en ligne au début du mois d’avril 2023, la nouvelle application du British Museum permet aux utilisateurs de découvrir plus de deux cent cinquante objets de la collection permanente et de les localiser dans les salles du musée. Elle est disponible en cinq langues et comprend également un guide en langue des signes anglaise. Au-delà de ces fonctionnalités, elle accompagne le visiteur en proposant un parcours audioguidé dans certaines galeries avec une fonction de carte interactive. Certaines fonctionnalités sont payantes, ce qui est une pratique assez peu répandue au sein des applications de musées (Club innovation et Culture France, 2023).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/7Y39WVW5</idno>
                 </event>
@@ -1055,7 +1045,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Inauguration d’une exposition dédiée aux NFT au Centre Pompidou</eventName>
                     <date when="2023-04">Avril 2023</date>
                     <description>
-                        <p>Si le Centre Pompidou n’est pas la première institution muséale française à intégrer des NFT dans ses collections, il reste le premier musée national à organiser une exposition de ce genre. C’est à la suite d’un travail de recherche mené par la commission d’acquisition du Musée national d’art moderne que les jetons non fongiles ou NFT sont sélectionnés et intégrés aux collections du musée. L’exposition se déroule dans deux salles du musée et présente 18 oeuvres jusqu’en janvier 2024 (Jardonnet, 2023).</p>
+                        <p>Si le Centre Pompidou n’est pas la première institution muséale française à intégrer des NFT dans ses collections, il reste le premier musée national à organiser une exposition de ce genre. C’est à la suite d’un travail de recherche mené par la commission d’acquisition du Musée national d’art moderne que les jetons non fongibles ou NFT sont sélectionnés et intégrés aux collections du musée. L’exposition se déroule dans deux salles du musée et présente dix-huit œuvres jusqu’en janvier 2024 (Jardonnet, 2023).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/PEWVPZ2G</idno>
                 </event>
@@ -1063,7 +1053,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Ouverture de l’Open Museum</eventName>
                     <date when="2021-04-13">13 avril 2023</date>
                     <description>
-                        <p>Le palais des Beaux-Arts de Lille inaugure le 13 avril 2023 la 8e édition du rendez-vous <title>Open Museum</title> dédiée au jeu vidéo. Cet événement est alors l’occasion d’instaurer un dialogue entre des oeuvres <soCalled>classiques</soCalled> et des créations des studios Ankama et Spiders (S. CH, 2023).</p>
+                        <p>Le palais des Beaux-Arts de Lille inaugure le 13 avril 2023 la huitième édition du rendez-vous <title>Open Museum</title> dédiée au jeu vidéo. Cet événement est alors l’occasion d’instaurer un dialogue entre des œuvres <soCalled>classiques</soCalled> et des créations des studios Ankama et Spiders (S. CH, 2023).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/3WLHIPIP</idno>
                 </event>
@@ -1071,7 +1061,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Une exposition temporaire immersive au Mémorial de Verdun</eventName>
                     <date from="2023-05-25" to="2024-04-28">Du 25 mai 2023 au 28 avril 2024</date>
                     <description>
-                        <p>L’exposition <title>Destins de Verdun</title> propose un parcours immersif entre créations audiovisuelles et dispositifs numériques. Elle invite les publics à découvrir les parcours de 20 personnes impliquées dans la bataille de Verdun à travers des supports textuels et sonores. Dans ce cadre, des personnalités et des comédien.ne.s ont prêté.es leurs voix pour donner une nouvelle dimension à ces témoignages. Si cette adoption de dispositifs immersifs est dans l’ère du temps, elle est ici au service de l’exploration d’un épisode douloureux et traumatique de l’histoire (Mémorial de Verdun).</p>
+                        <p>L’exposition <title>Destins de Verdun</title> propose un parcours immersif entre créations audiovisuelles et dispositifs numériques. Elle invite les publics à découvrir les parcours de 20 personnes impliquées dans la bataille de Verdun à travers des supports textuels et sonores. Dans ce cadre, des personnalités et des comédien·ne·s ont prêté·es leurs voix pour donner une nouvelle dimension à ces témoignages. Si cette adoption de dispositifs immersifs est dans l’ère du temps, elle est ici au service de l’exploration d’un épisode douloureux et traumatique de l’histoire (Mémorial de Verdun).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/JAQYRY47</idno>
                 </event>
@@ -1079,16 +1069,16 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Mise en place du premier abonnement numérique dans un musée</eventName>
                     <date when="2023-06-03">3 juin 2023</date>
                     <description>
-                        <p>Le Mucem est le premier a proposer un abonnement à un musée totalement numérique à ses visiteurs. Nommé Mucem+, ce projet consiste en un abonnement sur mobile illimité, renouvelable automatiquement et avec prélèvement mensuel. L’application est lancée le 3 juin 2023 à l’occasion du 10e anniversaire du Mucem et propose différentes formules à partir de 3 euros par mois. Elle permet notamment aux visiteurs de profiter d’offres exclusives autour de la programmation culturelle du musée, avec comme ambition pour ce dernier de créer une communauté (Club Innovation et Culture France, mai 2023).
+                        <p>Le Mucem est le premier a proposer un abonnement à un musée totalement numérique à ses visiteurs. Nommé Mucem+, ce projet consiste en un abonnement sur mobile illimité, renouvelable automatiquement et avec prélèvement mensuel. L’application est lancée le 3 juin 2023 à l’occasion du dixième anniversaire du Mucem et propose différentes formules à partir de 3 euros par mois. Elle permet notamment aux visiteurs de profiter d’offres exclusives autour de la programmation culturelle du musée, avec comme ambition pour ce dernier de créer une communauté (Club Innovation et Culture France, mai 2023).
                         </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/7BZYG2KX</idno>
                 </event>
                 <event>
-                    <eventName>Le Château de Chantilly associe chef d’oeuvres et expériences numériques</eventName>
+                    <eventName>Le Château de Chantilly associe chef d’œuvres et expériences numériques</eventName>
                     <date from="2023-06-03" to="2023-10-1">Du 3 juin au 1er octobre 2023</date>
                     <description>
-                        <p>Dans le cadre d’une exposition dédiée à Jean-Auguste-Dominique Ingres, le Château de Chantilly propose une série d’expériences numériques, in situ mais également en ligne. Des numérisations en très haute résolution par la société Artmyn permettent de dévoiler aux visiteurs des éléments invisible à l’oeil nu. Des écrans interactifs sont également disponibles dans les salles, les visiteurs pouvant manipuler les tableaux. des vidéos immersives sont également disponibles, toujours dans le but de dévoiler les secrets des ces oeuvres. Le site propose un e-catalogue composé des tableaux numérisés et permet également d’accéder aux supports numériques présentés in situ (Club innovation et culture, juin 2023). </p>
+                        <p>Dans le cadre d’une exposition dédiée à Jean-Auguste-Dominique Ingres, le Château de Chantilly propose une série d’expériences numériques, in situ mais également en ligne. Des numérisations en très haute résolution par la société Artmyn permettent de dévoiler aux visiteurs des éléments invisible à l’œil nu. Des écrans interactifs sont également disponibles dans les salles, les visiteurs pouvant manipuler les tableaux. des vidéos immersives sont également disponibles, toujours dans le but de dévoiler les secrets des ces œuvres. Le site propose un e-catalogue composé des tableaux numérisés et permet également d’accéder aux supports numériques présentés in situ (Club innovation et culture, juin 2023). </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/VY8ZR9MH</idno>
                 </event>
@@ -1096,7 +1086,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Le musée des sciences de Stockholm présente une statue créée par l’intelligence artificielle</eventName>
                     <date when="2023-06-08">8 juin 2023</date>
                     <description>
-                        <p>Intitulée <title>La Statue Impossible</title>, cette sculpture s’inspire des caractèristiques de 5 maîtres : Michel-Ange, Auguste Rodin, Käthe Kollwitz, Takamura Kotaro, Augusta Savage. Cette création est le résultat d’une collaboration entre le musée, The AI Framework et le groupe Sandvik, société suédoise d’inténierie spécialisée dans la découpe des métaux. L’intelligence artificielle formée par Sandvik a été alimenté d’images de sculptures créées par les cinq artistes afin de proposer un modèle en 2D ensuite converti en 3D avec l’aide de plusieurs logiciels. La statue a intégré les collections permanentes du Musée national des sciences et de la technologie de Stockholm (Club innovation et culture, 19 juin 2023).
+                        <p>Intitulée <title>La Statue Impossible</title>, cette sculpture s’inspire des caractéristiques de cinq maîtres : Michel-Ange, Auguste Rodin, Käthe Kollwitz, Takamura Kotaro, Augusta Savage. Cette création est le résultat d’une collaboration entre le musée, The AI Framework et le groupe Sandvik, société suédoise d’ingénierie spécialisée dans la découpe des métaux. L’intelligence artificielle formée par Sandvik a été alimenté d’images de sculptures créées par les cinq artistes afin de proposer un modèle en 2D ensuite converti en 3D avec l’aide de plusieurs logiciels. La statue a intégré les collections permanentes du Musée national des sciences et de la technologie de Stockholm (Club innovation et culture, 19 juin 2023).
                         </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/DCLEDSGL</idno>
@@ -1113,7 +1103,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Le Smithsonian American Art Museum publie des bandes dessinées numériques</eventName>
                     <date when="2023-09">Septembre 2023</date>
                     <description>
-                        <p>C’est dans le cadre d’une mise en valeur d’histoires de femmes artistes que le Smithsonian American Art Museum de Washington a publié 10 mini bandes dessinées sur le sujet. Ces bandes dessinées numériques ont été dessiné par des étudiant.e.s en illustration du Ringling College of Art and Design. Il s’agit d’une nouvelle façon de mettre en lumière les collections d’un musée et de les partager numériquement(Pesquer, novembre 2023).</p>
+                        <p>C’est dans le cadre d’une mise en valeur d’histoires de femmes artistes que le Smithsonian American Art Museum de Washington a publié dix mini bandes dessinées sur le sujet. Ces bandes dessinées numériques ont été dessiné par des étudiant·e·s en illustration du Ringling College of Art and Design. Il s’agit d’une nouvelle façon de mettre en lumière les collections d’un musée et de les partager numériquement(Pesquer, novembre 2023).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/HB7RM8T8</idno>
                 </event>
@@ -1148,7 +1138,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Le British Museum demande de l’aide pour retrouver des objets volés de sa collection par le biais de son site Internet</eventName>
                     <date when="2023-09-26">26 septembre 2023</date>
                     <description>
-                        <p>Dans un communiqué publié le 26 septembre 2023, le British Museum annonce une série de mesures en réponse au vol d’environ 2000 objets de sa collection révélé quelques semaines plus tôt. Parmi ces mesures, lq création d’une page Web dédiée au recensement d’une partie de ces objets est annoncée. Cette page livre des éléments sur les pertes à déplorer, des descriptions de certains objets disparus et permet aux publics de venir en aide au musée pour les retrouver et les restituer. S’il s’agit d’une situation exceptionnelle n’hésitant une réaction exceptionnelle, il reste intéressant de noter que le site Internet d’une musée permet d’instaurer un lien d’une nouvelle nature avec les publics et de les inclure dans le processus de conservation des oeuvres, de devenir acteurs de l’institution (Club innovation et culture, 28 septembre 2023).
+                        <p>Dans un communiqué publié le 26 septembre 2023, le British Museum annonce une série de mesures en réponse au vol d’environ 2 000 objets de sa collection révélé quelques semaines plus tôt. Parmi ces mesures, la création d’une page Web dédiée au recensement d’une partie de ces objets est annoncée. Cette page livre des éléments sur les pertes à déplorer, des descriptions de certains objets disparus et permet aux publics de venir en aide au musée pour les retrouver et les restituer. S’il s’agit d’une situation exceptionnelle n’hésitant une réaction exceptionnelle, il reste intéressant de noter que le site Internet d’une musée permet d’instaurer un lien d’une nouvelle nature avec les publics et de les inclure dans le processus de conservation des œuvres, de devenir acteurs de l’institution (Club innovation et culture, 28 septembre 2023).
                         </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/245HC824</idno>
@@ -1165,7 +1155,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>L’Unesco confirme la participation financière de l’Arabie Saoudite à un projet de création de musée virtuel consacré aux objets pillés</eventName>
                     <date when="2023-10-03">3 octobre 2023</date>
                     <description>
-                        <p>Annoncé en septembre 2022, ce projet de musée consacré aux objets culturels volés est imaginé par l’Unesco et se base sur la liste d’oeuvres d’Interpol, l’organisation policière internationale. C’est lors d’une réunion d’information organisée le 3 octobre 2023 que le lancement de la version initiale de cette expérience numérique est annoncé avant la fin de 2025, grâce au soutien de l’Arabie Saoudite. L’objectif est double : donner accès à ces oeuvres volées et contribuer à leur récupération. Au-delà de l’expérience numérique qu’il proposera, il permettra également de sensibiliser le public au trafic illicite et à l’importance de la protection du patrimoine culturel (Unesco, 3 octobre 2023). L’architecte Francis Kéré est choisit pour réaliser l’architecture du musée virtuel (Agathe Hakoun, 11 octobre 2023). </p>
+                        <p>Annoncé en septembre 2022, ce projet de musée consacré aux objets culturels volés est imaginé par l’Unesco et se base sur la liste d’œuvres d’Interpol, l’organisation policière internationale. C’est lors d’une réunion d’information organisée le 3 octobre 2023 que le lancement de la version initiale de cette expérience numérique est annoncé avant la fin de 2025, grâce au soutien de l’Arabie Saoudite. L’objectif est double : donner accès à ces œuvres volées et contribuer à leur récupération. Au-delà de l’expérience numérique qu’il proposera, il permettra également de sensibiliser le public au trafic illicite et à l’importance de la protection du patrimoine culturel (Unesco, 3 octobre 2023). L’architecte Francis Kéré est choisit pour réaliser l’architecture du musée virtuel (Agathe Hakoun, 11 octobre 2023). </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/LQGBWBWX</idno>
                 </event>
@@ -1181,7 +1171,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>L’Université de Glasgow annonce un projet de plateforme des musées en réalité virtuelle</eventName>
                     <date when="2023-10-12">12 octobre 2023</date>
                     <description>
-                        <p>Intitulé <title>Museums in the Metaverse</title>, ce projet vise à créer des environnements de réalité virtuelle et mixte pouvant inclure des objets numérisés en 3D. Le projet s’adresse au grand public, qui pourra accéder aux collections des musées par le biais d’une expérience immersive. Il se veut également un outil pour les conservateurs virtuels, qui pourront enrichir le contenu autour des oeuvres ainsi que leur mise en abîme dans des environnements virtuels (University of Glasgow, 12 octobre 2023). </p>
+                        <p>Intitulé <title>Museums in the Metaverse</title>, ce projet vise à créer des environnements de réalité virtuelle et mixte pouvant inclure des objets numérisés en 3D. Le projet s’adresse au grand public, qui pourra accéder aux collections des musées par le biais d’une expérience immersive. Il se veut également un outil pour les conservateurs virtuels, qui pourront enrichir le contenu autour des œuvres ainsi que leur mise en abîme dans des environnements virtuels (University of Glasgow, 12 octobre 2023). </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/YTDN8GY9</idno>
                 </event>
@@ -1198,7 +1188,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Le British Museum présente son programme de numérisation de ses collections</eventName>
                     <date when="2023-10-18">18 octobre 2023</date>
                     <description>
-                        <p>L’institution britannique présente le 18 octobre 2023 son programme de numérisation et de documentation de l’intégralité de ses collections. Ce programme s’étend sur 5 ans et vise à accroître l’accès à la collection. Si les objets numérisés seront disponibles en ligne, ils seront également accessibles au sein des salles d’étude du Musée, accessibles aux publics sur rendez-vous.  (Club innovation et culture, 19 octobre 2023)</p>
+                        <p>L’institution britannique présente le 18 octobre 2023 son programme de numérisation et de documentation de l’intégralité de ses collections. Ce programme s’étend sur cinq ans et vise à accroître l’accès à la collection. Si les objets numérisés seront disponibles en ligne, ils seront également accessibles au sein des salles d’étude du Musée, accessibles aux publics sur rendez-vous.  (Club innovation et culture, 19 octobre 2023)</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/E8K49NAN</idno>
                 </event>
@@ -1206,7 +1196,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Mise en place du dispositif <title>Egypte augmentée</title> au musée du Louvre</eventName>
                     <date when="2023-10-18">18 octobre 2023</date>
                     <description>
-                        <p>Le Louvre propose à partir du 18 octobre 2023 un parcours en réalité augmentée de ses collections du département des Antiquités égyptiennes. Grâce à la technologie du studio de RA de Snapchat, les visiteurs peuvent placer leurs téléphones portables devant les oeuvres pour découvrir les formes, les matières et les couleurs disparus avec le temps. Ce parcours de visite interactif va au-delà d’une mise en valeur des collections du musée puisqu’il intégre également un regard nouveau sur l’obélisque de la Concorde. Désormais, les utilisateurs du dispositif peuvent le découvrir virtuellement dans la cour Carrée du musée du Louvre, selon la vision de Jean-François Champollion (Louvre, 2023).</p>
+                        <p>Le Louvre propose à partir du 18 octobre 2023 un parcours en réalité augmentée de ses collections du département des Antiquités égyptiennes. Grâce à la technologie du studio de RA de Snapchat, les visiteurs peuvent placer leurs téléphones portables devant les œuvres pour découvrir les formes, les matières et les couleurs disparus avec le temps. Ce parcours de visite interactif va au-delà d’une mise en valeur des collections du musée puisqu’il intégre également un regard nouveau sur l’obélisque de la Concorde. Désormais, les utilisateurs du dispositif peuvent le découvrir virtuellement dans la cour Carrée du musée du Louvre, selon la vision de Jean-François Champollion (Louvre, 2023).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/YLUATKKS</idno>
                 </event>
@@ -1222,7 +1212,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Une exposition immersive sur <title>Le monde des insectes</title> à Soho</eventName>
                     <date from="2023-11-29" to="2024-11">Du 29 novembre 2023 à novembre 2024</date>
                     <description>
-                        <p>C’est au sein d’un nouvel espace d’exposition newyorkais intitulé Imaginari qu’est présenté <title>Le monde des insectes</title> pour une durée d’un an, à partir de la fin novembre 2023. Combinant une présentation muséale classique à des dispositifs interactifs, cette exposition se présente comme une nouvelle expérience immersive, entre art et science. Au-delà des dispositifs numériques et des supports de médiation traditionnel, l’exposition accueille également des oeuvres d’artistes internationaux, également présentées par le Victoria and Albert Museum de Londres et le Centre Pompidou de Paris. Cet événement voit donc la naissance d’un nouvel espace conjuguant l’éducation muséale au divertissement (Club Innovation et Culture, 8 novembre 2023). </p>
+                        <p>C’est au sein d’un nouvel espace d’exposition newyorkais intitulé Imaginari qu’est présenté <title>Le monde des insectes</title> pour une durée d’un an, à partir de la fin novembre 2023. Combinant une présentation muséale classique à des dispositifs interactifs, cette exposition se présente comme une nouvelle expérience immersive, entre art et science. Au-delà des dispositifs numériques et des supports de médiation traditionnel, l’exposition accueille également des œuvres d’artistes internationaux, également présentées par le Victoria and Albert Museum de Londres et le Centre Pompidou de Paris. Cet événement voit donc la naissance d’un nouvel espace conjuguant l’éducation muséale au divertissement (Club Innovation et Culture, 8 novembre 2023). </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/ZXRH6FS2</idno>
                     <p/>
@@ -1231,7 +1221,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Le château d’Azay-le-Rideau dévoile un premier prototype d’escape game numérique</eventName>
                     <date when="2023-12">Décembre 2023</date>
                     <description>
-                        <p>Développé en partenariat avec MIRA, le Centre des monuments nationaux dévoile en décembre 2023 les premières images de son espace game numérique du château d’Azay-le-Rideau. Développé dans le cadre du programme <title>CMN Numérique</title>, ce dispositif est une expérience immersive accessible sur smartphone, ordinateur et par le biais de casque de réalité virtuelle. Le jeu s’adresse principalement à un public entre 15 et 30 ans et se base sur la collaboration et l’échange entre les joueurs. Des premiers tests sont effectués avec des jeunes du Pass Culture et des étudiants de l’Université d’Angers (Centre des monuments nationaux, décembre 2023).
+                        <p>Développé en partenariat avec MIRA, le Centre des monuments nationaux dévoile en décembre 2023 les premières images de son espace game numérique du château d’Azay-le-Rideau. Développé dans le cadre du programme <title>CMN Numérique</title>, ce dispositif est une expérience immersive accessible sur smartphone, ordinateur et par le biais de casque de réalité virtuelle. Le jeu s’adresse principalement à un public entre quinze et trente ans et se base sur la collaboration et l’échange entre les joueurs. Des premiers tests sont effectués avec des jeunes du Pass Culture et des étudiants de l’Université d’Angers (Centre des monuments nationaux, décembre 2023).
                         </p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/W8SDYWUA</idno>
@@ -1249,13 +1239,13 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Les archives de la ville de Québec dévoile une exposition participative accessible en ligne</eventName>
                     <date when="2024"/>
                     <description>
-                        <p>C’est à l’occasion du centenaire de ses archives que la ville de Québec a souhaité mettre en valeur son histoire locale à travers une exposition composée de plus de 1000 images. Accessible en ligne, cette exposition invite les internautes à participer au projet en alimentant la base de données avec de nouvelles photos permettant de souligner les 8 grandes étapes de l’histoire de la ville de Québec, depuis l’époque précoloniale jusqu’à aujourd’hui. La plateforme en ligne le Chronoscope permet de catégoriser, d’identifier, de dater, de situer et de commenter chaque image (2024, Ville de Québec).</p>
+                        <p>C’est à l’occasion du centenaire de ses archives que la ville de Québec a souhaité mettre en valeur son histoire locale à travers une exposition composée de plus de 1 000 images. Accessible en ligne, cette exposition invite les internautes à participer au projet en alimentant la base de données avec de nouvelles photos permettant de souligner les huit grandes étapes de l’histoire de la ville de Québec, depuis l’époque précoloniale jusqu’à aujourd’hui. La plateforme en ligne le Chronoscope permet de catégoriser, d’identifier, de dater, de situer et de commenter chaque image (2024, Ville de Québec).</p>
                         <idno>zotero://select/groups/4804195/items/38YBIP8W</idno>
                     </description>
                     <p/>
                 </event>
                 <event>
-                    <eventName>Utilisation de la réalité augmentée pour l’exposition Fashioning San Francisco : A Century of Style au De Young Museum</eventName>
+                    <eventName>Utilisation de la réalité augmentée pour l’exposition <title>Fashioning San Francisco: A Century of Style</title> au De Young Museum</eventName>
                     <date from="2024-01-20" to="2024-08-11">Du 20 janvier au 11 août 2024</date>
                     <description>
                         <p>L’exposition <title>Fashioning San Francisco: A Century of Style</title> permet aux visiteurs de porter les vêtements historiques exposés virtuellement grâce à une expérience en réalité augmentée. Proposée en partenariat avec le groupe Snap Inc, cette expérience affirme encore un peu plus le rôle que peuvent jouer les miroirs de réalité augmentée de Snapchat dans le milieu muséal. Les visiteurs peuvent partager leur expérience de visite sur les réseaux sociaux, le dispositif permettant de développer un propos qui sert l’exposition mais également l’institution en elle-même en lui offrant une visibilité nouvelle (De Young Museum, 2024).</p>
