@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
-
+<?xml-model href="./documentation/out/chronologie.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<!-- @todo ajouter les œuvres d’art web expositionnelles citées par Karine Leonard Bouillet dans sa thèse -->
+    <!-- @todo ajouter les œuvres d’art web expositionnelles citées par Karine Leonard Bouillet dans sa thèse -->
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -29,7 +29,7 @@
             <div>
                 <head>Présentation</head>
                 <p>Cette chronologie de la muséologie numérique couvre la période 1960 à nos jours. Elle a été établie à partir de recherches menées dans plusieurs sources afin d’identifier des moments jalons de la muséologie numérique. La liste des événements présentés n’est donc pas exhaustive, ceux qui y figurent ont été sélectionnés en raison de leur caractère inédit ou novateur ou de leurs retombées ultérieures. Le domaine muséologique est compris de manière étendue pour inclure l’ensemble des réalisations culturelles qui s’approprient les moyens numériques. Bien sûr, certains projets n’ont parfois pas connus de réelle postérité mais ils représentaient à l’époque de leur réalisation une innovation importante. La chronologie comprend une périodisation historique et des repères chronologiques contextuels.</p>
-            <!--
+                <!--
                 <!-\- exemple lien image -\->
                 <figure corresp="zotero://select/groups/4804195/items/N5FMDQR2"/>
                 <!-\- exemple lien citation -\->
@@ -61,6 +61,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                 <bibl copy-of="Chateau_2021"/>
             </listBibl>
             -->
+            <!-- @todo La tenue sous les auspices de l’ONU d’un Sommet mondial sur la société de l’information (WSIS) en 2003-2005 a consacré et imposé une formule dont les analystes avaient largement montré le caractère insensé (toutes les sociétés sont des sociétés de l’information), entraînant une confusion permanente des enjeux techniques, économiques, sociaux et culturels -->
             <listEvent>
                 <head>Repères historiques</head>
                 <event type="point">
@@ -758,7 +759,9 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                     <eventName>Début du projet Bretez</eventName>
                     <date when="2017"/>
                     <description>
-                        <p>Ce projet de valorisation patrimoniale tente de reconstituer l’ambiance sonore du quartier du Grand Châtelet à Paris au XVIII<hi rend="sup">e</hi> siècle. Pour cela, une approche interdisciplinaire est adoptée, le projet associant des historiens à des spécialiste 3D. Au-delà de l’approche novatrice du patrimoine que ce dispositif propose, il s’agit également d’un exemple d’utilisation de données numériques au service de la recherche en sciences humaines et de la médiation culturelle (Deramond, 2021).</p>
+                        <p>Ce projet de valorisation patrimoniale tente de reconstituer l’ambiance sonore du quartier du Grand Châtelet à Paris au XVIII<hi
+                            rend="sup"
+                            >e</hi> siècle. Pour cela, une approche interdisciplinaire est adoptée, le projet associant des historiens à des spécialiste 3D. Au-delà de l’approche novatrice du patrimoine que ce dispositif propose, il s’agit également d’un exemple d’utilisation de données numériques au service de la recherche en sciences humaines et de la médiation culturelle (Deramond, 2021).</p>
                     </description>
                     <idno>zotero://select/groups/4804195/items/5646LU7Y</idno>
                 </event>
@@ -1336,6 +1339,7 @@ Van Bree, Pim, et Geert Kessels. 2015. « Chronology Statements for nodegoat: a
                         <p>http://cybermuse.gallery.ca</p>
                     </description>
                 </event>
+
             </listEvent>
             <!-- divers
             The Best of the Web, http://botw.org/1994/awards/media.html-->

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Personnalisation de la TEI pour le traitement de chronologies</title>
+        <author>
+          <persName>
+            <forename>Emmanuel</forename>
+            <surname>Château-Dutier</surname>
+          </persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Ouvroir d’histoire de l’art et de muséologie numérique</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <head>Personnalisation de la TEI pour la saisie d’informations chronologiques</head>
+      <p>Avec son module <ident>namesdate</ident>, la TEI propose un modèle relativement riche pour la documentation d’événements. Cependant certaines fonctionnalités sont trop restreintes pour permettre une certaine flexibilité de saisie malgré des améliorations apportées récemment par exemple avec la création d’un élément <gi>eventName</gi>.</p>
+      <p>La personnalisation proposée rend disponible l’élément <gi>date</gi> comme sous-élément de <gi>event</gi> ainsi qu’un autre élément pour la catégorisation.</p>
+      <p>On a ajouté une classification des types d’événements pour permettre une représentation correspondant à...</p>
+    </front>
+    <body>
+      <schemaSpec ident="chronology" start="TEI">
+
+        <moduleRef key="tei"/>
+
+        <!-- Classes issues de l’infrastructure TEI -->
+        <classRef key="att.cReferencing"/>
+        <classRef key="att.canonical"/>
+        <classRef key="att.citing"/>
+        <!--<classRef key="att.damaged"/>-->
+        <classRef key="att.datable.w3c"/>
+        <!-- @todo restreindre -->
+        <!--<classRef key="att.dimensions"/>-->
+        <classRef key="att.docStatus"/>
+        <classRef key="att.global"/>
+        <classRef key="att.global.rendition"/>
+        <!-- @todo restreindre -->
+        <!--<classRef key="att.global.responsibility"/>-->
+        <!--<classRef key="att.global.responsibility"/>-->
+        <!--<classRef key="att.global.source"/>-->
+        <!--<classRef key="att.handFeatures"/>-->
+        <classRef key="att.internetMedia"/>
+        <classRef key="att.interpLike"/>
+        <!-- @todo restreindre -->
+        <!--<classRef key="att.measurement"/>-->
+        <classRef key="att.media"/>
+        <!--<classRef key="att.naming"/>-->
+        <classRef key="att.personal"/>
+        <!-- @todo restreindre -->
+        <!--<classRef key="att.placement"/>-->
+        <classRef key="att.pointing"/>
+        <!-- @todo restreindre -->
+        <classRef key="att.resourced"/>
+        <!--<classRef key="att.scoping"/>-->
+        <!--<classRef key="att.spanning"/>-->
+        <classRef key="att.styleDef"/>
+        <classRef key="att.typed"/>
+        <!--<classRef key="att.written"/>-->
+
+        <classRef key="model.addrPart"/>
+        <classRef key="model.addressLike"/>
+        <!--<classRef key="model.annotationLike"/>-->
+        <!--   <classRef key="model.annotationPart.body"/>-->
+        <classRef key="model.attributable"/>
+        <classRef key="model.availabilityPart"/>
+        <classRef key="model.biblLike"/>
+        <classRef key="model.biblPart"/>
+        <!--<classRef key="model.castItemPart"/>-->
+        <classRef key="model.catDescPart"/>
+        <!--<classRef key="model.certLike"/>-->
+        <!--<classRef key="model.choicePart"/>-->
+        <classRef key="model.common"/>
+        <!--<classRef key="model.correspActionPart"/>-->
+        <!--<classRef key="model.correspContextPart"/>-->
+        <!--<classRef key="model.correspDescPart"/>-->
+        <classRef key="model.dateLike"/>
+        <classRef key="model.descLike"/>
+        <classRef key="model.describedResource"/>
+        <!--<classRef key="model.dimLike"/>-->
+        <classRef key="model.divBottom"/>
+        <classRef key="model.divBottomPart"/>
+        <classRef key="model.divGenLike"/>
+        <classRef key="model.divLike"/>
+        <classRef key="model.divPart"/>
+        <classRef key="model.divTop"/>
+        <classRef key="model.divTopPart"/>
+        <classRef key="model.divWrapper"/>
+        <classRef key="model.editorialDeclPart"/>
+        <classRef key="model.egLike"/>
+        <classRef key="model.emphLike"/>
+        <classRef key="model.encodingDescPart"/>
+        <!--<classRef key="model.entryPart"/>-->
+        <!--<classRef key="model.entryPart.top"/>-->
+        <classRef key="model.eventLike"/>
+        <classRef key="model.frontPart"/>
+        <!--<classRef key="model.frontPart.drama"/>-->
+        <!--<classRef key="model.gLike"/>-->
+        <classRef key="model.global"/>
+        <!--<classRef key="model.global.edit"/>-->
+        <!--<classRef key="model.global.meta"/>-->
+        <classRef key="model.graphicLike"/>
+        <classRef key="model.headLike"/>
+        <classRef key="model.hiLike"/>
+        <classRef key="model.highlighted"/>
+        <classRef key="model.identSynonyms"/>
+        <classRef key="model.imprintPart"/>
+        <classRef key="model.inter"/>
+        <classRef key="model.labelLike"/>
+        <classRef key="model.limitedPhrase"/>
+        <classRef key="model.listLike"/>
+        <!--<classRef key="model.measureLike"/>-->
+        <classRef key="model.milestoneLike"/>
+        <classRef key="model.msItemPart"/>
+        <!--<classRef key="model.msQuoteLike"/>-->
+        <classRef key="model.nameLike"/>
+        <classRef key="model.nameLike.agent"/>
+        <classRef key="model.noteLike"/>
+        <classRef key="model.objectLike"/>
+        <classRef key="model.offsetLike"/>
+        <classRef key="model.orgPart"/>
+        <classRef key="model.orgStateLike"/>
+        <classRef key="model.pLike"/>
+        <classRef key="model.pLike.front"/>
+        <classRef key="model.pPart.data"/>
+        <classRef key="model.pPart.edit"/>
+        <!--<classRef key="model.pPart.editorial"/>-->
+        <!--<classRef key="model.pPart.msdesc"/>-->
+        <!--<classRef key="model.pPart.transcriptional"/>-->
+        <classRef key="model.paraPart"/>
+        <classRef key="model.persStateLike"/>
+        <classRef key="model.personLike"/>
+        <classRef key="model.personPart"/>
+        <classRef key="model.phrase"/>
+        <classRef key="model.phrase.xml"/>
+        <classRef key="model.placeLike"/>
+        <classRef key="model.placeNamePart"/>
+        <classRef key="model.placeStateLike"/>
+        <classRef key="model.profileDescPart"/>
+        <!-- @todo modifier -->
+        <classRef key="model.ptrLike"/>
+        <classRef key="model.publicationStmtPart.agency"/>
+        <classRef key="model.publicationStmtPart.detail"/>
+        <classRef key="model.quoteLike"/>
+        <classRef key="model.resource"/>
+        <classRef key="model.respLike"/>
+        <classRef key="model.segLike"/>
+        <classRef key="model.sourceDescPart"/>
+        <!--<classRef key="model.stageLike"/>-->
+        <!--<classRef key="model.standOffPart"/>-->
+        <classRef key="model.teiHeaderPart"/>
+        <classRef key="model.textDescPart"/>
+        <!--<classRef key="model.titlepagePart"/>-->
+
+        <!-- Macro issues de l’infrastructure TEI -->
+        <macroRef key="macro.abContent"/>
+        <macroRef key="macro.limitedContent"/>
+        <macroRef key="macro.paraContent"/>
+        <macroRef key="macro.phraseSeq"/>
+        <macroRef key="macro.phraseSeq.limited"/>
+        <macroRef key="macro.specialPara"/>
+        <macroRef key="macro.xtext"/>
+        <macroRef key="teidata.authority"/>
+        <macroRef key="teidata.certainty"/>
+        <macroRef key="teidata.count"/>
+        <macroRef key="teidata.duration.w3c"/>
+        <macroRef key="teidata.enumerated"/>
+        <macroRef key="teidata.gender"/>
+        <macroRef key="teidata.interval"/>
+        <macroRef key="teidata.name"/>
+        <macroRef key="teidata.name"/>
+        <macroRef key="teidata.namespace"/>
+        <macroRef key="teidata.namespaceOrName"/>
+        <macroRef key="teidata.nullOrName"/>
+        <macroRef key="teidata.numeric"/>
+        <macroRef key="teidata.outputMeasurement"/>
+        <macroRef key="teidata.pattern"/>
+        <macroRef key="teidata.point"/>
+        <macroRef key="teidata.pointer"/>
+        <macroRef key="teidata.prefix"/>
+        <macroRef key="teidata.probCert"/>
+        <macroRef key="teidata.probability"/>
+        <macroRef key="teidata.replacement"/>
+        <macroRef key="teidata.sex"/>
+        <macroRef key="teidata.temporal.w3c"/>
+        <macroRef key="teidata.temporal.working"/>
+        <macroRef key="teidata.text"/>
+        <macroRef key="teidata.truthValue"/>
+        <macroRef key="teidata.unboundedCount"/>
+        <macroRef key="teidata.version"/>
+        <macroRef key="teidata.versionNumber"/>
+        <macroRef key="teidata.word"/>
+        <macroRef key="teidata.xTruthValue"/>
+        <macroRef key="teidata.xmlName"/>
+        <macroRef key="teidata.xpath"/>
+
+
+        <moduleRef key="core"
+          include="abbr addrLine address analytic author bibl biblScope biblStruct binaryObject cit citedRange date desc divGen editor email emph foreign gap graphic head hi imprint item label list listBibl media meeting monogr note noteGrp num p postBox postCode ptr pubPlace publisher q quote ref resp respStmt rs said series sic soCalled street term textLang title"/>
+
+        <classRef key="att.milestoneUnit"/>
+
+        <moduleRef key="textstructure"
+          include=" TEI argument back body dateline div epigraph front text"/>
+
+        <moduleRef key="header"
+          include="abstract appInfo authority availability cRefPattern catDesc catRef category change citeData citeStructure classCode classDecl conversion correction correspAction correspContext correspDesc creation distributor edition editionStmt editorialDecl encodingDesc extent fileDesc funder geoDecl hyphenation idno interpretation keywords langUsage language licence listChange listPrefixDef namespace normalization notesStmt prefixDef principal profileDesc projectDesc publicationStmt punctuation quotation refState refsDecl rendition revisionDesc samplingDecl schemaRef segmentation seriesStmt sourceDesc sponsor stdVals styleDefDecl tagsDecl taxonomy teiHeader textClass titleStmt unitDecl unitDef xenoData"/>
+
+        <classRef key="att.citeStructurePart"/>
+        <classRef key="att.patternReplacement"/>
+
+        <moduleRef key="namesdate"
+          include="affiliation birth country event eventName forename gender listEvent listPerson listPlace listRelation orgName person persName placeName sex surname"/>
+
+        <classRef key="att.datable.custom"/>
+        <classRef key="att.datable.iso"/>
+        <classRef key="model.persNamePart"/>
+
+        <!-- ajout de date à event -->
+        <elementSpec ident="event" mode="change">
+          <content>
+            <sequence>
+              <elementRef key="idno" minOccurs="0" maxOccurs="unbounded"/>
+              <elementRef key="date" minOccurs="0" maxOccurs="unbounded"/>
+              <classRef key="model.headLike" minOccurs="0" maxOccurs="unbounded"/>
+              <classRef key="model.dateLike" minOccurs="0" maxOccurs="1"/>
+              <alternate>
+                <classRef key="model.pLike" minOccurs="1" maxOccurs="unbounded"/>
+                <classRef key="model.labelLike" minOccurs="1" maxOccurs="unbounded"/>
+                <elementRef key="eventName" minOccurs="1" maxOccurs="unbounded"/>
+              </alternate>
+              <alternate minOccurs="0" maxOccurs="unbounded">
+                <classRef key="model.noteLike"/>
+                <classRef key="model.biblLike"/>
+                <elementRef key="linkGrp"/>
+                <elementRef key="link"/>
+                <elementRef key="idno"/>
+                <elementRef key="ptr"/>
+              </alternate>
+              <alternate minOccurs="0" maxOccurs="unbounded">
+                <elementRef key="event" minOccurs="1" maxOccurs="1"/>
+                <elementRef key="listEvent" minOccurs="1" maxOccurs="1"/>
+              </alternate>
+              <alternate minOccurs="0" maxOccurs="unbounded">
+                <classRef key="model.personLike" minOccurs="1" maxOccurs="1"/>
+                <elementRef key="listPerson" minOccurs="1" maxOccurs="1"/>
+              </alternate>
+              <alternate minOccurs="0" maxOccurs="unbounded">
+                <classRef key="model.placeLike" minOccurs="1" maxOccurs="1"/>
+                <elementRef key="listPlace" minOccurs="1" maxOccurs="1"/>
+              </alternate>
+              <classRef key="model.objectLike" minOccurs="0" maxOccurs="unbounded"/>
+              <alternate minOccurs="0" maxOccurs="unbounded">
+                <elementRef key="relation" minOccurs="1" maxOccurs="1"/>
+                <elementRef key="listRelation" minOccurs="1" maxOccurs="1"/>
+              </alternate>
+            </sequence>
+          </content>
+        </elementSpec>
+
+      </schemaSpec>
+    </body>
+  </text>
+</TEI>
